@@ -1,33 +1,43 @@
 # Sponsor the Signal Project
 
-**Signal** is a low-level language written entirely in ARM64 assembly, designed to enforce deterministic execution, eliminate hidden state transitions, and restore full transparency between computation, memory, and control.
-
-It is the execution backbone of **TreeOS** — a new operating system architecture that rejects black-box behavior and embraces verifiable, observable logic from the first instruction onward.
+**Signal** is a low-level programming language written entirely in ARM64 assembly.  
+It is designed for deterministic execution, predictable control flow, and full transparency between memory, logic, and process.  
+Signal is the execution foundation of **TreeOS** — a new operating system architecture that rejects black-box behavior and redefines how systems can be observed and trusted.
 
 ---
 
 ## Why This Matters
 
-Modern software systems are saturated with abstraction layers that obscure fundamental operations.  
-Signal proposes an alternative: **rebuild the system from the silicon upward**, starting with a language that does not lie.
+Modern computing is increasingly opaque.
 
-But this is not a corporate project. It is being built **by a single independent developer**, with no institution, no team, and currently, no dedicated hardware.
+Most systems today hide memory management, scheduler behavior, and runtime decisions behind layers of abstraction and indirect execution.  
+Signal offers an alternative: **a system where every instruction is visible, traceable, and consistent** — and where future AI modules can operate atop a clean, deterministic substrate.
+
+This is not a commercial or institutional project.  
+It is being developed **independently, by a single individual**, without hardware sponsorship, funding, or team support.
 
 ---
 
 ## What Your Support Enables
 
-To continue this work — especially to write and test full assembly logic directly on Apple Silicon — the following hardware is urgently needed:
+To continue development — particularly the testing of real-time ARM64 execution models and future multi-platform behavior — the following hardware is urgently needed:
 
-### Primary Development Device:
+### 1. Primary Development Machine
 
 - **MacBook Pro 14" (M4 Pro, 24GB RAM / 512GB SSD)**  
-  → Dedicated development and verification machine for the Signal runtime and TreeOS subsystems.
+  → Used to write and test native ARM64 Signal code, and to build early-stage execution models for TreeOS.
 
-### Design & Long-form Interface:
+### 2. Architecture Modeling & Conceptual Design
 
-- **iPad Pro 2024 (13") + Magic Keyboard Folio + Apple Pencil Pro**  
-  → Used for handwritten system sketches, AI-integrated workflows, and design development in mobile environments.
+- **iPad Pro 2024 (13",2T SSD) + Magic Keyboard Folio + Apple Pencil Pro**  
+  → Used for handwritten logic modeling, system sketching, and long-form GPT interaction during structural design.
+
+### 3. Dedicated TreeOS Runtime Testbench (Optional but Critical)
+
+- **Razer Blade 18 (2025, RTX 5090 / i9 / 64GB RAM / 4T SSD)**  
+  → If future funding allows, this machine will be fully wiped and used exclusively for TreeOS runtime trials and deterministic environment testing on x86_64 hardware.
+
+> This system will never be used for gaming or personal tasks — only for reproducible builds, memory path tracing, and GPU-based system rendering simulations.
 
 ---
 
@@ -35,11 +45,11 @@ To continue this work — especially to write and test full assembly logic direc
 
 If you believe in:
 
-- Open system design  
-- Deterministic computing  
-- Architectures that prioritize clarity over convenience  
+- System architectures without hidden behavior  
+- Languages that do not lie to the user  
+- Clean, deterministic foundations for AI and OS development  
 
-Then your sponsorship — however small — directly contributes to a future where **users once again understand and trust the machines they use**.
+Then your sponsorship — even symbolic — directly contributes to a future where **users, developers, and machines share the same observable truth**.
 
 ---
 
@@ -61,26 +71,27 @@ Then your sponsorship — however small — directly contributes to a future whe
 
 ## Transparency and Commitment
 
-All contributions will be used **exclusively** for:
+All contributions are strictly allocated for development:
 
-1. Acquiring the above hardware  
-2. Maintaining a minimal development environment  
-3. Purchasing essential tooling (if required)
+1. Acquisition of the listed hardware  
+2. Purchase of essential development tools or licenses  
+3. Sustenance and minimal health costs during continued research
 
-There will be **no personal spending, speculation, or diversion of funds**.  
-Every sponsor supports one thing only: building the cleanest computing foundation possible.
+No donations will be used for luxury, investment, or personal consumption.  
+Receipts and progress updates can be transparently provided on request.
 
 ---
 
 ## In Closing
 
-This project is not a business. It is a line drawn in the sand.
+This is not a business. It is not a product. It is a declaration:
 
-If you’ve ever wished that operating systems could be honest again —  
-if you’ve ever imagined building from zero with only what you can see —  
-this is that opportunity.
+> That system design can be honest.  
+> That architecture can be understood.  
+> That execution paths can be trusted again.
 
-**Thank you for keeping that dream alive.**
+If this vision resonates with you,  
+**your support helps ensure it continues to evolve — one instruction at a time.**
 
 — *Yukiyama Shizuka*
 
