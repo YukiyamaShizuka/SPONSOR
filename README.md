@@ -1,25 +1,33 @@
 # Sponsor the Signal Project
 
-Signal is a low-level language designed from scratch in ARM64 assembly, built to support deterministic system execution and future AI-integrated control layers.  
-It is the foundation layer of TreeOS — a new kind of operating system where memory, control, and logic are fully transparent and traceable.
+**Signal** is a low-level language written entirely in ARM64 assembly, designed to enforce deterministic execution, eliminate hidden state transitions, and restore full transparency between computation, memory, and control.
+
+It is the execution backbone of **TreeOS** — a new operating system architecture that rejects black-box behavior and embraces verifiable, observable logic from the first instruction onward.
 
 ---
 
-## Why Sponsor?
+## Why This Matters
 
-This project is being developed **entirely by an individual**, without institutional funding or hardware sponsorship.  
-To continue development — especially writing and testing full assembly on Apple Silicon — the author hopes to acquire:
+Modern software systems are saturated with abstraction layers that obscure fundamental operations.  
+Signal proposes an alternative: **rebuild the system from the silicon upward**, starting with a language that does not lie.
 
-**A MacBook Air M4 (24GB RAM / 512GB SSD)**  
-This will serve as a dedicated development and test device for low-level code in the Signal/TreeOS environment.
+But this is not a corporate project. It is being built **by a single independent developer**, with no institution, no team, and currently, no dedicated hardware.
 
-In addition, much of the author's creative output — particularly speculative system design and theoretical modeling — arises through extended dialogue with GPT in a handwritten and visual form.  
-To support this process, the following tools are also needed:
+---
 
-- **iPad Pro 2024 (13") + Magic Keyboard Folio + Pencil Pro**  
-  These will be used for outlining architectures, recording GPT discussions, and managing long-form concept development in a mobile-friendly environment.
+## What Your Support Enables
 
-Looking further ahead, there may also be a need for a **TreeOS prototype testing workstation**, once the first generation of the system reaches minimum viable form.
+To continue this work — especially to write and test full assembly logic directly on Apple Silicon — the following hardware is urgently needed:
+
+### Primary Development Device:
+
+- **MacBook Pro 14" (M4 Pro, 24GB RAM / 512GB SSD)**  
+  → Dedicated development and verification machine for the Signal runtime and TreeOS subsystems.
+
+### Design & Long-form Interface:
+
+- **iPad Pro 2024 (13") + Magic Keyboard Folio + Apple Pencil Pro**  
+  → Used for handwritten system sketches, AI-integrated workflows, and design development in mobile environments.
 
 ---
 
@@ -27,39 +35,53 @@ Looking further ahead, there may also be a need for a **TreeOS prototype testing
 
 If you believe in:
 
-- Open architectures that resist black-box logic  
-- New computing paradigms beyond traditional UNIX  
-- Clean, deterministic system design  
+- Open system design  
+- Deterministic computing  
+- Architectures that prioritize clarity over convenience  
 
-Then your support, no matter how small, helps sustain the effort.
+Then your sponsorship — however small — directly contributes to a future where **users once again understand and trust the machines they use**.
 
 ---
 
 ## Donation Methods
 
-- **WeChat Pay** (scan below):
+### WeChat Pay:
 
-  ![Sponsor via WeChat](./sponsor.jpg)
+<img src="./sponsor.jpg" alt="Sponsor via WeChat" width="300"/>
 
-- **PayPal**: *shizuka@treeos.art*  
-- **Email Contact**: *shizuka@treeos.art*
+### PayPal:
 
----
+**shizuka@treeos.art**
 
-## Transparency
+### Contact:
 
-Any funds received will be transparently documented and used exclusively for:
-
-1. Acquiring the above development hardware  
-2. Purchasing necessary development tools or compiler licenses (if needed)  
-3. Sustaining the author's basic health needs during research  
-
-No donations will be used for entertainment, speculation, or non-project expenses.
+**shizuka@treeos.art**
 
 ---
 
-Thank you for helping build the future of open, deterministic systems.
+## Transparency and Commitment
 
-— Yukiyama Shizuka
+All contributions will be used **exclusively** for:
 
-*For those who resonate with the work, and wish to share a part of the path.*
+1. Acquiring the above hardware  
+2. Maintaining a minimal development environment  
+3. Purchasing essential tooling (if required)
+
+There will be **no personal spending, speculation, or diversion of funds**.  
+Every sponsor supports one thing only: building the cleanest computing foundation possible.
+
+---
+
+## In Closing
+
+This project is not a business. It is a line drawn in the sand.
+
+If you’ve ever wished that operating systems could be honest again —  
+if you’ve ever imagined building from zero with only what you can see —  
+this is that opportunity.
+
+**Thank you for keeping that dream alive.**
+
+— *Yukiyama Shizuka*
+
+> *“Not faster. Not louder. Just cleaner.”*
