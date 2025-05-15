@@ -14,7 +14,7 @@ This is not a luxury setup. It is the **lowest friction, fully deterministic dev
 
 ---
 
-## Target Equipment (¥149,600 ≈ $20,600)
+## Target Equipment
 
 | Item | Purpose |
 |------|---------|
