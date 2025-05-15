@@ -49,6 +49,14 @@ No shares are offered. No IP is for sale. No institutional expectations apply.
 
 If you support it, you will be remembered as the person who lit the first match.
 
+## Development Update – May 2025
+
+Due to final exams and summer fieldwork obligations, development will temporarily slow down.
+
+Full focus on TreeOS / Signal / SapClarify will resume in the summer (from July onward), with all core architecture work continuing as planned.
+
+Thank you for your patience and quiet support.
+
 Thank you.
 
 — *Yukiyama Shizuka*
