@@ -27,11 +27,6 @@ This is not a luxury setup. It is the **lowest friction, fully deterministic dev
 | **Magic Trackpad / Magic Keyboard** | Interface control for parallel navigation |
 | **Smart Folio (iPad)** | Field sketch protection |
 | **Desk 140×60 cm** | Dedicated summer workspace |
-
-**Reason for Request – Pro Display XDR**
-
-Used for parallel system-level thinking and real-time debugging.  
-Essential for viewing multiple logic paths and terminal flows side by side with high clarity.
 ---
 
 ## Screenshots
