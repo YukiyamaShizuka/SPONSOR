@@ -59,3 +59,5 @@ Thank you for your patience and quiet support.
 Thank you.
 
 — *Yukiyama Shizuka*
+
+*Note: The listed Apple devices represent the currently available platforms that offer the required performance benchmarks for architecture validation (e.g., large-scale memory flow tests, high-fidelity display stack debugging). Equivalent alternatives on Windows or Linux are fully viable if comparable specifications are met.*
