@@ -26,7 +26,6 @@ The proposed structure consists of three distinct platforms:
   - RTX 5090 Laptop GPU
   - 64–128GB DDR5 RAM
   - Air-cooled chassis
-  - Preinstalled Windows 10 Pro
 
 ---
 
