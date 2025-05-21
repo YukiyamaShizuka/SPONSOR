@@ -62,13 +62,12 @@ The proposed structure consists of three distinct platforms:
 ## Display Requirements
 
 Signal and TreeOS require constant observation of:
-
-- Token vector resolution
-- Path compression overlays
-- Multi-layer UI trace depth
-- SapClarify behavior decomposition
-
-Thus, visual output must prioritize **clarity, non-distortion, and long-session cognitive focus**.
+	•	Token vector resolution  
+	•	Path compression overlays  
+	•	Multi-layer UI trace depth  
+	•	SapClarify behavior decomposition  
+	•	Function-based symbolic image experiments requiring subpixel precision and stability across high-resolution output layers  
+Thus, visual output must prioritize clarity, non-distortion, and long-session cognitive focus.
 
 - **Recommended Configuration**:
   - 2× ASUS ProArt PA32KCX or equivalent
