@@ -1,6 +1,6 @@
-# Sponsor the Signal Project
+# Sponsor the Tree Project
 
-**Signal** is a low-level programming language written entirely in ARM64 assembly. 
+**Signal** is a low-level programming language written in ARM64 and X86-64. 
 It is designed for deterministic execution, predictable control flow, and full transparency between memory, logic, and process.  
 Signal is the execution foundation of **TreeOS** — a new operating system architecture that rejects black-box behavior and redefines how systems can be observed and trusted.
 
