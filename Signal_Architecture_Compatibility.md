@@ -50,7 +50,7 @@ To ensure full structure-level execution, including integration of TreeOS, SapCl
 - **CPU**: AMD Threadripper PRO 7995WX / Intel Xeon W-3400 series
 - **Memory**: 1TB–2TB ECC DDR5 RAM
 - **GPU**: RTX 6000 Ada (single or dual card with NVLink, if available)
-- **Storage**: 4TB+ Gen4 NVMe SSD, optional RAID redundancy
+- **Storage**: 4TB+ Gen5 NVMe SSD, optional RAID redundancy
 - **Cooling**: Full air cooling, no liquid systems; workstation-class thermal management
 - **Chassis**: Non-gaming tower design, no RGB, minimal noise
 
