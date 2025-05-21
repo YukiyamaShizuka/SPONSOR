@@ -49,10 +49,10 @@ The proposed structure consists of three distinct platforms:
 - **Purpose**: Verify AI-assisted structure construction, GPT-driven path resolution, SapClarify integration feedback, and multi-agent control protocols.
 - **Reasoning**: Provides GPU parallelism, ECC stability, and long-duration system structure testing without resource bottlenecks.
 - **Suggested Configuration**:
-  - Dual AMD Threadripper PRO or Xeon W9 (or dual 7995WX)
+  - Dual EPYC or Xeon
   - 2–4TB ECC DDR5 RAM
-  - 2–4× RTX 6000 Ada (NVLink enabled)
-  - 8TB+ SSD (RAID optional)
+  - 4× RTX 6000 Ada or Blackwell (NVLink enabled)
+  - 8TB+ Gen5 SSD (RAID optional)
   - UPS-backed, air-cooled, datacenter-grade acoustic shielding
   - Preinstalled Windows 10 Pro
   - Fully enclosed chassis, no gaming aesthetics
