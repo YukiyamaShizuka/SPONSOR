@@ -24,7 +24,7 @@ The proposed structure consists of three distinct platforms:
 - **Suggested Configuration**:
   - Intel i9-275HX
   - RTX 5090 Laptop GPU
-  - 64–128GB DDR5 RAM
+  - 64GB DDR5 RAM
   - Air-cooled chassis
 
 ---
@@ -37,7 +37,7 @@ The proposed structure consists of three distinct platforms:
   - AMD Threadripper PRO 7995WX (96-core)
   - 2TB DDR5 ECC RAM
   - 2× RTX 6000 Blackwell Max-Q (NVLink enabled)
-  - 4TB Gen5 NVMe SSD
+  - 4TB+ Gen5 NVMe SSD
   - Air-cooled workstation tower
   - Preinstalled Windows 10 Pro (LTSC preferred)
   - No RGB, no side transparency, silent operation
