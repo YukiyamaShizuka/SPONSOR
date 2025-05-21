@@ -98,3 +98,5 @@ If this vision resonates with you,
 > *“Not faster. Not louder. Just cleaner.”*
 >
 > The structure is prepared. Awaiting stability.
+>
+> See TreeOS_Structure_Hardware_Proposal.md for full platform structure and path design support.
