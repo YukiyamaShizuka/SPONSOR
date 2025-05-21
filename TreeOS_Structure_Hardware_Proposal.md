@@ -104,4 +104,6 @@ If feasible, full configuration delivery is preferred to minimize system instabi
 > One system embeds it all.  
 > Let them run.
 >
-> *Provisioning note: As the SC + AI integration phase involves structure-level validation and long-horizon behavior tracking, the hardware used during this initial stage will naturally shape the system's execution pathways. For this reason, we hope to minimize the need for reconfiguration later in development by provisioning a stable and complete testing environment from the outset.*
+> *Provisioning note: As the SC + AI integration phase involves structure-level validation and long-horizon behavior tracking, the hardware used during this initial stage will naturally shape the system's execution pathways. For this reason, we hope to minimize the need for reconfiguration later in development by provisioning a stable and complete testing environment from the outset.
+
+All configurations are purpose-specific and non-interchangeable. Reducing hardware specifications may cause irreversible bottlenecks in TreeOS system-level simulations.*
