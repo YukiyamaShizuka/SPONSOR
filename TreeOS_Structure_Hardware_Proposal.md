@@ -49,7 +49,7 @@ The proposed structure consists of three distinct platforms:
 - **Purpose**: Verify AI-assisted structure construction, GPT-driven path resolution, SapClarify integration feedback, and multi-agent control protocols.
 - **Reasoning**: Provides GPU parallelism, ECC stability, and long-duration system structure testing without resource bottlenecks.
 - **Suggested Configuration**:
-  - Dual EPYC or Xeon
+  - Dual Xeon 8490H
   - 4TB ECC DDR5 RAM
   - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
   - 8TB+ Gen5 SSD (RAID optional)
