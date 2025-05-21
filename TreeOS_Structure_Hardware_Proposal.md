@@ -36,7 +36,7 @@ The proposed structure consists of three distinct platforms:
 - **Suggested Configuration**:
   - AMD Threadripper PRO 7995WX (96-core)
   - 2TB DDR5 ECC RAM
-  - 2× RTX 6000 Ada or Blackwell (NVLink optional)
+  - 2× RTX 6000 Blackwell Max-Q(NVLink optional)
   - 4TB Gen5 NVMe SSD
   - Air-cooled workstation tower
   - Preinstalled Windows 10 Pro (LTSC preferred)
@@ -51,7 +51,7 @@ The proposed structure consists of three distinct platforms:
 - **Suggested Configuration**:
   - Dual EPYC or Xeon
   - 2–4TB ECC DDR5 RAM
-  - 4× RTX 6000 Ada or Blackwell (NVLink enabled)
+  - 4× RTX 6000 Blackwell Max-Q(NVLink enabled)
   - 8TB+ Gen5 SSD (RAID optional)
   - UPS-backed, air-cooled, datacenter-grade acoustic shielding
   - Preinstalled Windows 10 Pro
