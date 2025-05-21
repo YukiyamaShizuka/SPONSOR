@@ -66,7 +66,8 @@ Signal and TreeOS require constant observation of:
 	•	Path compression overlays  
 	•	Multi-layer UI trace depth  
 	•	SapClarify behavior decomposition  
-	•	Function-based symbolic image experiments requiring subpixel precision and stability across high-resolution output layers  
+	•	Function-based symbolic image experiments requiring subpixel precision and stability across high-resolution output layers.
+ 
 Thus, visual output must prioritize clarity, non-distortion, and long-session cognitive focus.
 
 - **Recommended Configuration**:
