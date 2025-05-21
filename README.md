@@ -100,3 +100,6 @@ If this vision resonates with you,
 > The structure is prepared. Awaiting stability.
 >
 > See TreeOS_Structure_Hardware_Proposal.md for full platform structure and path design support.
+>
+> This structure is optimized for the execution, evaluation, and internal integration of TreeOS.  
+Any reduction in specification is not recommended, as it may invalidate multi-stage verification.  
