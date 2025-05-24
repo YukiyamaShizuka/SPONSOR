@@ -18,28 +18,6 @@ It is being developed **independently, by a single individual**, without hardwar
 
 ---
 
-## What Your Support Enables
-
-To continue development — particularly the testing of real-time ARM64 execution models and future multi-platform behavior — the following hardware is urgently needed:
-
-### 1. Primary Development Machine
-
-- **MacBook Pro 14" (M4 Pro, 24GB RAM / 512GB SSD)**  
-  → Used to write and test native ARM64 Signal code, and to build early-stage execution models for TreeOS.
-
-### 2. Architecture Modeling & Conceptual Design
-
-- **iPad Pro 2024 (13",2T SSD) + Magic Keyboard Folio + Apple Pencil Pro**  
-  → Used for handwritten logic modeling, system sketching, and long-form GPT interaction during structural design.
-
-### 3. Dedicated TreeOS Runtime Testbench (Optional but Critical)
-
-- **Razer Blade 18 (2025, RTX 5090 / i9 / 64GB RAM / 4T SSD)**  
-  → If future funding allows, this machine will be fully wiped and used exclusively for TreeOS runtime trials and deterministic environment testing on x86_64 hardware.
-
-> This system will never be used for gaming or personal tasks — only for reproducible builds, memory path tracing, and GPU-based system rendering simulations.
-
----
 
 ## How You Can Help
 
@@ -52,8 +30,6 @@ If you believe in:
 Then your sponsorship — even symbolic — directly contributes to a future where **users, developers, and machines share the same observable truth**.
 
 ---
-
-## Donation Methods
 
 ### WeChat Pay:
 
