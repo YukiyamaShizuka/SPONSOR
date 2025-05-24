@@ -35,7 +35,7 @@ The proposed structure consists of three distinct platforms:
 - **Purpose**: Execute full TreeOS and Signal runtime in long-session structure simulation, GPT trace overlay tests, and memory lifecycle experiments.
 - **Reasoning**: High-bandwidth, ECC-secured memory and dual GPU acceleration without datacenter complexity.
 - **Suggested Configuration**:
-  - AMD Threadripper PRO 7995WX (96-core)
+  - AMD Threadripper PRO 9995WX (96-core)
   - 2TB DDR5 ECC RAM
   - 3× RTX 6000 Blackwell Max-Q (NVLink enabled)
   - 4× 4TB Gen5 NVMe SSD (non-RAID)
@@ -50,7 +50,8 @@ The proposed structure consists of three distinct platforms:
 - **Purpose**: Verify AI-assisted structure construction, GPT-driven path resolution, SapClarify integration feedback, and multi-agent control protocols.
 - **Reasoning**: Provides GPU parallelism, ECC stability, and long-duration system structure testing without resource bottlenecks.
 - **Suggested Configuration**:
-  - Dual Intel Xeon Platinum 8490H (Sapphire Rapids, 2×60 cores, 240 threads)
+  - Dual Intel Xeon Platinum 8593Q
+  - (Sapphire Rapids, 2×64 cores, 256 threads)
   - 4TB ECC DDR5 RAM
   - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
   - 4× 8TB Gen5 NVMe SSD (non-RAID)
