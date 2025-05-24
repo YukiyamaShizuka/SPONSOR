@@ -12,23 +12,22 @@ This document outlines a three-tier hardware platform designed to support the de
 The system does **not** require GPU-based AI training, consumer-oriented design, or server-class datacenter deployment. It requires **deterministic compute structure, high memory bandwidth, and path visualization stability**.
 
 ---
-
-Platform 0 – Surface Pro 11 Ultra 7 (Sketch & Diagram Terminal)
-	•	Purpose: Real-time hand-drawn diagramming of execution paths, signal lifecycles, and UI interaction layouts using pen-based input.
-	•	Reasoning: Immediate sketch response with low-latency inking and native Windows compatibility ensures fluid architectural iteration and draft control flow recording.
-	•	Suggested Configuration:
-	•	Intel Core Ultra 7 268V (Meteor Lake)
-	•	32GB RAM
-	•	1TB SSD Storage
-	•	13” Touchscreen
-	•	Surface Slim Pen 2 (with haptic feedback)
-	•	Windows 11 Pro
-	•	Fully passive cooling acceptable
-
-
 ## Platform Structure Overview
 
 The proposed structure consists of three distinct platforms:
+
+### Platform 0 – Surface Pro 11 Ultra 7 (Sketch & Diagram Terminal)
+
+- **Purpose**: Real-time hand-drawn diagramming of execution paths, signal lifecycles, and UI interaction layouts using pen-based input.
+- **Reasoning**: Immediate sketch response with low-latency inking and native Windows compatibility ensures fluid architectural iteration and draft control flow recording.
+- **Suggested Configuration**:
+  - Intel Core Ultra 7 268V (Meteor Lake)
+  - 32GB RAM
+  - 1TB SSD Storage
+  - 13" Touchscreen
+  - Surface Slim Pen 2 (with haptic feedback)
+  - Windows 11 Pro
+  - Fully passive cooling acceptable
 
 ### 1. Experimental Platform – *Gunslinger 9 (Laptop)*
 
