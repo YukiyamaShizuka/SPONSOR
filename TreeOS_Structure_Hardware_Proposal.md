@@ -38,7 +38,7 @@ The proposed structure consists of three distinct platforms:
   - AMD Threadripper PRO 9995WX (96-core)
   - 2TB DDR5 ECC RAM
   - 3× RTX 6000 Blackwell Max-Q (NVLink enabled)
-  - 4× 4TB Gen5 NVMe SSD (non-RAID)
+  - 4× 4TB PCIe5.0 NVMe SSD (non-RAID)
   - Air-cooled workstation tower
   - Preinstalled Windows 10 Pro (LTSC preferred)
   - No RGB, no side transparency, silent operation
@@ -51,10 +51,10 @@ The proposed structure consists of three distinct platforms:
 - **Reasoning**: Provides GPU parallelism, ECC stability, and long-duration system structure testing without resource bottlenecks.
 - **Suggested Configuration**:
   - 2× Intel Xeon Platinum 8593Q
-  - (Sapphire Rapids, 2×64 cores, 256 threads)
+  (Sapphire Rapids, 2×64 cores, 256 threads)
   - 4TB ECC DDR5 RAM
   - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
-  - 4× 8TB Gen5 NVMe SSD (non-RAID)
+  - 4× 8TB PCIe5.0 NVMe SSD (non-RAID)
   - UPS-backed, air-cooled, datacenter-grade acoustic shielding
   - Preinstalled Windows 10 Pro
   - Fully enclosed chassis, no gaming aesthetics
