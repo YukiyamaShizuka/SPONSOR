@@ -3,13 +3,21 @@
 
 ## Purpose
 
-This document outlines a three-tier hardware platform designed to support the development, simulation, and verification of a system-level execution architecture composed of:
+This document outlines a hardware platform designed to support the development, simulation, and verification of a system-level execution architecture composed of:
 
-- **TreeOS**: a leaf-based, deterministic operating system
-- **Signal**: a path-structured, instruction-level language
-- **SapClarify**: a semantic-to-path interpretation protocol for integrating human or model intentions into executable system structure
+- **TreeOS**: a deterministic operating system based on a leaf-structured execution model. Each "leaf" represents a self-contained, statically scheduled unit of computation, with clear memory boundaries and non-overlapping execution states. TreeOS ensures all system behavior is traceable, predictable, and non-probabilistic.
 
-The system does **not** require GPU-based AI training, consumer-oriented design, or server-class datacenter deployment. It requires **deterministic compute structure, high memory bandwidth, and path visualization stability**.
+- **Signal**: a path-structured language derived from hardware instruction set principles. Unlike conventional programming languages, Signal operates at the intersection of memory topology and executable flow, expressing computation as spatially anchored, vector-like paths. Every operation is deterministic, lifecycle-bounded, and free of hidden state mutation. Signal replaces abstraction with structure—code is not interpreted, but emitted as physical execution geometry.
+
+- **SapClarify (SC)**: a semantic-to-path protocol that enables machine-originated or human-authored intent to be translated into executable system structure. Rather than acting as a controller or runtime scheduler, SC serves as a deterministic interface through which AI models can communicate with low-level systems in a mechanically interpretable form. SC removes ambiguity between cognitive output and system action, embedding AI-driven intent directly into execution trees.
+
+This system is not intended for GPU-based AI training, end-user interface design, or datacenter-class orchestration. Instead, it requires:
+
+- Deterministic execution architecture  
+- High-bandwidth, low-latency memory structures  
+- Runtime stability under structural observation and path-based computation  
+
+Its purpose is not to extend current paradigms, but to prototype a system where **intention becomes structure**, and **structure becomes execution**.
 
 ---
 ## Platform Structure Overview
