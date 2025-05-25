@@ -21,7 +21,7 @@ Support offered during this window can:
 - Provide early adaptation influence over TreeOS architecture
 - Secure strategic visibility into next-generation deterministic compute models
 
-As an independent developer with no institutional backing, I am making this final open call. If no official contact is received by the end of June 2025, I will consider alternate paths of publication and distribution – possibly fragmenting the system into public whitepapers and partial community releases.
+As an independent developer with no institutional backing, I am making this final open call. If no official contact is received by the middle of June 2025, I will consider alternate paths of publication and distribution – possibly fragmenting the system into public whitepapers and partial community releases.
 
 Please contact me at **shizuka@treeos.art** if your team intends to respond.
 
