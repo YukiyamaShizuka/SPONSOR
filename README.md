@@ -78,4 +78,6 @@ If this vision resonates with you,
 > See TreeOS_Structure_Hardware_Proposal.md for full platform structure and path design support.
 >
 > This structure is optimized for the execution, evaluation, and internal integration of TreeOS.  
-Any reduction in specification is not recommended, as it may invalidate multi-stage verification.  
+Any reduction in specification is not recommended, as it may invalidate multi-stage verification.
+>
+> [→ Sponsor Follow-Up Document](./Sponsor_Request_Follow_Up.md)
