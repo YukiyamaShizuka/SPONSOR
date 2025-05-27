@@ -10,12 +10,67 @@ Signal is the execution foundation of **TreeOS** — a new operating system arch
 
 Modern computing is increasingly opaque.
 
-Most systems today hide memory management, scheduler behavior, and runtime decisions behind layers of abstraction and indirect execution.  
-Signal offers an alternative: **a system where every instruction is visible, traceable, and consistent** — and where future AI modules can operate atop a clean, deterministic substrate.
+Most contemporary systems rely on hidden memory managers, dynamic schedulers, layered runtime interpreters, speculative branches, and background daemons — creating a world where **execution is no longer traceable, repeatable, or fully understood**, even by its developers.
 
-This is not a commercial or institutional project.  
-It is being developed **independently, by a single individual**, without hardware sponsorship, funding, or team support.
+This project — composed of **TreeOS**, **Signal**, and **SapClarify** — proposes a fundamentally different path.
 
+---
+
+### TreeOS: Deterministic System Execution
+
+TreeOS is a structurally transparent operating system where:
+- All processes are organized as **leaf-based execution trees**, with strict lifecycle control.
+- Memory allocation, computation flow, and process timing are **fully deterministic** and visible.
+- There are **no background threads, no invisible daemons, no runtime interference**.
+
+It ensures that what runs is exactly what was declared — nothing more, nothing hidden.
+
+---
+
+### Signal: Transparent Instruction Language
+
+Signal is a low-level execution language designed for:
+- **Explicit data flow and memory locality** — no global variables, no side effects.
+- **Instruction paths that match physical execution**, enabling hardware-aligned computation.
+- Code that is **traceable, sandboxed, and compile-time verifiable**, without relying on complex runtimes or dynamic interpreters.
+
+With Signal, every instruction can be followed, reasoned about, and visualized.
+
+---
+
+### SapClarify: AI-Executable Intent Layer
+
+SapClarify is a semantic-to-execution protocol that:
+- Translates **human or AI-level intents** into deterministic Signal paths.
+- Provides a clean, machine-readable interface for AI modules to generate code without hidden dependencies.
+- Removes the need for cloud-based inference, GPU-bound execution, or probabilistic planning.
+
+It allows **AI agents to act as deterministic participants in system execution**, not just external services.
+
+---
+
+### A Fully Transparent Computing Stack
+
+Together, these three components form a system where:
+- **Every layer is inspectable**;
+- **Every action is deterministic**;
+- **Every outcome is reproducible**.
+
+No speculative execution. No garbage collection mysteries. No runtime black boxes.
+
+This is the foundation for **a new generation of trustworthy, AI-compatible computing systems**.
+
+---
+
+### Independent and Unfunded
+
+This is not a corporate product.  
+It is not institutionally sponsored.  
+It is developed **entirely by a single independent architect**, with no funding, no hardware sponsorship, and no development team — purely out of the belief that computing should once again be transparent, understandable, and fair.
+
+You are welcome to observe, clone, simulate, or build on it — but the direction is already clear:
+
+> **Computing must return to clarity.**
 ---
 
 
