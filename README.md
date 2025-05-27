@@ -1,8 +1,64 @@
 # Sponsor the Tree Project
 
-**Signal** is a low-level programming language written in ARM64 and X86-64. 
-It is designed for deterministic execution, predictable control flow, and full transparency between memory, logic, and process.  
-Signal is the execution foundation of **TreeOS** — a new operating system architecture that rejects black-box behavior and redefines how systems can be observed and trusted.
+## Execution Stack Overview: TreeOS, Signal, and SapClarify
+
+### Signal — Deterministic Instruction Language
+
+**Signal** is a low-level programming language written directly in ARM64 or x86-64 instruction sets.  
+It is designed for **deterministic execution**, **predictable control flow**, and **transparent binding between memory and logic**.
+
+Unlike traditional languages that rely on complex runtimes and hidden state, Signal enforces:
+- statically defined data paths,
+- explicit memory-local operations,
+- and physically traceable instruction sequences.
+
+This allows for **full observability** of program behavior at the lowest level, enabling reproducible computation and eliminating runtime ambiguity. Signal is not merely a language — it is a formal declaration that every instruction must be visible, consistent, and bounded.
+
+---
+
+### TreeOS — Transparent Execution Architecture
+
+**TreeOS** is a new operating system architecture that eliminates all black-box execution.  
+It structures all processes as **leaf-based execution trees**, where each process has a clearly defined entry, lifespan, memory scope, and termination point.
+
+TreeOS rejects:
+- background daemons,
+- implicit task spawning,
+- hidden scheduling layers,
+- and dynamic memory mutations.
+
+Instead, it ensures that every system behavior is **explicitly declared and structurally accountable**.  
+By making process structure and memory layout fully inspectable, TreeOS offers a platform where developers, researchers, and even AI agents can **reason about the system state without guessing**.
+
+---
+
+### SapClarify — Semantic-to-Instruction Bridge
+
+**SapClarify** connects high-level semantics — whether from human logic or AI generation — directly to Signal instruction sets.  
+It is not a compiler, but a **bounded translation protocol** that ensures all semantic intents result in **deterministic, verifiable behavior**.
+
+SapClarify eliminates the need for:
+- cloud inference engines,
+- probabilistic runtime decisions,
+- or heuristic execution.
+
+Instead, it allows autonomous agents to function **as transparent actors within the same system**, generating behavior that is both structurally valid and inspectable at runtime.
+
+---
+
+## Unified, Indivisible Design
+
+TreeOS, Signal, and SapClarify are **structurally interdependent**. Each provides a critical pillar:
+
+- **Signal** defines the “how” — exact execution rules.
+- **TreeOS** defines the “when” and “where” — system-wide structure and timing.
+- **SapClarify** defines the “why” — semantic context for execution.
+
+No layer is optional. Removing or substituting any part breaks the guarantees of determinism, transparency, and integration.  
+Together, they represent a computing model that is **fully observable from semantic intent to hardware-level effect** — the first step toward truly trustworthy execution.
+
+Looking to support the development of TreeOS and Signal?
+→ [View hardware sponsorship request](./Hardware_Sponsorship_Request_TreeOS.md)
 
 ---
 
