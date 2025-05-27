@@ -72,6 +72,13 @@ This system is being built by one developer — transparently, locally, and full
 If you choose to support this environment, you are not enabling productivity.  
 You are enabling the construction of a system **where structure is truth**, and **truth is executable.**
 
+*Note: The execution stack will be fully implemented on whichever platform confirms sponsorship first.  
+That platform will become the canonical host for TreeOS structure validation.*
+
+*If you're evaluating internal feasibility for supporting the execution stack (TreeOS / Signal / SapClarify),  
+feel free to contact me directly for low-friction coordination.  
+Contact options are listed README.*
+
 Thank you for your consideration.
 
 — *Yukiyama Shizuka*  
