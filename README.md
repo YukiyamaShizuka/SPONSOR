@@ -57,8 +57,8 @@ TreeOS, Signal, and SapClarify are **structurally interdependent**. Each provide
 No layer is optional. Removing or substituting any part breaks the guarantees of determinism, transparency, and integration.  
 Together, they represent a computing model that is **fully observable from semantic intent to hardware-level effect** — the first step toward truly trustworthy execution.
 
-Looking to support the development of TreeOS and Signal?
-→ [View hardware sponsorship request](./Hardware_Sponsorship_Request_TreeOS.md)
+**Help bring TreeOS, Signal, and SapClarify into physical execution.**  
+→ **[View hardware sponsorship request](./Hardware_Sponsorship_Request_TreeOS.md)**
 
 ---
 
