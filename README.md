@@ -88,7 +88,7 @@ Then your sponsorship — even symbolic — directly contributes to a future whe
 
 ### Contact me via Facebook:
 
-https://m.facebook.com/p/Yukiyama-Shizuka-61565367084889/?wtsid=rdr_0lyC02py4uNmcBeZu
+https://m.facebook.com/profile.php?id=61565367084889
 
 ### Contact me via Telegram:
 
