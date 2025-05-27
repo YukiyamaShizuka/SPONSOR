@@ -86,15 +86,15 @@ Then your sponsorship — even symbolic — directly contributes to a future whe
 
 ---
 
+### Contact me via Telegram:
+
+<img src="./IMG_1895.jpeg" alt="Contact with WeChat" width="300"/>
+
 ### Contact me via WeChat:
 
 <img src="./IMG_1894.jpeg" alt="Contact with WeChat" width="300"/>
 
-### PayPal:
-
-**shizuka@treeos.art**
-
-### Contact:
+### Contact me via Email:
 
 **shizuka@treeos.art**
 
