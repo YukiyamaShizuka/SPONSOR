@@ -86,6 +86,10 @@ Then your sponsorship — even symbolic — directly contributes to a future whe
 
 ---
 
+### Contact me via Facebook:
+
+https://www.facebook.com/share/1BUR4ugqRe/?mibextid=wwXIfr
+
 ### Contact me via Telegram:
 
 <img src="./IMG_1895.jpeg" alt="Contact with WeChat" width="300"/>
