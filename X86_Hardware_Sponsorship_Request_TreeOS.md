@@ -73,7 +73,7 @@ This platform is the **central execution hub** for the full system. TreeOS requi
 
 ---
 
-## Platform 3 – Lenovo ThinkSystem PX (AI Integration Node)
+## Platform 3 – Lenovo ThinkStation PX (AI Integration Node)
 
 **Purpose**:  
 Performs AI-guided SapClarify structure construction, multi-agent intent resolution, and long-horizon execution under deterministic constraints.
