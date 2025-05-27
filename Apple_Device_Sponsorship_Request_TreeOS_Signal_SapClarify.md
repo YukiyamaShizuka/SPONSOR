@@ -77,7 +77,7 @@ That platform will become the canonical host for TreeOS structure validation.*
 
 *If you're evaluating internal feasibility for supporting the execution stack (TreeOS / Signal / SapClarify),  
 feel free to contact me directly for low-friction coordination.  
-Contact options are listed at the README.*
+Contact options are listed in the [README](./README.md).*
 
 Thank you for your consideration.
 
