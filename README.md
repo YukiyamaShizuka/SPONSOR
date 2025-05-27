@@ -31,9 +31,9 @@ Then your sponsorship — even symbolic — directly contributes to a future whe
 
 ---
 
-### WeChat Pay:
+### Contact with WeChat:
 
-<img src="./sponsor.jpg" alt="Sponsor via WeChat" width="300"/>
+<img src="./IMG_1894.jpeg" alt="Contact with WeChat" width="300"/>
 
 ### PayPal:
 
