@@ -1,4 +1,4 @@
-# Hardware Sponsorship Request – TreeOS Execution Stack  
+# X86 Hardware Sponsorship Request – TreeOS Execution Stack  
 **Date:** 2025-05-26  
 
 ---
