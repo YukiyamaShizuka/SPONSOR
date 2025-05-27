@@ -1,4 +1,4 @@
-# TreeOS Structure Hardware Proposal  
+# Hardware Sponsorship Request TreeOS
 *Date: 2025-05-20*
 
 ## Purpose
