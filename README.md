@@ -86,7 +86,7 @@ Then your sponsorship — even symbolic — directly contributes to a future whe
 
 ---
 
-### Contact with WeChat:
+### Contact me via WeChat:
 
 <img src="./IMG_1894.jpeg" alt="Contact with WeChat" width="300"/>
 
