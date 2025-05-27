@@ -1,126 +1,138 @@
 # Hardware Sponsorship Request – TreeOS Execution Stack  
-**Date:** 2025-05-20  
+**Date:** 2025-05-26  
 
 ---
 
 ## Overview
 
-This document outlines a proposed hardware foundation to support the development, simulation, and verification of a new execution architecture composed of:
+This document outlines a hardware platform request to support the development and physical realization of a fully deterministic, structure-driven execution stack composed of:
 
-- **TreeOS** — a deterministic operating system based on leaf-structured execution trees. Each leaf represents a statically scheduled, self-contained process with strict memory boundaries and non-overlapping execution states. TreeOS guarantees complete behavioral traceability, predictable transitions, and non-probabilistic control flow.
+- **TreeOS** — a non-probabilistic operating system based on leaf-structured process trees. Each "leaf" represents a statically scheduled unit of computation with defined memory scope and lifecycle boundaries. TreeOS eliminates hidden runtime behavior.
 
-- **Signal** — a path-structured language derived from hardware-level execution principles. Unlike conventional languages, Signal encodes computation as spatially anchored, vector-oriented flows. Each operation is deterministic, lifecycle-bounded, and free of implicit state mutation. It replaces abstraction with structure: code is emitted as observable, physical execution geometry.
+- **Signal** — a low-level path-structured language that directly encodes spatial execution geometry. It replaces abstraction with deterministic flow, making all instruction logic traceable and lifecycle-bounded. Signal operates directly on ARM64 and x86-64 instruction sets.
 
-- **SapClarify** — a semantic-to-path protocol enabling deterministic translation of machine-generated or human-authored intent into executable system structure. Rather than functioning as a controller or runtime layer, SapClarify acts as a direct communication interface between AI logic and the operating substrate, removing ambiguity between cognitive output and system action.
+- **SapClarify** — a semantic-to-path interface protocol enabling structured communication between AI systems and executable machine logic. It deterministically maps intent into low-level execution form without relying on heuristic control, inference graphs, or cloud abstractions.
+
+These components form a unified computing stack — where **intent becomes structure**, and **structure becomes execution** — requiring precise, transparent hardware-level support.
 
 ---
 
-## Platform 0 – *Sketch & Diagram Terminal*
+## Platform 0 – Surface Pro 11 Ultra 7 (Sketch & Diagram Terminal)
 
 **Purpose**:  
-Used for real-time hand-drawn semantic sketching, path layout design, and interaction modeling. It operates as the front-end concept layer for SapClarify translation and UI path tracing.
+Used for real-time hand-drawn diagramming of execution paths, signal lifecycles, and UI interaction layouts via stylus input.
 
 **Suggested Configuration**:
-- Intel Core Ultra 7 268V
+- Intel Core Ultra 7 268V (Meteor Lake)
 - 32GB RAM
 - 1TB SSD
-- 13" touchscreen
+- 13” touchscreen
 - Surface Slim Pen 2
 - Windows 11 Pro
+- Fully passive cooling acceptable
 
 **Why This Configuration**:  
-Sketching execution structure requires **extremely low input latency**, precise stylus feedback, and stable multitasking for visualizing transitions in SapClarify-generated structures. The device must be Windows-native to ensure compatibility with internal tools. Passive cooling reduces fan noise during long sessions of sketch feedback. 32GB RAM ensures layer-based rendering tools and Signal micro-simulators can operate concurrently with UI drafting.
+Semantic design in SapClarify begins with structural sketching. Surface Pro 11 Ultra 7 offers the required **latency-free stylus input**, tight pen-tracking integration with the OS, and a foldable form factor ideal for architectural sketching. 32GB RAM ensures stable operation of lightweight simulation models during design. Passive cooling allows for **distraction-free, silent operation** during long semantic iteration sessions.
 
 ---
 
-## Platform 1 – *Experimental Platform (Mobile)*
+## Platform 1 – Gunslinger 9 (Mobile Experimental Platform)
 
 **Purpose**:  
-Used for firmware-level SapClarify prototyping, mobile testing of early boot structures, and hands-on debugging of signal execution traces.
+Used for mobile prototyping of SapClarify, live testing of firmware and boot structures, and early tracing of Signal runtime.
 
 **Suggested Configuration**:
 - Intel Core i9-275HX
 - RTX 5090 Laptop GPU
 - 64GB DDR5 RAM
 - 2TB NVMe SSD
-- Air-cooled chassis with removable rear D-shell
+- Removable rear D-shell (user-serviceable)
+- Windows 11 Pro
+- Air-cooled chassis (non-liquid)
 
 **Why This Configuration**:  
-This machine functions as the **first point of translation from abstract structure to executable path**. The removable rear D-shell and accessible M.2 SSD allow rapid OS swap and runtime inspection. High RAM ensures SapClarify and TreeOS prototype environments can be compiled and stress-tested locally. The RTX GPU is used not for deep learning but for **real-time signal rendering and execution overlays**. Air cooling ensures reliability across field sessions without thermal throttling.
+The Gunslinger 9 is a **field-portable prototyping station** with easy disassembly for low-level hardware access. The **removable D-shell** permits firmware access and physical inspection without voiding structural integrity. 64GB RAM supports SapClarify runtime memory demands, and the RTX GPU enables **real-time visual overlay of signal structure** — not for gaming, but for step-debugging deterministic control flow. The machine’s robust thermal design ensures stability during mobile or iterative sessions without thermal throttling.
 
 ---
 
-## Platform 2 – *Main Development Workstation*
+## Platform 2 – Lenovo ThinkStation P8 (Main Development Platform)
 
 **Purpose**:  
-Long-session execution of TreeOS and Signal simulations, structural verification of memory flow, and symbolic AI path insertion.
+Runs long-session simulations of TreeOS and Signal, performs memory-lifecycle validation, and supports GPT-guided execution trace overlays.
 
 **Suggested Configuration**:
 - AMD Threadripper PRO 9995WX (96 cores)
 - 2TB DDR5 ECC RAM
 - 3× RTX 6000 Blackwell Max-Q (NVLink enabled)
-- 4× 4TB PCIe 5.0 NVMe SSD
-- Air-cooled workstation tower
+- 4× 4TB PCIe 5.0 NVMe SSD (non-RAID)
+- Air-cooled tower chassis
 - Windows 10 Pro (LTSC preferred)
 
 **Why This Configuration**:  
-This platform is the **execution heart** of the architecture. TreeOS process trees require **large-scale memory validation across deterministic lifecycle chains**. 2TB ECC RAM prevents error accumulation in memory-bound tests. 96 physical cores are necessary for simulating large parallel deterministic threads without relying on speculative execution. The triple-GPU stack is used for **path geometry visualization, token propagation rendering**, and SapClarify structure resolution overlays, not for generic AI training. This configuration reflects the minimum required to hold full system state and render all active instruction paths in-memory, without paging or loss.
+This platform is the **central execution hub** for the full system. TreeOS requires simulation of hundreds of deterministic lifecycle-bound processes in parallel — the 96-core Threadripper ensures these simulations run without speculative execution fallback. The **2TB ECC RAM** ensures long-session memory validation without paging or data integrity loss. Triple RTX 6000 Max-Q GPUs are used for **signal path rendering, structural overlays, and SapClarify resolution visualization**, not for AI training. The tower form avoids datacenter limitations, and the LTSC OS ensures system stability.
 
 ---
 
-## Platform 3 – *AI Integration Node*
+## Platform 3 – Lenovo ThinkSystem PX (AI Integration Node)
 
 **Purpose**:  
-Executes semantic-to-path validation cycles under AI guidance, and hosts GPT-assisted SapClarify logic modules in structure-constrained environments.
+Performs AI-guided SapClarify structure construction, multi-agent intent resolution, and long-horizon execution under deterministic constraints.
 
 **Suggested Configuration**:
 - 2× Intel Xeon Platinum 8593Q (2×64 cores)
 - 4TB DDR5 ECC RAM
 - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
-- 4× 8TB PCIe 5.0 NVMe SSD
-- Datacenter-grade silent chassis with UPS
+- 4× 8TB PCIe 5.0 NVMe SSD (non-RAID)
+- Air-cooled, UPS-backed chassis (non-rackmount)
 - Windows 10 Pro
 
 **Why This Configuration**:  
-SapClarify’s core innovation is deterministic AI execution. This requires AI-generated semantic instructions to be validated **within runtime physical constraints**, not through stochastic inference. The system must maintain **stable execution state across multi-agent AI threads**, without interference or resource starvation. The dual Xeon architecture ensures stable scheduling under multi-agent SAP contexts. ECC RAM guarantees traceable memory across 48h+ runtime windows. NVLink is needed for fast structure transfer between visual and logical submodules. This machine is not for training, but **for evaluating structure compliance in AI-originated code**, which demands uninterrupted high-throughput simulation.
+Lenovo PX is selected for its **datacenter-grade multi-agent orchestration capacity** in an independent developer-usable form. Dual Xeon CPUs support **concurrent GPT process chains**, critical for simulating AI-driven code path generation. 4TB ECC RAM enables **semantic execution trees to be held entirely in memory**, avoiding runtime path fragmentation. The 4× RTX 6000 Max-Q setup, with NVLink, is necessary for **semantic-symbolic mapping, AI integration layer verification**, and low-latency token flow testing across agents — all under full determinism. The system must be quiet, self-contained, and avoid server-rack dependencies.
 
 ---
 
-## Display & Visualization Subsystem
+## Display System – 2× ASUS ProArt PA32KCX
 
 **Purpose**:  
-TreeOS and Signal output needs to be traced visually — token resolution, memory-path overlays, and multi-resolution path decomposition must be monitored across time.
+Used to observe execution behavior, semantic overlays, and runtime signal interaction at subpixel precision in long-duration sessions.
 
 **Suggested Configuration**:
-- 2× ASUS ProArt PA32KCX or equivalent
-- 8K Mini LED, HDR1000+, matte finish, factory calibrated
+- Dual ASUS ProArt PA32KCX
+- 8K Mini LED, HDR1000+
+- Factory-calibrated, matte finish
+- No RGB, no curvature, no oversharpening
 
 **Why This Configuration**:  
-Signal and SapClarify require **subpixel-precise visual output**, especially when rendering vector path intersections, symbolic overlays, or structure transformations in real-time. Any flicker, oversharpening, or visual artifact would compromise path stability analysis. Dual 8K monitors are not aesthetic choices — they allow simultaneous vertical and horizontal renderings of TreeOS memory path and SapClarify intent trace, with zero compromise on visibility. No curvature, RGB, or gloss is permitted to maintain deep focus during extended trace sessions.
+The signal-path structures generated by TreeOS and SapClarify require **visual analysis at symbolic and execution levels simultaneously**. Each display handles a separate axis of structural representation — such as memory flow versus semantic path.  
+8K resolution with matte finish ensures **no distortion during extended tracking** of path transitions or logic collapse.  
+This display setup also supports **experimental function-based symbolic image deformation**, where symbolic representations (e.g. logic nodes, intent graphs) are spatially compressed, stretched, or time-scaled to reveal transition behavior. These operations require **precise, flicker-free subpixel rendering** and cannot tolerate contrast overdrive, edge blooming, or non-linear sharpening.  
+Absence of curvature and high uniformity ensures **neutrality in visual reference**, which is essential for semantic correction and UI interaction field feedback.
 
 ---
 
-## Design Philosophy
+## System-Wide Requirements & Philosophy
 
-- **No RGB**
-- **No water cooling** — only air cooling for acoustic predictability
-- **No transparent panels or gaming aesthetics**
-- **All systems run Windows 10 Pro (LTSC preferred)**
-- **Tower form factors only** — no rackmount or blade units, to maintain independence and mobility
+- **No RGB, no transparent chassis**
+- **No liquid cooling** — acoustic predictability is critical
+- **All machines must support Windows 10 Pro (LTSC preferred)**
+- **All systems must be in workstation-tower form factor**, not rackmount
+- **All GPUs must support NVLink** for internal data channel continuity
 
 ---
 
-## Final Summary
+## Closing Summary
 
-This hardware request is not a wish list.  
-It is a **structurally justified execution substrate** for a system whose core value lies in determinism, transparency, and AI compatibility — without guesswork, runtime abstraction, or hidden states.
+This is not a workstation suite for general productivity or AI training.  
+Each machine is scoped **specifically to support structural transparency, determinism, and AI-to-execution convergence testing**.
 
-Every configuration directly supports a structural layer: semantic input, path transformation, deterministic logic, and human-verifiable output.
+None of these specifications are arbitrary:
+- TreeOS demands raw parallelism and memory-state isolation.
+- Signal requires hardware-level traceability.
+- SapClarify cannot function without sub-symbolic precision and structured intent anchoring.
 
-These are not luxury specifications.  
-They are the **minimal viable foundation** to observe, control, and validate the emergence of a fully traceable machine intelligence architecture.
+These are not upgrades — they are **enablers**.
 
 > One system interprets intent.  
 > One system builds structure.  
-> One system embeds it all.  
+> One system executes all.  
 > Let them run.
