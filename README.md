@@ -58,7 +58,7 @@ None of these layers can be removed or substituted without collapsing the model�
 → **[View X86 hardware sponsorship request](./X86_Hardware_Sponsorship_Request_TreeOS.md)**  
 → **[View Apple device sponsorship request](./Apple_Device_Sponsorship_TreeOS_Signal.md)**
 
-### Platform Prioritization
+#### Platform Prioritization
 
 The full execution stack will be implemented first on the platform that receives confirmed hardware sponsorship.  
 That platform will become the reference environment for TreeOS, Signal, and SapClarify.  
