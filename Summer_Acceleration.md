@@ -1,63 +1,75 @@
-# Summer Acceleration Plan
+# Summer Acceleration Plan – 2025
 
-This summer (2025), I intend to complete the first fully functional prototypes of **TreeOS**, **Signal**, and **SapClarify**, by writing, testing, visualizing, and evolving all components without external dependencies.
+This summer, I will build the world’s first **fully deterministic, transparent computing stack**, composed of three inseparable components:
 
-To do this, I need a minimal but powerful development and visualization environment. The tools listed below will allow me to:
+- **Signal**: a low-level execution language with no side effects, no global state, and no runtime ambiguity.
+- **TreeOS**: an operating system that removes black-box scheduling, dynamic memory mutation, and background interference.
+- **SapClarify**: a protocol that allows AI agents or humans to generate code not as black-box output, but as structured, bounded, and verifiable intent.
 
-- Write the Signal runtime directly on Apple Silicon using ARM64 assembly  
-- Run SapClarify-based GPT orchestration locally  
-- Visualize memory-leaf-path transitions with layer-based UI sketches  
-- Maintain parallel windowed workflows for code, diagrams, and model logic  
-- Interact with GPT via handwritten structure sketches and concept trees
-
-This is not a luxury setup. It is the **lowest friction, fully deterministic development environment** I can assemble alone.
-
----
-
-## Target Equipment
-
-| Item | Purpose |
-|------|---------|
-| **MacBook Pro M4 Pro (24GB + 1TB)** | Mobile development for Signal and SapClarify testing |
-| **Mac Studio M2 Ultra (256GB + 2TB)** | Static host for TreeOS bare metal prototype |
-| **Pro Display XDR 32”** | Central visual anchor for multi-path execution tracking |
-| **Pro Stand** | Adjustable stand for ergonomic, long-session sketching |
-| **iPad Pro 13” (2TB, M4)** | Architecture sketching, GPT-integrated drawing, path control |
-| **Pencil Pro** | Precise annotation, layer sketching |
-| **Magic Trackpad / Magic Keyboard** | Interface control for parallel navigation |
-| **Smart Folio (iPad)** | Field sketch protection |
-| **Desk 140×60 cm** | Dedicated summer workspace |
----
-
-## Screenshots
-
-Device configuration and quotes (updated May 2025):
-
-![IMG_1671](./IMG_1671.png)  
-![IMG_1672](./IMG_1672.png)  
-![IMG_1673](./IMG_1673.png)
+Together, they form a computing model where:
+- **Nothing is hidden.**
+- **Everything can be traced.**
+- **And AI is no longer a floating service — but a grounded, accountable actor in computation.**
 
 ---
 
-## Note to Potential Supporters
+## Why Now
 
-This request is not for an investment.  
-No shares are offered. No IP is for sale. No institutional expectations apply.
+These systems are no longer theoretical.
 
-**It’s simply about enabling one person to build a transparent, deterministic, human-aligned computing system — fast, clean, and now.**
+- The execution model has been written.
+- The memory structures are defined.
+- The function interfaces are clear.
 
-If you support it, you will be remembered as the person who lit the first match.
+What remains is the final, focused phase:  
+**building them where they matter most — in the physical world, on real machines, with zero abstraction.**
 
-## Development Update – May 2025
+---
 
-Due to final exams and summer fieldwork obligations, development will temporarily slow down.
+## What I Need
 
-Full focus on TreeOS / Signal / SapClarify will resume in the summer (from July onward), with all core architecture work continuing as planned.
+To complete this system, I require:
 
-Thank you for your patience and quiet support.
+- A development environment capable of running **ARM64 or x86_64** assembly directly, without sandbox or emulation.
+- Sufficient memory and I/O bandwidth to simulate large deterministic execution trees.
+- Multi-screen output for observing semantic-to-instruction transitions in real-time.
+- A precision sketch and feedback loop between **human reasoning**, **AI interpretation**, and **Signal code generation**.
 
-Thank you.
+I do not need branding.  
+I do not need marketing.  
+I need machines that can help finish the last 20% — the part that transforms diagrams into execution.
 
-— *Yukiyama Shizuka*
+---
 
-*Note: The listed Apple devices represent the currently available platforms that offer the required performance benchmarks for architecture validation (e.g., large-scale memory flow tests, high-fidelity display stack debugging). Equivalent alternatives on Windows or Linux are fully viable if comparable specifications are met.*
+## What You Support
+
+This is not about specs.  
+It’s about **restoring trust in computation**.
+
+Supporting this project means you are enabling:
+
+- The first real alternative to runtime-black-box systems
+- A programming language that treats memory and logic as physically verifiable space
+- An AI interface model that does not rely on clouds, heuristics, or hallucination
+- A future where systems are not just powerful — they are inspectable, explainable, and fully human-aligned
+
+If you fund this, you are not buying a result.  
+You are accelerating a direction.
+
+---
+
+## Final Word
+
+I am building this alone.  
+There is no team. No institution. No safety net.
+
+There is only time, code, and a model that works.
+
+If that’s something you believe in — even a little —  
+then now is the moment to act.
+
+This summer will happen either way.  
+But with your support, it could happen faster, cleaner, and loud enough to be heard.
+
+**— Yukiyama Shizuka**  
+Independent Developer of TreeOS / Signal / SapClarify
