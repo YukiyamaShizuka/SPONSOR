@@ -136,3 +136,10 @@ These are not upgrades — they are **enablers**.
 > One system builds structure.  
 > One system executes all.  
 > Let them run.
+>
+> *Note: The execution stack will be fully implemented on whichever platform confirms sponsorship first.  
+That platform will become the canonical host for TreeOS structure validation.*
+>
+> *If you're evaluating internal feasibility for supporting the execution stack (TreeOS / Signal / SapClarify),  
+feel free to contact me directly for low-friction coordination.  
+Contact options are listed at the README.*  
