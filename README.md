@@ -56,7 +56,7 @@ None of these layers can be removed or substituted without collapsing the model�
 
 **Help bring TreeOS, Signal, and SapClarify into real execution.**  
 → **[View X86 hardware sponsorship request](./X86_Hardware_Sponsorship_Request_TreeOS_Signal_SapClarify.md)**  
-→ **[View Apple device sponsorship request](./Apple_Device_Sponsorship_TreeOS_Signal_SapClarify.md)**
+→ **[View Apple device sponsorship request](./Apple_Device_Sponsorship_Request_TreeOS_Signal_SapClarify.md)**
 
 #### Platform Prioritization
 
