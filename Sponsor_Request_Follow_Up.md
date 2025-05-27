@@ -1,6 +1,6 @@
 # Follow-up on Sponsor Request and Technical Cooperation Invitation
 
-I deeply appreciate the silent attention you have given over the past few weeks. The continuous increase in views and clone activities on repositories such as `TreeOS_Structure_Hardware_Proposal.md` and `Signal_Execution_Model.md` clearly indicates that the project has drawn internal attention and strategic interest.
+I deeply appreciate the silent attention you have given over the past few weeks. The continuous increase in views and clone activities on repositories clearly indicates that the project has drawn internal attention and strategic interest.
 
 However, as of today, **no direct contact, response, or inquiry** has been received from any of your technical or partnership teams.
 
