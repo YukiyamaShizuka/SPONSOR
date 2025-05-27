@@ -4,141 +4,139 @@
 
 ### Signal — Deterministic Instruction Language
 
-**Signal** is a low-level programming language written directly in ARM64 or x86-64 instruction sets.  
-It is designed for **deterministic execution**, **predictable control flow**, and **transparent binding between memory and logic**.
+**Signal** is a low-level programming language written directly in ARM64 or x86-64 assembly.  
+It is built for **deterministic execution**, **predictable control flow**, and **transparent linkage between memory and logic**.
 
 Unlike traditional languages that rely on complex runtimes and hidden state, Signal enforces:
-- statically defined data paths,
-- explicit memory-local operations,
-- and physically traceable instruction sequences.
+- Statically defined data paths  
+- Explicit memory-local operations  
+- Physically traceable instruction sequences  
 
-This allows for **full observability** of program behavior at the lowest level, enabling reproducible computation and eliminating runtime ambiguity. Signal is not merely a language — it is a formal declaration that every instruction must be visible, consistent, and bounded.
+This enables **full observability** of program behavior at the lowest level. Every instruction is bounded, repeatable, and explainable. Signal is not merely a language — it is a **formal contract** for verifiable execution.
 
 ---
 
 ### TreeOS — Transparent Execution Architecture
 
-**TreeOS** is a new operating system architecture that eliminates all black-box execution.  
-It structures all processes as **leaf-based execution trees**, where each process has a clearly defined entry, lifespan, memory scope, and termination point.
+**TreeOS** is an operating system designed to eliminate black-box behavior.  
+All processes are structured as **leaf-based execution trees**, where each unit has a declared entry, lifecycle, memory scope, and exit.
 
-TreeOS rejects:
-- background daemons,
-- implicit task spawning,
-- hidden scheduling layers,
-- and dynamic memory mutations.
+TreeOS removes:
+- Background daemons  
+- Implicit task spawns  
+- Hidden scheduling layers  
+- Runtime memory mutation  
 
-Instead, it ensures that every system behavior is **explicitly declared and structurally accountable**.  
-By making process structure and memory layout fully inspectable, TreeOS offers a platform where developers, researchers, and even AI agents can **reason about the system state without guessing**.
+It guarantees that all system behavior is **explicit, inspectable, and deterministically governed** — making it possible for developers, researchers, or AI agents to reason about system state without uncertainty.
 
 ---
 
 ### SapClarify — Semantic-to-Instruction Bridge
 
-**SapClarify** connects high-level semantics — whether from human logic or AI generation — directly to Signal instruction sets.  
-It is not a compiler, but a **bounded translation protocol** that ensures all semantic intents result in **deterministic, verifiable behavior**.
+**SapClarify** is not a compiler. It is a **bounded translation protocol** that connects high-level semantic intent — human-authored or AI-generated — directly to Signal instruction trees.
 
-SapClarify eliminates the need for:
-- cloud inference engines,
-- probabilistic runtime decisions,
-- or heuristic execution.
+It replaces:
+- Cloud inference engines  
+- Probabilistic runtime execution  
+- Heuristic control graphs  
 
-Instead, it allows autonomous agents to function **as transparent actors within the same system**, generating behavior that is both structurally valid and inspectable at runtime.
+with a structure-preserving bridge that allows intelligent agents to function as **transparent actors**, issuing code that is mechanically verifiable and locally executed.
 
 ---
 
 ## Unified, Indivisible Design
 
-TreeOS, Signal, and SapClarify are **structurally interdependent**. Each provides a critical pillar:
+TreeOS, Signal, and SapClarify are not modular components — they are **structurally interlocked**:
 
-- **Signal** defines the “how” — exact execution rules.
-- **TreeOS** defines the “when” and “where” — system-wide structure and timing.
-- **SapClarify** defines the “why” — semantic context for execution.
+- **Signal** defines the *how* — deterministic execution  
+- **TreeOS** defines the *when and where* — process lifecycle and structure  
+- **SapClarify** defines the *why* — intent and context  
 
-No layer is optional. Removing or substituting any part breaks the guarantees of determinism, transparency, and integration.  
-Together, they represent a computing model that is **fully observable from semantic intent to hardware-level effect** — the first step toward truly trustworthy execution.
+None of these layers can be removed or substituted without collapsing the model’s transparency. Together, they form a computing foundation that is **fully observable from semantic origin to hardware result**.
 
-**Help bring TreeOS, Signal, and SapClarify into physical execution.**  
-→ **[View hardware sponsorship request](./Hardware_Sponsorship_Request_TreeOS.md)**
-
+**Help bring TreeOS, Signal, and SapClarify into real execution.**  
+→ **[View general hardware sponsorship request](./Hardware_Sponsorship_Request_TreeOS.md)**  
+→ **or [View Apple device sponsorship request](./Apple_Device_Sponsorship_TreeOS_Signal.md)**
 ---
 
 ## Why This Matters
 
-Modern computing is increasingly opaque.
+Modern computing has become increasingly opaque.
 
-Most contemporary systems rely on hidden memory managers, dynamic schedulers, layered runtime interpreters, speculative branches, and background daemons — creating a world where **execution is no longer traceable, repeatable, or fully understood**, even by its developers.
+Systems today rely on hidden schedulers, layered runtimes, speculative branches, and background services — producing environments where **even developers cannot fully trace what is being executed or why**.
 
-This project — composed of **TreeOS**, **Signal**, and **SapClarify** — proposes a fundamentally different path.
+This project proposes a radically transparent alternative — composed of **TreeOS**, **Signal**, and **SapClarify** — where execution is no longer a guess, but a verified path.
 
 ---
 
 ### TreeOS: Deterministic System Execution
 
-TreeOS is a structurally transparent operating system where:
-- All processes are organized as **leaf-based execution trees**, with strict lifecycle control.
-- Memory allocation, computation flow, and process timing are **fully deterministic** and visible.
-- There are **no background threads, no invisible daemons, no runtime interference**.
+TreeOS guarantees:
+- All processes are isolated as **leaf execution units**  
+- Memory and timing are **completely deterministic**  
+- There are **no background threads, daemons, or invisible interference**
 
-It ensures that what runs is exactly what was declared — nothing more, nothing hidden.
+What runs is exactly what was declared — nothing more, nothing hidden.
 
 ---
 
 ### Signal: Transparent Instruction Language
 
-Signal is a low-level execution language designed for:
-- **Explicit data flow and memory locality** — no global variables, no side effects.
-- **Instruction paths that match physical execution**, enabling hardware-aligned computation.
-- Code that is **traceable, sandboxed, and compile-time verifiable**, without relying on complex runtimes or dynamic interpreters.
+Signal provides:
+- **Explicit data flow and memory locality**  
+- **Instruction paths that match physical execution**  
+- **Compile-time verifiability without runtimes or interpreters**
 
-With Signal, every instruction can be followed, reasoned about, and visualized.
+Every instruction can be traced, reasoned about, and directly visualized.
 
 ---
 
 ### SapClarify: AI-Executable Intent Layer
 
-SapClarify is a semantic-to-execution protocol that:
-- Translates **human or AI-level intents** into deterministic Signal paths.
-- Provides a clean, machine-readable interface for AI modules to generate code without hidden dependencies.
-- Removes the need for cloud-based inference, GPU-bound execution, or probabilistic planning.
+SapClarify enables:
+- **Semantic intent to become executable code**  
+- AI agents to operate deterministically within the system  
+- The removal of probabilistic, cloud-based behavior pipelines
 
-It allows **AI agents to act as deterministic participants in system execution**, not just external services.
-
----
-
-### A Fully Transparent Computing Stack
-
-Together, these three components form a system where:
-- **Every layer is inspectable**;
-- **Every action is deterministic**;
-- **Every outcome is reproducible**.
-
-No speculative execution. No garbage collection mysteries. No runtime black boxes.
-
-This is the foundation for **a new generation of trustworthy, AI-compatible computing systems**.
+It transforms intelligent intent into **bounded, testable, localized execution paths**.
 
 ---
 
-### Independent and Unfunded
+### A Fully Transparent Stack
 
-This is not a corporate product.  
-It is not institutionally sponsored.  
-It is developed **entirely by a single independent architect**, with no funding, no hardware sponsorship, and no development team — purely out of the belief that computing should once again be transparent, understandable, and fair.
+This stack is:
+- **Inspectable at every layer**  
+- **Deterministic in every operation**  
+- **Reproducible in every outcome**
 
-You are welcome to observe, clone, simulate, or build on it — but the direction is already clear:
+No garbage collection mysteries. No speculative branches. No dynamic runtime fog.
 
-> **Computing must return to clarity.**
+This is how trustworthy systems begin.
+
 ---
 
+## Independent and Unfunded
+
+This project is:
+- Not a product  
+- Not institutionally backed  
+- Not funded by a company or grant  
+
+It is developed **entirely by a single independent architect**, without a team, without hardware sponsors — purely from the conviction that computation must become trustworthy again.
+
+You are welcome to observe, fork, simulate, or extend. But the direction is clear:
+
+> **Computation must return to clarity.**
+---
 
 ## How You Can Help
 
 If you believe in:
+- Operating systems without black-box interference  
+- Languages that never lie to their users  
+- Clean, deterministic environments for AI and human collaboration  
 
-- System architectures without hidden behavior  
-- Languages that do not lie to the user  
-- Clean, deterministic foundations for AI and OS development  
-
-Then your sponsorship — even symbolic — directly contributes to a future where **users, developers, and machines share the same observable truth**.
+Then your support — even symbolic — helps build a future where **users, developers, and machines share the same observable truth**.
 
 ---
 
@@ -148,7 +146,7 @@ https://m.facebook.com/profile.php?id=61565367084889
 
 ### Contact me via Telegram:
 
-<img src="./IMG_1895.jpeg" alt="Contact with WeChat" width="300"/>
+<img src="./IMG_1895.jpeg" alt="Contact with Telegram" width="300"/>
 
 ### Contact me via WeChat:
 
@@ -162,37 +160,35 @@ https://m.facebook.com/profile.php?id=61565367084889
 
 ## Transparency and Commitment
 
-All contributions are strictly allocated for development:
+All contributions will be used for:
 
-1. Acquisition of the listed hardware  
-2. Purchase of essential development tools or licenses  
-3. Sustenance and minimal health costs during continued research
+1. Acquisition of the proposed hardware  
+2. Purchase of development-related licenses or tools  
+3. Minimal sustenance during continued construction
 
-No donations will be used for luxury, investment, or personal consumption.  
-Receipts and progress updates can be transparently provided on request.
+No funds will be used for luxury, investment, or unrelated purposes.  
+Receipts and progress can be shared transparently upon request.
 
 ---
 
 ## In Closing
 
-This is not a business. It is not a product. It is a declaration:
+This is not a business.  
+It is not a pitch deck.  
+It is a declaration:
 
 > That system design can be honest.  
-> That architecture can be understood.  
-> That execution paths can be trusted again.
+> That execution can be understood.  
+> That code paths can be trusted again.
 
-If this vision resonates with you,  
-**your support helps ensure it continues to evolve — one instruction at a time.**
+If this resonates with you,  
+**your support helps it evolve — one instruction at a time.**
 
 — *Yukiyama Shizuka*
 
-> *“Not faster. Not louder. Just cleaner.”*
->
-> The structure is prepared. Awaiting stability.
->
-> See TreeOS_Structure_Hardware_Proposal.md for full platform structure and path design support.
->
-> This structure is optimized for the execution, evaluation, and internal integration of TreeOS.  
-Any reduction in specification is not recommended, as it may invalidate multi-stage verification.
->
-> [→ Sponsor Follow-Up Document](./Sponsor_Request_Follow_Up.md)
+> *“Not faster. Not louder. Just cleaner.”*  
+> The structure is prepared. Awaiting stability.  
+>  
+> See `TreeOS_Structure_Hardware_Proposal.md` for platform configuration and system alignment details.  
+>  
+> **[→ View Follow-Up Sponsor Proposal](./Sponsor_Request_Follow_Up.md)**
