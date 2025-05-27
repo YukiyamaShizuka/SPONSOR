@@ -39,8 +39,16 @@ The proposed structure consists of three distinct platforms:
 
 ### 1. Experimental Platform – *Gunslinger 9 (Laptop)*
 
-- **Purpose**: Mobile prototyping, firmware-modifiable, field experiments of SapClarify layer and initial UI control tracing.
-- **Reasoning**: Easily dismantled for low-level control layer tests; compact enough for mobile debugging and surface-level verifications.
+- **Purpose**:  
+  Mobile prototyping, firmware-modifiable, field experiments of the SapClarify layer, and initial UI control tracing.
+
+- **Reasoning**:  
+  The device must support easy physical dismantling for direct hardware-layer access and low-level testing.  
+  Compact form factor enables field use, mobile debugging, and surface-level execution trace validation.  
+  **Removable rear D-shell** design allows for rapid exposure of internal components without structural damage.  
+  **Easily accessible M.2 SSD slot** ensures fast swapping of OS builds and boot states across experiments, critical for iterative SapClarify runtime tuning and UI layer validation.
+
+  Combined, these features support agile experimentation cycles in constrained environments without reliance on permanent lab setups.
 - **Suggested Configuration**:
   - Intel i9-275HX
   - RTX 5090 Laptop GPU
