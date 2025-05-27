@@ -4,7 +4,7 @@
 
 ### Signal — Deterministic Instruction Language
 
-**Signal** is a low-level programming language written directly in ARM64 or x86-64 assembly.  
+**Signal** is a low-level programming language written directly in ARM64 or x86_64 assembly.  
 It is built for **deterministic execution**, **predictable control flow**, and **transparent linkage between memory and logic**.
 
 Unlike traditional languages that rely on complex runtimes and hidden state, Signal enforces:
