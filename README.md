@@ -55,8 +55,13 @@ TreeOS, Signal, and SapClarify are not modular components — they are **structu
 None of these layers can be removed or substituted without collapsing the model’s transparency. Together, they form a computing foundation that is **fully observable from semantic origin to hardware result**.
 
 **Help bring TreeOS, Signal, and SapClarify into real execution.**  
-→ **[View general hardware sponsorship request](./Hardware_Sponsorship_Request_TreeOS.md)**  
-→ **or [View Apple device sponsorship request](./Apple_Device_Sponsorship_TreeOS_Signal.md)**
+→ **[View X86 hardware sponsorship request](./Hardware_Sponsorship_Request_TreeOS.md)**  
+
+→ **[View Apple device sponsorship request](./Apple_Device_Sponsorship_TreeOS_Signal.md)**
+
+*Note — With limited bandwidth, I will focus on **ONE** execution platform first  
+(Apple Silicon **or** X86_64). Once the initial prototype is validated,  
+cross-porting to the second platform becomes a bounded, incremental task.*
 ---
 
 ## Why This Matters
