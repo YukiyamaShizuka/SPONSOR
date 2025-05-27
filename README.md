@@ -58,10 +58,6 @@ None of these layers can be removed or substituted without collapsing the model�
 → **[View X86 hardware sponsorship request](./X86_Hardware_Sponsorship_Request_TreeOS.md)**  
 
 → **[View Apple device sponsorship request](./Apple_Device_Sponsorship_TreeOS_Signal.md)**
-
-*Note — With limited bandwidth, I will focus on **ONE** execution platform first  
-(Apple Silicon **or** X86). Once the initial prototype is validated,  
-cross-porting to the second platform becomes a bounded, incremental task.*
 ---
 
 ## Why This Matters
