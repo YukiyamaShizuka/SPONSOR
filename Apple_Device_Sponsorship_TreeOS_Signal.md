@@ -33,7 +33,7 @@ TreeOS and Signal are written directly to instruction-level behavior. For this r
 
 | Item | Purpose |
 |------|---------|
-| **MacBook Pro 16” (M4 Pro / 36GB RAM / 1TB SSD)** | Primary mobile development machine for compiling Signal, visualizing memory path logic, and testing SapClarify flow translation. |
+| **MacBook Pro 16” (M4 Max / 128GB RAM / 8TB SSD)** | Primary mobile development machine for compiling Signal, visualizing memory path logic, and testing SapClarify flow translation. |
 | **MacBook Pro 16” (M4 Max / 128GB RAM / 8TB SSD, system-unlocked)** | Dedicated test unit for boot-level system replacement, low-level firmware testing, alternate OS installation (e.g. Asahi Linux), and direct runtime validation of deterministic instruction execution on Apple ARM64 architecture. Required for structure-aware kernel-level experiments. |
 | **2× Mac Studio (M2 Ultra / 512GB RAM / 16TB SSD)** | Long-session workstation nodes for full TreeOS simulation, SapClarify orchestration, AI-assisted structure composition, and memory graph validation. This capacity is required to hold entire execution states in memory and support concurrent symbolic path resolution. |
 | **iPad Pro 13” (M4 / 2TB)** | Semantic sketching terminal for drawing intent-path trees, interacting with GPT agents, and conducting live SapClarify-to-structure translation. |
