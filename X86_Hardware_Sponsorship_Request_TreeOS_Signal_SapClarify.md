@@ -6,6 +6,8 @@
 > Subsequent updates may refine specific model configurations or capacities, but the document format, scope, and evaluation-critical sections will remain unchanged.  
 >  
 > Partners may proceed with internal evaluation, budgeting, and coordination based on this structure without risk of invalidation by future edits.
+>
+> *For partners already evaluating this proposal, no further structural changes are expected. Now is the optimal time to initiate internal alignment or approval workflows.*
 
 ---
 
