@@ -66,7 +66,7 @@ The Gunslinger 9 is a **field-portable prototyping station** with easy disassemb
 ## Platform 2 – Lenovo ThinkStation PX (Main Development Platform)
 
 **Purpose**:  
-Runs long-session simulations of TreeOS and Signal, performs memory-lifecycle validation, and supports GPT-guided execution trace overlays.
+Runs long-session simulations of TreeOS, Signal and SapClarify,performs memory-lifecycle validation, and supports GPT-guided execution trace overlays.
 
 **Suggested Configuration**:
 - 2× Intel Xeon Platinum 8593Q (2×64 cores)
