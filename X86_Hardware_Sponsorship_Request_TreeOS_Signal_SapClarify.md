@@ -17,7 +17,7 @@ This document outlines a hardware platform request to support the development an
 
 - **TreeOS** — a non-probabilistic operating system based on leaf-structured process trees. Each "leaf" represents a statically scheduled unit of computation with defined memory scope and lifecycle boundaries. TreeOS eliminates hidden runtime behavior.
 
-- **Signal** — a low-level path-structured language that directly encodes spatial execution geometry. It replaces abstraction with deterministic flow, making all instruction logic traceable and lifecycle-bounded. Signal operates directly on ARM64 and x86-64 instruction sets.
+- **Signal** — a low-level path-structured language that directly encodes spatial execution geometry. It replaces abstraction with deterministic flow, making all instruction logic traceable and lifecycle-bounded. Signal operates directly on ARM64 and x86_64 instruction sets.
 
 - **SapClarify** — a semantic-to-path interface protocol enabling structured communication between AI systems and executable machine logic. It deterministically maps intent into low-level execution form without relying on heuristic control, inference graphs, or cloud abstractions.
 
