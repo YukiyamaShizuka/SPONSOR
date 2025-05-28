@@ -76,13 +76,12 @@ Runs long-session simulations of TreeOS, Signal and SapClarify,performs memory-l
 - Air-cooled, UPS-backed chassis (non-rackmount)
 - Windows 10 Pro Enterprise LTSC
 
-**Why This Configuration**
+**Why This Configuration：**
 
 This platform serves as the **central execution core** for the TreeOS, Signal, and SapClarify stack. The **2× Intel Xeon Platinum 8593Q (128 cores total)** enables stable, parallel execution of thousands of lifecycle-bound deterministic processes, with **no reliance on speculative execution**. The **4TB DDR5 ECC RAM** guarantees memory consistency during long-span simulations, allowing full system state to remain in-memory without paging, swap, or corruption risk.
 
 The **4× RTX 6000 Blackwell Max-Q GPUs** (with NVLink) are not for training purposes, but for **real-time signal path rendering**, **system state visualizations**, and **SapClarify structural overlays** — enabling live debugging and semantic-to-path mapping. The **3× 8TB PCIe 5.0 NVMe SSDs** offer high-speed, non-RAID storage to isolate I/O bottlenecks between compiled instruction paths, vector overlays, and semantic routing states.
 
-The system is housed in a **UPS-backed, air-cooled, non-rackmount chassis**, allowing continuous operation outside datacenter constraints. The choice of **Windows 10 Pro** ensures maximum compatibility with compiler chains, development environments, and driver support critical for low-level instruction tracing and hybrid simulation-debug cycles.
 ---
 
 ## Platform 3 – Lenovo ThinkStation PX (AI Integration Node)
