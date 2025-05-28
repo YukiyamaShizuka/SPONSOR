@@ -3,6 +3,12 @@
 
 ---
 
+> **Document Stability Notice**  
+> This document reflects the finalized structural layout and field organization for hardware sponsorship evaluation.  
+> Subsequent updates may refine specific model configurations or capacities, but the document format, scope, and evaluation-critical sections will remain unchanged.  
+>  
+> Partners may proceed with internal evaluation, budgeting, and coordination based on this structure without risk of invalidation by future edits.
+
 ## Purpose
 
 This document outlines a targeted sponsorship request for a minimal, Apple-based development platform to support the summer 2025 prototyping of:
