@@ -82,6 +82,8 @@ This platform serves as the **central execution core** for the TreeOS, Signal, a
 
 The **4× RTX 6000 Blackwell Max-Q GPUs** (with NVLink) are not for training purposes, but for **real-time signal path rendering**, **system state visualizations**, and **SapClarify structural overlays** — enabling live debugging and semantic-to-path mapping. The **3× 8TB PCIe 5.0 NVMe SSDs** offer high-speed, non-RAID storage to isolate I/O bottlenecks between compiled instruction paths, vector overlays, and semantic routing states.
 
+Note: PX was selected over the originally considered P8 (Threadripper) platform due to direct x86_64 instruction-level development in Signal, where Intel microarchitectural stability and toolchain support are essential.
+
 ---
 
 ## Platform 3 – Lenovo ThinkStation PX (AI Integration Node)
