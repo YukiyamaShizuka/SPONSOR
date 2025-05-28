@@ -36,7 +36,7 @@ Semantic design in SapClarify begins with structural sketching. Surface Pro 11 U
 
 ---
 
-## Platform 1 – Gunslinger 9 (Mobile Experimental Platform)
+## Platform 1 – ASUS ROG Gunslinger 9 (Mobile Experimental Platform)
 
 **Purpose**:  
 Used for mobile prototyping of SapClarify, live testing of firmware and boot structures, and early tracing of Signal runtime.
