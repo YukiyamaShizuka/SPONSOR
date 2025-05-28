@@ -63,22 +63,26 @@ The Gunslinger 9 is a **field-portable prototyping station** with easy disassemb
 
 ---
 
-## Platform 2 – Lenovo ThinkStation P8 (Main Development Platform)
+## Platform 2 – Lenovo ThinkStation PX (Main Development Platform)
 
 **Purpose**:  
 Runs long-session simulations of TreeOS and Signal, performs memory-lifecycle validation, and supports GPT-guided execution trace overlays.
 
 **Suggested Configuration**:
-- AMD Threadripper PRO 9995WX (96 cores)
-- 2TB DDR5 ECC RAM
-- 3× RTX 6000 Blackwell Max-Q (NVLink enabled)
-- 4× 4TB PCIe 5.0 NVMe SSD (non-RAID)
-- Air-cooled tower chassis
-- Windows 10 Pro (LTSC preferred)
+- 2× Intel Xeon Platinum 8593Q (2×64 cores)
+- 4TB DDR5 ECC RAM
+- 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
+- 3× 8TB PCIe 5.0 NVMe SSD (non-RAID)
+- Air-cooled, UPS-backed chassis (non-rackmount)
+- Windows 10 Pro Enterprise LTSC
 
-**Why This Configuration**:  
-This platform is the **central execution hub** for the full system. TreeOS requires simulation of hundreds of deterministic lifecycle-bound processes in parallel — the 96-core Threadripper ensures these simulations run without speculative execution fallback. The **2TB ECC RAM** ensures long-session memory validation without paging or data integrity loss. Triple RTX 6000 Max-Q GPUs are used for **signal path rendering, structural overlays, and SapClarify resolution visualization**, not for AI training. The tower form avoids datacenter limitations, and the LTSC OS ensures system stability.
+**Why This Configuration**
 
+This platform serves as the **central execution core** for the TreeOS, Signal, and SapClarify stack. The **2× Intel Xeon Platinum 8593Q (128 cores total)** enables stable, parallel execution of thousands of lifecycle-bound deterministic processes, with **no reliance on speculative execution**. The **4TB DDR5 ECC RAM** guarantees memory consistency during long-span simulations, allowing full system state to remain in-memory without paging, swap, or corruption risk.
+
+The **4× RTX 6000 Blackwell Max-Q GPUs** (with NVLink) are not for training purposes, but for **real-time signal path rendering**, **system state visualizations**, and **SapClarify structural overlays** — enabling live debugging and semantic-to-path mapping. The **3× 8TB PCIe 5.0 NVMe SSDs** offer high-speed, non-RAID storage to isolate I/O bottlenecks between compiled instruction paths, vector overlays, and semantic routing states.
+
+The system is housed in a **UPS-backed, air-cooled, non-rackmount chassis**, allowing continuous operation outside datacenter constraints. The choice of **Windows 10 Pro** ensures maximum compatibility with compiler chains, development environments, and driver support critical for low-level instruction tracing and hybrid simulation-debug cycles.
 ---
 
 ## Platform 3 – Lenovo ThinkStation PX (AI Integration Node)
@@ -90,9 +94,9 @@ Performs AI-guided SapClarify structure construction, multi-agent intent resolut
 - 2× Intel Xeon Platinum 8593Q (2×64 cores)
 - 4TB DDR5 ECC RAM
 - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
-- 4× 8TB PCIe 5.0 NVMe SSD (non-RAID)
+- 3× 8TB PCIe 5.0 NVMe SSD (non-RAID)
 - Air-cooled, UPS-backed chassis (non-rackmount)
-- Windows 10 Pro
+- Windows 10 Pro Enterprise LTSC
 
 **Why This Configuration**:  
 Lenovo PX is selected for its **datacenter-grade multi-agent orchestration capacity** in an independent developer-usable form. Dual Xeon CPUs support **concurrent GPT process chains**, critical for simulating AI-driven code path generation. 4TB ECC RAM enables **semantic execution trees to be held entirely in memory**, avoiding runtime path fragmentation. The 4× RTX 6000 Max-Q setup, with NVLink, is necessary for **semantic-symbolic mapping, AI integration layer verification**, and low-latency token flow testing across agents — all under full determinism. The system must be quiet, self-contained, and avoid server-rack dependencies.
