@@ -1,8 +1,6 @@
 # X86 Hardware Sponsorship Request – TreeOS Execution Stack  
 **Date:** 2025-05-28
 
-**This configuration list has been finalized and will not undergo any changes in the near term. It can be used as a stable reference for procurement and deployment.**
-
 > **Document Stability Notice**  
 > This document reflects the finalized structural layout and field organization for hardware sponsorship evaluation.  
 > Subsequent updates may refine specific model configurations or capacities, but the document format, scope, and evaluation-critical sections will remain unchanged.  
