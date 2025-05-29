@@ -1,17 +1,7 @@
 # X86 Hardware Sponsorship Request – TreeOS Execution Stack  
 **Date:** 2025-05-29
 
-## ✅ Finalization Notice – No Further Revisions
 
-This configuration has been **officially finalized and structurally locked**. No further modifications will be made under any foreseeable circumstance. It is now suitable for use in **procurement, internal evaluation, approval workflows, and budgeting processes** without risk of later invalidation.
-
-> **This version constitutes the definitive reference.**
-
-Partners currently reviewing or planning around this proposal may proceed with full confidence. All technical fields, layout structure, and scope declarations are considered **stable and permanent**. No follow-up adjustments or post-review changes are expected.
-
-Any newer documents or variants, if ever published, will be presented as **entirely separate initiatives**, and will not retroactively affect this configuration.
-
-**→ Status: LOCKED | As of 2025-05-29**
 
 ---
 
@@ -74,7 +64,8 @@ Runs long-session simulations of TreeOS, Signal and SapClarify,performs memory-l
 
 **Suggested Configuration**:
 - 2× Intel Xeon 6980P Processor (2×128 cores)
-- 6TB DDR5 ECC RAM
+- 6TB DDR5 ECC Registered RAM *(target capacity; actual configuration subject to DIMM slot availability)*  
+  > Note: Lenovo PX platform supports up to 16 DDR5 DIMM slots. In current configurations, this implies a maximum of 4TB (using 16×256GB RDIMMs). Targeted 6TB may be approached in future multi-socket high-slot platforms if applicable.
 - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
 - 2× 4TB Samsung 9100 PRO PCIe 5.0 M.2 NVMe SSD non-RAID
 - 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD non-RAID
@@ -85,7 +76,7 @@ Runs long-session simulations of TreeOS, Signal and SapClarify,performs memory-l
 
 **Why This Configuration：**
 
-This platform serves as the **central execution core** for the TreeOS, Signal, and SapClarify stack. The **2× Intel Xeon 6980P Processor (256 cores total)** enables stable, parallel execution of thousands of lifecycle-bound deterministic processes, with **no reliance on speculative execution**. The **6TB DDR5 ECC RAM** guarantees memory consistency during long-span simulations, allowing full system state to remain in-memory without paging, swap, or corruption risk.
+This platform serves as the **central execution core** for the TreeOS, Signal, and SapClarify stack. The **2× Intel Xeon 6980P Processor (256 cores total)** enables stable, parallel execution of thousands of lifecycle-bound deterministic processes, with **no reliance on speculative execution**. The **TBs DDR5 ECC RAM** guarantees memory consistency during long-span simulations, allowing full system state to remain in-memory without paging, swap, or corruption risk.
 
 The **4× RTX 6000 Blackwell Max-Q GPUs** (with NVLink) are not for training purposes, but for **real-time signal path rendering**, **system state visualizations**, and **SapClarify structural overlays** — enabling live debugging and semantic-to-path mapping. The **PCIe 5.0 NVMe SSDs** offer high-speed, non-RAID storage to isolate I/O bottlenecks between compiled instruction paths, vector overlays, and semantic routing states.
 
@@ -100,7 +91,8 @@ Performs AI-guided SapClarify structure construction, multi-agent intent resolut
 
 **Suggested Configuration**:
 - 2× Intel Xeon 6980P Processor (2×128 cores)
-- 6TB DDR5 ECC RAM
+- 6TB DDR5 ECC Registered RAM *(target capacity; actual configuration subject to DIMM slot availability)*  
+  > Note: Lenovo PX platform supports up to 16 DDR5 DIMM slots. In current configurations, this implies a maximum of 4TB (using 16×256GB RDIMMs). Targeted 6TB may be approached in future multi-socket high-slot platforms if applicable.
 - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
 - 2× 4TB Samsung 9100 PRO PCIe 5.0 M.2 NVMe SSD non-RAID
 - 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD non-RAID
@@ -115,7 +107,7 @@ Performs AI-guided SapClarify structure construction, multi-agent intent resolut
 
 - **Dual Xeon CPUs** provide the parallel processing required to simulate **multi-threaded GPT instruction agents**. These agents collaboratively generate and evaluate code paths through **deterministic feedback loops**, which are essential for verifying the SapClarify protocol’s ability to interpret and translate semantic intent into physical system behavior.
 
-- **6TB ECC RAM** ensures that complete **semantic execution trees** — including all path variants and fallback branches — can be stored entirely in memory. This eliminates disk I/O as a bottleneck and prevents **runtime path fragmentation**, which is fatal to the SC protocol's requirement for full observability and reversibility.
+- **TBs DDR5 ECC RAM** ensures that complete **semantic execution trees** — including all path variants and fallback branches — can be stored entirely in memory. This eliminates disk I/O as a bottleneck and prevents **runtime path fragmentation**, which is fatal to the SC protocol's requirement for full observability and reversibility.
 
 - The **4× NVIDIA RTX 6000 Ada GPUs**, connected via **NVLink**, are not selected for training but for real-time **token flow simulation**, **cross-agent latency inspection**, and **semantic-symbolic execution verification**. These GPUs support:
   - High-throughput attention tracing during AI-agent interactions.
