@@ -1,8 +1,6 @@
 # X86 Hardware Sponsorship Request – TreeOS Execution Stack  
 **Date:** 2025-05-28
 
-**This configuration list has been finalized and will not undergo any changes in the near term. It can be used as a stable reference for procurement and deployment.**
-
 > **Document Stability Notice**  
 > This document reflects the finalized structural layout and field organization for hardware sponsorship evaluation.  
 > Subsequent updates may refine specific model configurations or capacities, but the document format, scope, and evaluation-critical sections will remain unchanged.  
@@ -75,7 +73,7 @@ Runs long-session simulations of TreeOS, Signal and SapClarify,performs memory-l
 - 4TB DDR5 ECC RAM
 - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
 - 2× 4TB Samsung 9100 PRO PCIe 5.0 M.2 NVMe SSD  
-- 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD  
+- 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD *(mounted via front-panel U.2 bays)*  
 - 1× Intel BE200 M.2 CNVi Wi-Fi 7 / Bluetooth 5.4 wireless card  
 - Air-cooled, UPS-backed chassis (non-rackmount)
 - Windows 10 Pro Enterprise LTSC
@@ -99,7 +97,7 @@ Performs AI-guided SapClarify structure construction, multi-agent intent resolut
 - 4TB DDR5 ECC RAM
 - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
 - 2× 4TB Samsung 9100 PRO PCIe 5.0 M.2 NVMe SSD  
-- 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD  
+- 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD *(mounted via front-panel U.2 bays)*  
 - 1× Intel BE200 M.2 CNVi Wi-Fi 7 / Bluetooth 5.4 wireless card  
 - Air-cooled, UPS-backed chassis (non-rackmount)
 - Windows 10 Pro Enterprise LTSC
