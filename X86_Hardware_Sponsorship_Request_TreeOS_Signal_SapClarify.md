@@ -71,8 +71,8 @@ The Gunslinger 9 is a **field-portable prototyping station** with easy disassemb
 Runs long-session simulations of TreeOS, Signal and SapClarify,performs memory-lifecycle validation, and supports GPT-guided execution trace overlays.
 
 **Suggested Configuration**:
-- 2× Intel Xeon Platinum 8593Q (2×64 cores)
-- 4TB DDR5 ECC RAM
+- 2× Intel Xeon 6980P Processor (2×128 cores)
+- 6TB DDR5 ECC RAM
 - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
 - 2× 4TB Samsung 9100 PRO PCIe 5.0 M.2 NVMe SSD non-RAID
 - 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD non-RAID
@@ -83,7 +83,7 @@ Runs long-session simulations of TreeOS, Signal and SapClarify,performs memory-l
 
 **Why This Configuration：**
 
-This platform serves as the **central execution core** for the TreeOS, Signal, and SapClarify stack. The **2× Intel Xeon Platinum 8593Q (128 cores total)** enables stable, parallel execution of thousands of lifecycle-bound deterministic processes, with **no reliance on speculative execution**. The **4TB DDR5 ECC RAM** guarantees memory consistency during long-span simulations, allowing full system state to remain in-memory without paging, swap, or corruption risk.
+This platform serves as the **central execution core** for the TreeOS, Signal, and SapClarify stack. The **2× Intel Xeon 6980P Processor (256 cores total)** enables stable, parallel execution of thousands of lifecycle-bound deterministic processes, with **no reliance on speculative execution**. The **6TB DDR5 ECC RAM** guarantees memory consistency during long-span simulations, allowing full system state to remain in-memory without paging, swap, or corruption risk.
 
 The **4× RTX 6000 Blackwell Max-Q GPUs** (with NVLink) are not for training purposes, but for **real-time signal path rendering**, **system state visualizations**, and **SapClarify structural overlays** — enabling live debugging and semantic-to-path mapping. The **PCIe 5.0 NVMe SSDs** offer high-speed, non-RAID storage to isolate I/O bottlenecks between compiled instruction paths, vector overlays, and semantic routing states.
 
@@ -97,8 +97,8 @@ The **4× RTX 6000 Blackwell Max-Q GPUs** (with NVLink) are not for training pur
 Performs AI-guided SapClarify structure construction, multi-agent intent resolution, and long-horizon execution under deterministic constraints.
 
 **Suggested Configuration**:
-- 2× Intel Xeon Platinum 8593Q (2×64 cores)
-- 4TB DDR5 ECC RAM
+- 2× Intel Xeon 6980P Processor (2×128 cores)
+- 6TB DDR5 ECC RAM
 - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
 - 2× 4TB Samsung 9100 PRO PCIe 5.0 M.2 NVMe SSD non-RAID
 - 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD non-RAID
@@ -113,7 +113,7 @@ Performs AI-guided SapClarify structure construction, multi-agent intent resolut
 
 - **Dual Xeon CPUs** provide the parallel processing required to simulate **multi-threaded GPT instruction agents**. These agents collaboratively generate and evaluate code paths through **deterministic feedback loops**, which are essential for verifying the SapClarify protocol’s ability to interpret and translate semantic intent into physical system behavior.
 
-- **4TB ECC RAM** ensures that complete **semantic execution trees** — including all path variants and fallback branches — can be stored entirely in memory. This eliminates disk I/O as a bottleneck and prevents **runtime path fragmentation**, which is fatal to the SC protocol's requirement for full observability and reversibility.
+- **6TB ECC RAM** ensures that complete **semantic execution trees** — including all path variants and fallback branches — can be stored entirely in memory. This eliminates disk I/O as a bottleneck and prevents **runtime path fragmentation**, which is fatal to the SC protocol's requirement for full observability and reversibility.
 
 - The **4× NVIDIA RTX 6000 Ada GPUs**, connected via **NVLink**, are not selected for training but for real-time **token flow simulation**, **cross-agent latency inspection**, and **semantic-symbolic execution verification**. These GPUs support:
   - High-throughput attention tracing during AI-agent interactions.
