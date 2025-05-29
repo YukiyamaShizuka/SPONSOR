@@ -74,15 +74,16 @@ Runs long-session simulations of TreeOS, Signal and SapClarify,performs memory-l
 - 2× Intel Xeon Platinum 8593Q (2×64 cores)
 - 4TB DDR5 ECC RAM
 - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
-- 3× 8TB PCIe 5.0 NVMe SSD (non-RAID)
+- 2× 4TB Samsung 9100 PRO PCIe 5.0 M.2 NVMe SSD  
+- 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD  
+- 1× Intel BE200 M.2 CNVi Wi-Fi 7 / Bluetooth 5.4 wireless card  
 - Air-cooled, UPS-backed chassis (non-rackmount)
 - Windows 10 Pro Enterprise LTSC
-
 **Why This Configuration：**
 
 This platform serves as the **central execution core** for the TreeOS, Signal, and SapClarify stack. The **2× Intel Xeon Platinum 8593Q (128 cores total)** enables stable, parallel execution of thousands of lifecycle-bound deterministic processes, with **no reliance on speculative execution**. The **4TB DDR5 ECC RAM** guarantees memory consistency during long-span simulations, allowing full system state to remain in-memory without paging, swap, or corruption risk.
 
-The **4× RTX 6000 Blackwell Max-Q GPUs** (with NVLink) are not for training purposes, but for **real-time signal path rendering**, **system state visualizations**, and **SapClarify structural overlays** — enabling live debugging and semantic-to-path mapping. The **3× 8TB PCIe 5.0 NVMe SSDs** offer high-speed, non-RAID storage to isolate I/O bottlenecks between compiled instruction paths, vector overlays, and semantic routing states.
+The **4× RTX 6000 Blackwell Max-Q GPUs** (with NVLink) are not for training purposes, but for **real-time signal path rendering**, **system state visualizations**, and **SapClarify structural overlays** — enabling live debugging and semantic-to-path mapping. The **PCIe 5.0 NVMe SSDs** offer high-speed, non-RAID storage to isolate I/O bottlenecks between compiled instruction paths, vector overlays, and semantic routing states.
 
 *Note: PX was selected over the originally considered P8 (Threadripper) platform due to direct x86_64 instruction-level development in Signal, where Intel microarchitectural stability and toolchain support are essential.*
 
@@ -97,10 +98,11 @@ Performs AI-guided SapClarify structure construction, multi-agent intent resolut
 - 2× Intel Xeon Platinum 8593Q (2×64 cores)
 - 4TB DDR5 ECC RAM
 - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
-- 3× 8TB PCIe 5.0 NVMe SSD (non-RAID)
+- 2× 4TB Samsung 9100 PRO PCIe 5.0 M.2 NVMe SSD  
+- 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD  
+- 1× Intel BE200 M.2 CNVi Wi-Fi 7 / Bluetooth 5.4 wireless card  
 - Air-cooled, UPS-backed chassis (non-rackmount)
 - Windows 10 Pro Enterprise LTSC
-
 **Why This Configuration**:  
 
 **Lenovo ThinkStation PX** is selected as the cornerstone of the TreeOS development and verification stack due to its rare combination of **datacenter-grade multi-agent orchestration** capacity and **developer-accessible workstation form factor**. This configuration is not merely about raw performance — it is specifically tailored to meet the unique demands of **Signal language execution**, **SapClarify (SC) protocol simulation**, and **AI-structured path integration** at a system level.
