@@ -74,10 +74,10 @@ Runs long-session simulations of TreeOS, Signal and SapClarify,performs memory-l
 - 2× Intel Xeon Platinum 8593Q (2×64 cores)
 - 4TB DDR5 ECC RAM
 - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
-- 2× 4TB Samsung 9100 PRO PCIe 5.0 M.2 NVMe SSD  
-- 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD *(mounted via front-panel U.2 bays)*  
+- 2× 4TB Samsung 9100 PRO PCIe 5.0 M.2 NVMe SSD non-RAID
+- 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD non-RAID*(mounted via front-panel U.2 bays)*  
 - 1× Intel BE200 M.2 CNVi Wi-Fi 7 / Bluetooth 5.4 wireless card  
-- Air-cooled, UPS-backed chassis (non-rackmount,non-RAID)
+- Air-cooled, UPS-backed chassis (non-rackmount)
 - Windows 10 Pro Enterprise LTSC
 
 **Why This Configuration：**
@@ -99,10 +99,10 @@ Performs AI-guided SapClarify structure construction, multi-agent intent resolut
 - 2× Intel Xeon Platinum 8593Q (2×64 cores)
 - 4TB DDR5 ECC RAM
 - 4× RTX 6000 Blackwell Max-Q (NVLink enabled)
-- 2× 4TB Samsung 9100 PRO PCIe 5.0 M.2 NVMe SSD  
-- 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD *(mounted via front-panel U.2 bays)*  
+- 2× 4TB Samsung 9100 PRO PCIe 5.0 M.2 NVMe SSD non-RAID
+- 2× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD non-RAID*(mounted via front-panel U.2 bays)*  
 - 1× Intel BE200 M.2 CNVi Wi-Fi 7 / Bluetooth 5.4 wireless card  
-- Air-cooled, UPS-backed chassis (non-rackmount,non-RAID)
+- Air-cooled, UPS-backed chassis (non-rackmount)
 - Windows 10 Pro Enterprise LTSC
 
 **Why This Configuration**:  
