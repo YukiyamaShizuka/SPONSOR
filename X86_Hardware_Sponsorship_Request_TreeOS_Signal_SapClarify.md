@@ -100,7 +100,21 @@ Performs AI-guided SapClarify structure construction, multi-agent intent resolut
 - Windows 10 Pro Enterprise LTSC
 
 **Why This Configuration**:  
-Lenovo PX is selected for its **datacenter-grade multi-agent orchestration capacity** in an independent developer-usable form. Dual Xeon CPUs support **concurrent GPT process chains**, critical for simulating AI-driven code path generation. 4TB ECC RAM enables **semantic execution trees to be held entirely in memory**, avoiding runtime path fragmentation. The 4× RTX 6000 Max-Q setup, with NVLink, is necessary for **semantic-symbolic mapping, AI integration layer verification**, and low-latency token flow testing across agents — all under full determinism. The system must be quiet, self-contained, and avoid server-rack dependencies.
+
+**Lenovo ThinkStation PX** is selected as the cornerstone of the TreeOS development and verification stack due to its rare combination of **datacenter-grade multi-agent orchestration** capacity and **developer-accessible workstation form factor**. This configuration is not merely about raw performance — it is specifically tailored to meet the unique demands of **Signal language execution**, **SapClarify (SC) protocol simulation**, and **AI-structured path integration** at a system level.
+
+- **Dual Xeon CPUs** provide the parallel processing required to simulate **multi-threaded GPT instruction agents**. These agents collaboratively generate and evaluate code paths through **deterministic feedback loops**, which are essential for verifying the SapClarify protocol’s ability to interpret and translate semantic intent into physical system behavior.
+
+- **4TB ECC RAM** ensures that complete **semantic execution trees** — including all path variants and fallback branches — can be stored entirely in memory. This eliminates disk I/O as a bottleneck and prevents **runtime path fragmentation**, which is fatal to the SC protocol's requirement for full observability and reversibility.
+
+- The **4× NVIDIA RTX 6000 Ada GPUs**, connected via **NVLink**, are not selected for training but for real-time **token flow simulation**, **cross-agent latency inspection**, and **semantic-symbolic execution verification**. These GPUs support:
+  - High-throughput attention tracing during AI-agent interactions.
+  - Simulation of parallel SC-guided agent reasoning under **controlled latency variance**.
+  - Visualization of decision-layer transitions for **SC-AI fusion testing**, ensuring deterministic execution boundaries are respected even in probabilistic layers.
+
+- This setup is also chosen to be **self-contained and acoustically quiet**, avoiding the complexity and noise pollution of traditional rack-mounted servers. It is critical that the hardware platform supports **iterative developer interaction** without physical or acoustic isolation, allowing real-time human-in-the-loop corrections during SC-AI fusion stage testing.
+
+In summary, this configuration is not a general-purpose AI development machine. It is a **precision testbed** for a system-level AI integration protocol (SapClarify), requiring simultaneous code-level determinism, agent-level interaction fidelity, and memory-level structure stability — all within a quiet, studio-compatible architecture.
 
 ---
 
