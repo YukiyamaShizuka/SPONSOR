@@ -26,9 +26,9 @@
 
 ---
 
-## 3️⃣ 2× AI Server Platform (Core Execution Stack)
+## 3️⃣ 2× AI Server Platforms (Core Execution Stack)
 
-**Each one has:**
+**Each AI Server Platform has:**
 
 - **CPU:** 2× Intel Xeon 6980P (2×128 cores, LGA7529 Granite Rapids)
 - **Memory:** 6TB DDR5 ECC Registered RAM
