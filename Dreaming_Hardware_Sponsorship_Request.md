@@ -33,7 +33,6 @@
 - **GPU:** 8× NVIDIA RTX 6000 Blackwell Server Edition (PCIe Gen5 / NVLink Enabled)
 - **Storage:** 4× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD
 - **Networking:** Intel BE200 Wi-Fi 7 + Bluetooth 5.4 M.2 Wireless Card
-- **Cooling:** Full industrial-grade server air-cooling with front-to-rear high-pressure airflow
 
 ---
 
