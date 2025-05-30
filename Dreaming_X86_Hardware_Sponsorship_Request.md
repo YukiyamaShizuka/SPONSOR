@@ -35,6 +35,7 @@
 - **GPU:** 8× NVIDIA RTX 6000 Blackwell Server Edition (PCIe Gen5 / NVLink Enabled)
 - **Storage:** 4× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD
 - **Networking:** Multiple-port 10GbE Ethernet (Server-grade network interface)
+- **Operating System:** Ubuntu Server 24.04 LTS (Pro Edition) with NVIDIA AI Enterprise Stack (full Blackwell support)
 
 ---
 
