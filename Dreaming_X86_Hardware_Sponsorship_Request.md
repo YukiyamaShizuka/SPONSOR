@@ -4,7 +4,7 @@
 
 **Standard utilization:** primarily focused on SapClarify and AI model bidirectional translation experiments, as well as experimental development of Signal as a CUDA-native path execution language, evaluating the feasibility of high-throughput deterministic logical path computation using GPU tensor cores.  
 
-**Non-standard exploratory use cases:** include diverse experimental architectures — for example, utilizing DGX as a physics-based fluid AI engine for ultra-large-scale multi-particle dynamic simulations, and exploring compute-render hybrid engines where the AI server cluster performs large-scale fluid or particle physics computations while display rendering is offloaded to workstation-grade GPUs for final high-resolution visual output.
+**Non-standard exploratory use cases:** include diverse experimental architectures — for example, utilizing DGX as a physics-driven neural fluid computation engine, where ultra-large-scale multi-particle dynamics are modeled using neural network surrogate methods running on Tensor Cores. This allows AI-driven physical simulation layers capable of real-time adaptive convergence far beyond classical equation-based solvers. In this architecture, the DGX-based AI server cluster performs high-throughput neural fluid or particle physics calculations, while display rendering is offloaded to workstation-grade GPUs that synthesize final high-resolution visual output in real time. This experimental direction aims to explore the feasibility of neural-physics hybrid engines as next-generation physical execution models for interactive simulation systems, including game engine architectures.
 
 ---
 
