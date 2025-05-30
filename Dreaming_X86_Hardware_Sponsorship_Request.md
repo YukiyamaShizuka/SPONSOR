@@ -55,8 +55,9 @@
 
 - **Rack Type:** Noise-isolated datacenter-class deployment rack
 - **Environmental Control:** Integrated air-conditioning for thermal stabilization
-- **Power Management:** Enterprise-grade UPS backed redundant power modules
+- **Power Management:** Enterprise-grade UPS backed redundant power modules, compatible with standard utility power including single-phase and three-phase configurations
 - **Noise Control:** Full acoustic dampening and vibration isolation for quiet operation
+- **Dust Protection:** Industrial-grade air filtration and positive pressure dust isolation to ensure long-term internal hardware cleanliness and airflow integrity
 
 ---
 
