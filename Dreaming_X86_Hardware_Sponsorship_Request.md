@@ -17,7 +17,7 @@
 
 ## 2️⃣ Mobile High-Performance Semantic Simulation Laptop
 
-- **Model:** ASUS ROG Strix Scar 9 Plus (Ultra Edition)
+- **Model:** ASUS ROG Gunslinger 9 Plus (Ultra Edition)
 - **CPU:** Intel Ultra9 275HX
 - **RAM:** 64GB DDR5
 - **Storage:** 2TB NVMe SSD
