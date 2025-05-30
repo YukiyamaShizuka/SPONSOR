@@ -10,7 +10,7 @@
 - **CPU:** Intel Core Ultra 7 U7-268V
 - **RAM:** 32GB LPDDR5X
 - **Storage:** 1TB NVMe SSD
-- **Display:** 13" OLED Touchscreen
+- **Display:** 13" Touchscreen
 - **OS:** Windows 11 Pro
 
 ---
