@@ -61,8 +61,8 @@
 
 ## 5️⃣ Display System
 
-- **Monitors:** 2× ASUS ProArt PA32KCX 8K HDR Reference Monitors
-
+- **Monitors:** 2× ASUS ProArt PA32KCX 8K HDR Reference Monitors  
+  (used for ultra-high-resolution rendering experiments, visual verification of semantic path outputs, precision color calibration during hybrid simulation-to-rendering pipeline tests, and large-scale dynamic visualization of fluid and particle simulation results.)
 ---
 
 ## 6️⃣ Deployment Rack Infrastructure
