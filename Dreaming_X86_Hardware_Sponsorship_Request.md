@@ -2,9 +2,9 @@
 
 > ⚠ This document reflects an extended full-stack hardware sponsorship proposal, combining portable semantic development, high-performance workstation simulation, advanced AI server deployment, and datacenter-level orchestration infrastructure.
 
-**Standard utilization:** primarily focuses on SapClarify and AI model bidirectional translation experiments.
+**Standard utilization:** primarily focuses on SapClarify and AI model bidirectional translation experiments.  
 
-**Non-standard exploratory use cases:** include diverse experimental architectures — for example, using DGX as a physics-based fluid AI engine for ultra-large-scale multi-particle dynamic simulations.
+**Non-standard exploratory use cases:** include diverse experimental architectures — for example, using DGX as a physics-based fluid AI engine for ultra-large-scale multi-particle dynamic simulations, and exploring compute-render hybrid engines where the AI server cluster handles large-scale fluid or particle physics calculations while display rendering is offloaded to workstation-grade GPUs for final high-resolution visual output.
 
 
 ---
