@@ -55,6 +55,8 @@ Include diverse experimental architectures — for example, utilizing DGX as a p
 #### Exploratory Potential:
 > **Future stages of the *Signal* execution engine may explore CUDA-native acceleration, mapping language path structures into GPU tensor cores for massively parallel semantic path expansion and statistical runtime verification. This would leverage the full capabilities of the Blackwell GPU architecture and NVLink fabric for ultra-high-speed logical execution testing.**
 
+> **A refined hexagonal honeycomb front panel design, as seen in certain Dell server lines, would contribute both to airflow optimization and to an elegant industrial aesthetic for the AI server platforms.**
+
 ---
 
 ## 4️⃣ NVIDIA AI Compute Node
