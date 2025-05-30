@@ -85,7 +85,7 @@ Include diverse experimental architectures — for example, utilizing DGX as a p
 
 ---
 
-This configuration is designed for multi-scale deterministic semantic model testing, complete SapClarify path orchestration, hybrid GPT-Language-Instruction execution overlay, advanced symbolic integration architecture evaluation, and exploratory development of future language execution models.
+This configuration is designed for multi-scale deterministic semantic model testing, complete SapClarify path orchestration, hybrid AI-Language-Instruction execution overlay, advanced symbolic integration architecture evaluation, and exploratory development of future language execution models.
 
 ---
 
