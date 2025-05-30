@@ -1,6 +1,8 @@
 # Dreaming Hardware Sponsorship Configuration — Full Stack Deployment
 
-> ⚠ This document reflects an extended full-stack hardware sponsorship proposal, combining portable semantic development, high-performance workstation simulation, advanced AI server deployment, and datacenter-level orchestration infrastructure.
+> ⚠ This document reflects an extended full-stack hardware sponsorship proposal, combining portable semantic development, high-performance workstation simulation, advanced AI server deployment, and datacenter-level orchestration infrastructure.  
+> **Standard utilization:** primarily focuses on SapClarify and AI model bidirectional translation experiments.  
+> **Non-standard exploratory use cases:** include diverse experimental architectures — for example, using DGX as a physics-based fluid AI engine for ultra-large-scale multi-particle dynamic simulations.
 
 ---
 
