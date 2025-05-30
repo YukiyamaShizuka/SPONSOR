@@ -19,14 +19,14 @@
 
 ---
 
-## 2️⃣ Mobile High-Performance Semantic Simulation Laptop
+## 2️⃣ Mobile High-Performance Semantic Simulation Workstation
 
-- **Model:** ASUS ROG Gunslinger 9 Plus (Ultra Edition)
-- **CPU:** Intel Ultra9 275HX
-- **RAM:** 64GB DDR5
-- **Storage:** 2TB NVMe SSD
-- **Display:** 18" 2.5K MiniLED Display
-- **GPU:** NVIDIA RTX 5090 Laptop Edition
+- **Model:** Lenovo ThinkPad P16 Mobile Workstation (16-inch Professional Model)
+- **CPU:** Intel Core i9-13980HX
+- **RAM:** 192GB DDR5 ECC Registered Memory
+- **Storage:** 16TB PCIe NVMe SSD (internal fixed storage)
+- **Display:** 16" 4K Professional Display
+- **GPU:** NVIDIA RTX 5000 Ada Laptop Edition
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## 4️⃣ NVIDIA Datacenter Core Node
 
-- **Hardware:** NVIDIA DGX B200
+- **Model:** NVIDIA DGX B200
 - **System Memory:** 4TB DDR5 ECC RAM
 - **Integration:** The DGX B200 is linked to one of the AI Server Platforms for centralized control, orchestration, and semantic processing.
 
