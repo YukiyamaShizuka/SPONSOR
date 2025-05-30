@@ -33,7 +33,8 @@
 - **CPU:** 2× Intel Xeon 6980P (2×128 cores, LGA7529 Granite Rapids)
 - **Memory:** 6TB DDR5 ECC Registered RAM
 - **GPU:** 8× NVIDIA RTX 6000 Blackwell Server Edition (PCIe Gen5 / NVLink Enabled)
-- **Storage:** 4× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD
+- **System Storage:** 1× Samsung 9100 PRO 4TB PCIe 5.0 M.2 NVMe SSD (dedicated system drive)
+- **Data Storage:** 4× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD (no RAID; independent high-bandwidth access)
 - **Networking:** Multiple-port 10GbE Ethernet (Server-grade network interface)
 - **Operating System:** Ubuntu Server 24.04 LTS (Pro Edition) with NVIDIA AI Enterprise Stack (full Blackwell support)
 
