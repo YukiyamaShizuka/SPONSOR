@@ -55,7 +55,7 @@ Include diverse experimental architectures — for example, utilizing DGX as a p
 #### Exploratory Potential:
 > **Future stages of the *Signal* execution engine may explore CUDA-native acceleration, mapping language path structures into GPU tensor cores for massively parallel semantic path expansion and statistical runtime verification. This would leverage the full capabilities of the Blackwell GPU architecture and NVLink fabric for ultra-high-speed logical execution testing.**
 
-> **A refined hexagonal honeycomb front panel design, as seen in certain Dell server lines, would contribute both to airflow optimization and to an elegant industrial aesthetic for the AI server platforms.**
+> ⚠ **A refined hexagonal honeycomb front panel design, as seen in certain Dell server lines, would contribute both to airflow optimization and to an elegant industrial aesthetic for the AI server platforms.**
 
 ---
 
@@ -65,10 +65,10 @@ Include diverse experimental architectures — for example, utilizing DGX as a p
 - **System Memory:** 4TB DDR5 ECC RAM
 - **Integration:** The DGX B200 is linked to one of the AI Server Platforms for centralized control, orchestration, and semantic processing.
 
-> ⚠ **GB200 NVL72 configuration would be highly preferred as an ultimate AI compute platform for extreme path validation and full-scale semantic-to-instruction translation experiments, but its industrial-grade power requirement remains currently unresolved for personal research deployment.**
-
 #### DGX Utilization Note:
 > **The DGX B200 node is primarily allocated for semantic-symbolic translation training between SapClarify semantic path structures and AI-generated language models. It will serve as a high-density compute module for recursive mapping experiments, model path convergence testing, and large-scale bidirectional alignment between deterministic system logic and generative AI representations.**
+
+> ⚠ **GB200 NVL72 configuration would be highly preferred as an ultimate AI compute platform for extreme path validation and full-scale semantic-to-instruction translation experiments, but its industrial-grade power requirement remains currently unresolved for personal research deployment.**
 
 ---
 
@@ -88,7 +88,7 @@ Include diverse experimental architectures — for example, utilizing DGX as a p
 - **Noise Control:** Full acoustic dampening and vibration isolation for quiet operation
 - **Dust Protection:** Industrial-grade air filtration and positive pressure dust isolation to ensure long-term internal hardware cleanliness and airflow integrity
 
-> **Thoughtful industrial design makes extended architecture verification sessions more enjoyable and sustaining — as well-crafted environments often help sustain deep technical concentration.**
+> ⚠ **Thoughtful industrial design makes extended architecture verification sessions more enjoyable and sustaining — as well-crafted environments often help sustain deep technical concentration.**
 
 ---
 
