@@ -42,18 +42,18 @@
 - **Networking:** Multiple-port 10GbE Ethernet (server-grade network interface)
 - **Operating System:** Ubuntu Server 24.04 LTS (Pro Edition) with NVIDIA AI Enterprise Stack (full Blackwell support)
 
-> 💡 **Exploratory Potential:**  
+> #### **Exploratory Potential:**  
 > Future stages of the Signal execution engine may explore CUDA-native acceleration, mapping language path structures into GPU tensor cores for massively parallel semantic path expansion and statistical runtime verification. This would leverage the full capabilities of the Blackwell GPU architecture and NVLink fabric for ultra-high-speed logical execution testing.
 
 ---
 
-## 4️⃣ NVIDIA Datacenter Core Node
+## 4️⃣ NVIDIA AI Compute Node
 
 - **Model:** NVIDIA DGX B200
 - **System Memory:** 4TB DDR5 ECC RAM
 - **Integration:** The DGX B200 is linked to one of the AI Server Platforms for centralized control, orchestration, and semantic processing.
 
-> 💡 **DGX Utilization Note:**  
+> #### **DGX Utilization Note:**  
 > The DGX B200 node is primarily allocated for semantic-symbolic translation training between SapClarify semantic path structures and AI-generated language models. It will serve as a high-density compute module for recursive mapping experiments, model path convergence testing, and large-scale bidirectional alignment between deterministic system logic and generative AI representations.
 
 ---
