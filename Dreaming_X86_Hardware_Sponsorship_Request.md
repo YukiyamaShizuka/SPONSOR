@@ -6,7 +6,7 @@
 
 ## 1️⃣ Lightweight AI Development Tablet
 
-- **Model:** Microsoft Surface Pro 11 Business Edition (AI+PC)
+- **Model:** Microsoft Surface Pro 11 Business Edition with Pen and Keyboard (AI+PC)
 - **CPU:** Intel Core Ultra 7 U7-268V
 - **RAM:** 32GB LPDDR5X
 - **Storage:** 1TB NVMe SSD
@@ -62,3 +62,7 @@
 ---
 
 *This configuration is designed for multi-scale deterministic semantic model testing, complete SapClarify path orchestration, hybrid GPT-Language-Instruction execution overlay, and advanced symbolic integration architecture evaluation.*
+
+---
+
+If such full configuration could ever be supported, it would be deeply welcomed and sincerely appreciated.
