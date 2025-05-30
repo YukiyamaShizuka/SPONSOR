@@ -42,7 +42,7 @@
 
 - **Hardware:** NVIDIA DGX B200
 - **System Memory:** 4TB DDR5 ECC RAM
-
+- **Integration:** The DGX B200 is linked to one of the AI Server Platforms for centralized control, orchestration, and semantic processing.
 ---
 
 ## 5️⃣ Display System
