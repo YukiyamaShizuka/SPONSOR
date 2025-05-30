@@ -30,7 +30,7 @@
 
 ---
 
-## 3️⃣ 2× AI Server Platforms (Core Execution Stack)
+## 3️⃣ 2× AI Server Platforms Based on NVIDIA RTX PRO servers(Core Execution Stack)
 
 **Each AI Server Platform includes:**
 
