@@ -2,7 +2,7 @@
 
 > ⚠ This document reflects an extended full-stack hardware sponsorship proposal, combining portable semantic development, high-performance workstation simulation, advanced AI server deployment, and datacenter-level orchestration infrastructure.
 
-**Standard utilization:** primarily focuses on SapClarify and AI model bidirectional translation experiments.  
+**Standard utilization:** primarily focuses on SapClarify and AI model bidirectional translation experiments, as well as experimental development of Signal as a CUDA-native path execution language, evaluating feasibility of high-throughput deterministic logical path computation using GPU tensor cores.  
 
 **Non-standard exploratory use cases:** include diverse experimental architectures — for example, using DGX as a physics-based fluid AI engine for ultra-large-scale multi-particle dynamic simulations, and exploring compute-render hybrid engines where the AI server cluster handles large-scale fluid or particle physics calculations while display rendering is offloaded to workstation-grade GPUs for final high-resolution visual output.
 
