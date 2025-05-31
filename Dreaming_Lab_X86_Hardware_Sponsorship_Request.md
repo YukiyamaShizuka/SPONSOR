@@ -141,6 +141,49 @@ The physical laboratory environment shall be fully upgraded to support sustained
   - Multi-stage HEPA filtration for air intake, sustaining particle-free airflow through AI server internals.
   - Optional isolated staging chamber for future hardware module installation or sensitive equipment swaps.
 
+- **Electricity Cost Support:**
+  - Continuous financial allocation plan to cover sustained power consumption requirements of Dreaming Lab core compute infrastructure.
+  - Electricity subsidy model may be directly tied to active operational cycles, compute node utilization levels, and experimental runtime scheduling to ensure stable long-term operation without resource limitations.
+  - The sponsor party is expected to fully cover both baseline idle power draw and peak consumption scenarios to guarantee uninterrupted architectural development cycles.
+
+- **High-Speed Network Infrastructure:**
+  - Datacenter-grade core switch fabric with low-latency fiber backbone.
+  - 100GbE or higher internal interconnect to fully support NVLink/NVL72 cluster traffic.
+  - Physical network segmentation for execution nodes, development nodes, external access zones, and security firewalls.
+  - Redundant fiber uplinks for external data integration, semantic corpus ingestion, and model training dataset access.
+
+- **Environmental Monitoring and Stability Feedback:**
+  - Continuous temperature, humidity, and particulate monitoring with real-time dashboard integration.
+  - Alarm thresholds configured for early anomaly detection.
+  - Sensor arrays distributed across critical compute zones for localized environmental tracking.
+
+- **Fire Suppression and Hardware Protection:**
+  - Inert gas (e.g., FM-200, NOVEC) fire suppression system for non-destructive protection of compute hardware.
+  - Full integration with emergency power cutoff protocols.
+  - Fire system certified for electronic compute facilities with high-density semiconductor equipment.
+
+- **Security Camera and Remote Facility Oversight:**
+  - 24/7 video surveillance with local and cloud-based recording redundancy.
+  - Multi-angle coverage across server racks, access doors, staging chambers, and control consoles.
+  - Remote access interface for real-time offsite lab status verification.
+
+- **Facility Maintenance and Emergency Support:**
+  - Dedicated external backup power generator interface.
+  - Vendor-certified maintenance access provisions for AI server racks, cooling systems, power management, and ventilation subsystems.
+  - Standardized replaceable component documentation for fast hardware module swaps during active development cycles.
+
+- **Regulatory Compliance Interfaces:**
+  - Facility built to meet electrical, thermal, and safety codes for datacenter-grade compute environments.
+  - Insurance-compliant safety architecture with full risk management certification pathways.
+  - Optional future integration with external regulatory bodies for commercial deployment licensing, should full-scale production models arise.
+
+- **Independent Work-From-Home Operational Model:**
+  - The laboratory shall be fully embedded within the personal residence workspace to enable maximum uninterrupted architectural focus.
+  - Work-from-home integration eliminates commute overhead, external scheduling conflicts, and institutional bureaucracy, allowing deep long-cycle system design sessions.
+  - The laboratory shall be installed as a full room-scale infrastructure conversion of the primary master bedroom to physically center the researcher's personal living environment around the active AI-semantic architecture development core.
+  - Psychological stability, cognitive immersion, and full-cycle architecture evolution are all enhanced under private direct environmental control.
+  - This model uniquely maximizes the individual researcher's ability to execute extreme-scale experimental design across AI-semantic integration, system architecture, language protocol design, and execution engine development without organizational friction.
+
 - **Aesthetic Engineering Statement:**  
   The overall facility should reflect the visual and operational precision of flagship AI research centers while remaining tightly human-scaled to support the individual developer operational model. Industrial beauty, controlled minimalism, and mental immersion are prioritized to sustain deep long-session architectural design activities.
 
