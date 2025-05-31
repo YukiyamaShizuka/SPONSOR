@@ -112,6 +112,12 @@ While Tree logic formation will primarily occur on the AI Servers, violent stres
 
 ---
 
+## Execution Plane Coordination
+
+Throughout this development, the Dreaming architecture follows a strictly decoupled compute-control separation model: logical programming, semantic translation, and orchestration are executed on the AI Server platforms, while the NVL72 compute module functions as a dedicated, ultra-parallel tensor execution array. Large-scale semantic path expansion, neural training workloads, and extreme-scale validation sweeps are dynamically offloaded from AI Servers into NVL72, with results returned for further analysis, model refinement, and deterministic verification. This design allows full saturation of compute resources while maintaining complete architectural observability at every step.
+
+---
+
 ## Phase 5 — SC-AI Bi-Directional Translation Model
 
 ### Objective:
