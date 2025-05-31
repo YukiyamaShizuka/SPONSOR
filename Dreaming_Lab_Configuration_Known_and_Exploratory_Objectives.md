@@ -198,7 +198,7 @@ It is a self-contained compute architecture laboratory capable of fully stress-t
 
 Where conventional software projects grow by layering features, Dreaming grows by eliminating assumptions, dissolving black boxes, and demonstrating that transparent, semantic-driven system execution is not only possible — it can be engineered.
 
-**→ Full Dreaming Lab Configuration Request:** [Dreaming_X86_Hardware_Sponsorship_Request.md](./Dreaming_X86_Hardware_Sponsorship_Request.md)
+**→ Full Dreaming Lab Configuration Request:** [Dreaming_Lab_X86_Hardware_Sponsorship_Request.md](./Dreaming_Lab_X86_Hardware_Sponsorship_Request.md)
 
 ---
 
