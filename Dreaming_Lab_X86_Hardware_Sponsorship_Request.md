@@ -152,7 +152,7 @@ The physical laboratory environment shall be fully upgraded to support sustained
 
 ⚠ *The laboratory environment itself functions as an extension of the Dreaming Lab core design philosophy: technical clarity, functional stability, and extreme cognitive support during iterative semantic system development.*
 
-___
+---
 
 **The full scope of this Dreaming configuration represents an extraordinary opportunity — one that grows increasingly compelling with every passing day, as I eagerly anticipate the chance to explore, validate, and build upon these architectures.**
 
