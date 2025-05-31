@@ -99,7 +99,7 @@ Include diverse experimental architectures — for example, utilizing AI Compute
 
 This configuration is designed for multi-scale deterministic semantic model testing, complete SapClarify path orchestration, hybrid AI-Language-Instruction execution overlay, advanced symbolic integration architecture evaluation, and exploratory development of future language execution models.
 
-A detailed breakdown of how I intend to utilize these hardware resources — including both defined architectural phases and speculative exploratory avenues — is documented in [Dreaming_Configuration_Known_and_Exploratory_Objectives.md](./Dreaming_Configuration_Known_and_Exploratory_Objectives.md).
+A detailed breakdown of how I intend to utilize these hardware resources — including both defined architectural phases and speculative exploratory avenues — is documented in [Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md](./Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md).
 
 ---
 
