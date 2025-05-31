@@ -61,16 +61,15 @@ Include diverse experimental architectures — for example, utilizing AI Compute
 
 ## 4️⃣ NVIDIA AI Compute Nodes
 
-- **Model:** 2× NVIDIA DGX B200 (preferably upgraded to GB200 NVL72 or GB300 NVL72 for extreme-scale experimental workloads)
-- **System Memory (each):** 4TB DDR5 ECC RAM
-- **Integration:** The Dreaming architecture establishes a one-to-one pairing: each AI Server Platform is directly connected to its own dedicated DGX B200 (or GB200 NVL72 / GB300 NVL72) unit, enabling isolated high-density tensor computation for semantic translation, model training, and extreme-scale validation — while maintaining strict separation between the control and execution layers.
+- **Model:** 2× NVIDIA GB200 NVL72 (or GB300 NVL72 for extreme-scale experimental workloads)
+- **Integration:** The Dreaming architecture establishes a one-to-one pairing: each AI Server Platform is directly connected to its own dedicated GB200 NVL72 (or GB300 NVL72) unit, enabling isolated high-density tensor computation for semantic translation, model training, neural-fluid simulation, and extreme-scale validation — while maintaining strict separation between the control and execution layers.
 
 #### AI Compute Nodes Utilization Note:
 > **The AI Compute Nodes are primarily allocated for semantic-symbolic translation training between SapClarify semantic path structures and AI-generated language models. They serve as high-density compute modules for recursive mapping experiments, model path convergence testing, and large-scale bidirectional alignment between deterministic system logic and generative AI representations.**
 
-> ⚠ **GB200 NVL72 or GB300 NVL72 configuration would be highly preferred as an ultimate AI compute platform for extreme path validation and full-scale semantic-to-instruction translation experiments. However, its industrial-grade power demands and sustained operational cost requirements remain far beyond what any independent developer could practically accommodate.**
+> ⚠ **GB200 NVL72 or GB300 NVL72 configuration represents the ultimate AI compute platform for extreme path validation and full-scale semantic-to-instruction translation experiments. However, its industrial-grade power demands and sustained operational cost requirements remain far beyond what any independent developer could practically accommodate.**
 > 
-> **If such technical and logistical challenges could be addressed, I stand fully ready to responsibly leverage this extreme platform to pursue the architectural development work in full depth and scale.**
+> **If such technical and logistical barriers can be overcome, I stand fully committed and ready to responsibly leverage this extreme platform to pursue the architectural development work in its full depth and scale.**
 
 ---
 
