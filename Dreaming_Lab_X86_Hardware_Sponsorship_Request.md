@@ -150,7 +150,7 @@ The physical laboratory environment shall be fully upgraded to support sustained
 - **Aesthetic Engineering Statement:**  
   The overall facility should reflect the visual and operational precision of flagship AI research centers while remaining tightly human-scaled to support the individual developer operational model. Industrial beauty, controlled minimalism, and mental immersion are prioritized to sustain deep long-session architectural design activities.
 
-⚠ *The laboratory environment itself functions as an extension of the Dreaming Lab core design philosophy: technical clarity, functional stability, and extreme cognitive support during iterative semantic system development.*
+> ⚠ **The laboratory environment itself functions as an extension of the Dreaming Lab core design philosophy: technical clarity, functional stability, and extreme cognitive support during iterative semantic system development.**
 
 ---
 
