@@ -59,11 +59,11 @@ Include diverse experimental architectures — for example, utilizing DGX as a p
 
 ---
 
-## 4️⃣ NVIDIA AI Compute Node
+## 4️⃣ NVIDIA AI Compute Nodes
 
-- **Model:** NVIDIA DGX B200
-- **System Memory:** 4TB DDR5 ECC RAM
-- **Integration:** The DGX B200 is linked to one of the AI Server Platforms for centralized control, orchestration, and semantic processing.
+- **Model:** 2× NVIDIA DGX B200 (or preferably GB200 NVL72 / GB300 NVL72 for extreme-scale experiments)
+- **System Memory (each):** 4TB DDR5 ECC RAM
+- **Integration:** The Dreaming architecture assigns a one-to-one pairing: each AI Server Platform is directly linked to its own dedicated DGX B200 unit, enabling isolated high-density tensor compute execution for semantic translation, model training, and extreme-scale validation — all while maintaining strict separation of control and execution layers.
 
 #### DGX Utilization Note:
 > **The DGX B200 node is primarily allocated for semantic-symbolic translation training between SapClarify semantic path structures and AI-generated language models. It will serve as a high-density compute module for recursive mapping experiments, model path convergence testing, and large-scale bidirectional alignment between deterministic system logic and generative AI representations.**
