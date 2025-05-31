@@ -48,7 +48,7 @@ Include diverse experimental architectures — for example, utilizing AI Compute
 - **Memory:** 6TB DDR5 ECC Registered RAM
 - **GPU:** 8× NVIDIA RTX PRO 6000 Blackwell Server Edition (PCIe Gen5 / NVLink Enabled)
 - **System Storage:** 1× Samsung 9100 PRO 4TB PCIe 5.0 M.2 NVMe SSD (dedicated system drive)
-- **Data Storage:** 4× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD (no RAID; independent high-bandwidth access)
+- **Data Storage:** 8× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 U.2 NVMe SSD (no RAID; independent high-bandwidth access)
 - **Networking:** Multiple-port 10GbE Ethernet (server-grade network interface)
 - **Operating System:** Ubuntu Server 24.04 LTS (Pro Edition) with NVIDIA AI Enterprise Stack (full Blackwell support)
 
@@ -191,9 +191,78 @@ The physical laboratory environment shall be fully upgraded to support sustained
 
 ---
 
-This configuration is designed for multi-scale deterministic semantic model testing, complete SapClarify path orchestration, hybrid AI-Language-Instruction execution overlay, advanced symbolic integration architecture evaluation, and exploratory development of future language execution models.
+## 8️⃣ Disaster Recovery & Redundancy Subsystem
 
-A detailed breakdown of how I intend to utilize these hardware resources — including both defined architectural phases and speculative exploratory avenues — is documented in [Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md](./Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md).
+**Structural Objective:**  
+The Dreaming Lab environment shall incorporate high-availability design patterns to minimize risk exposure during unexpected hardware, software, or environmental failures — ensuring both research continuity and preservation of irreplaceable semantic translation experiments across prolonged development cycles.
+
+### Disaster Recovery Core Design:
+
+- **Critical Node Hardware Hot-Swap Capability:**
+  - All AI Server Platforms and AI Compute Nodes to be installed with modular hot-swap server racks supporting rapid hardware component replacement.
+  
+- **Live Replication Data Channels:**
+  - Continuous active replication channels established between redundant NVL72 units and secondary archival storage nodes.
+  
+- **Isolated Cold Backup Racks:**
+  - Physically isolated cold-backup storage nodes outside primary compute chambers to maintain recent copies of critical semantic path datasets.
+
+- **Full Emergency Shutdown Protocol:**
+  - Unified master cutoff interfaces allowing synchronized, safe shutdown of all compute stacks during critical hardware or facility events.
+
+- **External Vendor Maintenance SLA Interfaces:**
+  - Pre-negotiated rapid response service agreements with hardware providers to ensure critical node servicing within 24-48 hours maximum downtime windows.
+
+- **Non-Destructive Recovery Modes:**
+  - Pre-programmed checkpoint-safe shutdown states designed to preserve experiment states across power-loss or system faults.
+
+---
+
+## 9️⃣ Long-Term Data Preservation Infrastructure
+
+**Structural Objective:**  
+SapClarify recursive mapping experiments and Signal deterministic pathway verification will generate vast semantic corpus archives that may hold significant future research or commercial value — requiring stable long-term multi-tier data preservation frameworks.
+
+### Data Archival Design:
+
+- **Cold Storage Layers:**
+  - Dedicated petabyte-scale archival-grade storage subsystems for long-horizon semantic experiment data.
+
+- **Cross-Geography Remote Backup Integration:**
+  - Optional future expansion interface to allow secure offsite replication for additional physical redundancy.
+
+- **Write-Once Immutable Logging:**
+  - Secure, tamper-proof write-once record logs for critical experiment checkpoints, codebase deltas, and semantic state convergence points.
+
+- **Full Metadata Indexing:**
+  - Metadata tagging, indexing, and semantic context binding of all experiment state archives to enable future efficient retrieval for re-analysis.
+
+- **Sponsor Visibility:**
+  - Sponsors may optionally receive quarterly status reports outlining growth of semantic corpus holdings and experiment data expansion.
+
+---
+
+## 🔟 Sponsor-Facing Cost Predictability Model
+
+**Structural Objective:**  
+To assist potential sponsor entities in evaluating long-term operational commitments and budgetary requirements associated with full Dreaming Lab deployment.
+
+### Predictability Framework:
+
+- **Stable Baseline Power Projection:**
+  - Estimated idle and peak power consumption ranges modeled across NVL72, AI Server, and workstation nodes.
+  - Average sustained draw expected between 80-120 kW continuous under full runtime load.
+
+- **Environmental Support Predictability:**
+  - Thermal stabilization, air purification, and rack cooling loads modeled into integrated power budget models.
+  - Full environmental support layers engineered to minimize external variance impacts on operating cost stability.
+
+- **Hardware Refresh Cycle Modeling:**
+  - Primary compute node stability projected across 24-36 month active operational lifespans before refresh cycles may initiate.
+  - Predictable hardware maintenance scheduling integrated into yearly budgeting models.
+
+- **Sponsor Assurance Transparency:**
+  - All sponsor partners to receive quarterly cost structure update reports, ensuring full transparency over ongoing operational cost allocation.
 
 ---
 
