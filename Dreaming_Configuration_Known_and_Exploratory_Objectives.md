@@ -194,9 +194,11 @@ At every stage, the Dreaming configuration enables aggressive, long-cycle, bruta
 ## Closing Vision
 
 The Dreaming configuration is not simply hardware sponsorship.  
-It is a self-contained compute architecture laboratory capable of fully stress-testing, verifying, and iterating an entire alternative computing model from instruction layer to semantic interface. 
+It is a self-contained compute architecture laboratory capable of fully stress-testing, verifying, and iterating an entire alternative computing model from instruction layer to semantic interface.
 
 Where conventional software projects grow by layering features, Dreaming grows by eliminating assumptions, dissolving black boxes, and demonstrating that transparent, semantic-driven system execution is not only possible — it can be engineered.
+
+**→ Full Dreaming Lab Configuration Request:** [Dreaming_X86_Hardware_Sponsorship_Request.md](./Dreaming_X86_Hardware_Sponsorship_Request.md)
 
 ---
 
