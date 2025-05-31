@@ -98,12 +98,6 @@ Include diverse experimental architectures — for example, utilizing AI Compute
 
 ---
 
-This configuration is designed for multi-scale deterministic semantic model testing, complete SapClarify path orchestration, hybrid AI-Language-Instruction execution overlay, advanced symbolic integration architecture evaluation, and exploratory development of future language execution models.
-
-A detailed breakdown of how I intend to utilize these hardware resources — including both defined architectural phases and speculative exploratory avenues — is documented in [Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md](./Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md).
-
----
-
 ## 7️⃣ Lab-Grade Facility Renovation Requirements (Integrated Environmental Adaptation for Dreaming Lab)
 
 **Structural Objective:**  
@@ -151,6 +145,12 @@ The physical laboratory environment shall be fully upgraded to support sustained
   The overall facility should reflect the visual and operational precision of flagship AI research centers while remaining tightly human-scaled to support the individual developer operational model. Industrial beauty, controlled minimalism, and mental immersion are prioritized to sustain deep long-session architectural design activities.
 
 > ⚠ **The laboratory environment itself functions as an extension of the Dreaming Lab core design philosophy: technical clarity, functional stability, and extreme cognitive support during iterative semantic system development.**
+
+---
+
+This configuration is designed for multi-scale deterministic semantic model testing, complete SapClarify path orchestration, hybrid AI-Language-Instruction execution overlay, advanced symbolic integration architecture evaluation, and exploratory development of future language execution models.
+
+A detailed breakdown of how I intend to utilize these hardware resources — including both defined architectural phases and speculative exploratory avenues — is documented in [Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md](./Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md).
 
 ---
 
