@@ -90,6 +90,8 @@ Include diverse experimental architectures — for example, utilizing AI Compute
 - **Power Management:** Enterprise-grade UPS-backed redundant power modules, compatible with standard utility power including single-phase and three-phase configurations
 - **Noise Control:** Full acoustic dampening and vibration isolation for quiet operation
 - **Dust Protection:** Industrial-grade air filtration and positive pressure dust isolation to ensure long-term internal hardware cleanliness and airflow integrity
+- **Front Panel Design:** Transparent dual-layer acoustic isolation glass for both noise control and internal visibility, combined with integrated front-mounted LED status display panels for real-time system monitoring and visual feedback during live experimentation.
+- **Visual Presentation Standards:** The rack design should reflect datacenter-class precision and aesthetics, incorporating clean cable management, compute module visibility zones, and controlled internal lighting for live engineering demonstrations. The overall visual and structural design is expected to achieve presentation quality comparable to the industrial design standards of NVL72-class flagship systems — balancing technical accessibility, thermal stability, and high-end engineering aesthetics suitable for research-grade compute deployments.
 
 > ⚠ **Thoughtful industrial design makes extended architecture verification sessions more enjoyable and sustaining — as well-crafted environments often help sustain deep technical concentration.**
 
