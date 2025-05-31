@@ -199,6 +199,4 @@ If this resonates with you,
 > *“Not faster. Not louder. Just cleaner.”*  
 > The structure is prepared. Awaiting stability.  
 >  
-> See `TreeOS_Structure_Hardware_Proposal.md` for platform configuration and system alignment details.  
->  
-> **[→ View Follow-Up Sponsor Proposal](./Sponsor_Request_Follow_Up.md)**
+> See `Dreaming_Lab_X86_Hardware_Sponsorship_Request.md` for platform configuration and system alignment details.  
