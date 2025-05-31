@@ -63,10 +63,10 @@ Include diverse experimental architectures — for example, utilizing DGX as a p
 
 - **Model:** 2× NVIDIA DGX B200 (preferably upgraded to GB200 NVL72 or GB300 NVL72 for extreme-scale experimental workloads)
 - **System Memory (each):** 4TB DDR5 ECC RAM
-- **Integration:** The Dreaming architecture assigns a one-to-one pairing: each AI Server Platform is directly linked to its own dedicated DGX B200 unit, enabling isolated high-density tensor compute execution for semantic translation, model training, and extreme-scale validation — all while maintaining strict separation of control and execution layers.
+- **Integration:** The Dreaming architecture assigns a one-to-one pairing: each AI Server Platform is directly linked to its own dedicated DGX B200 (GB200 NVL72 or GB300 NVL72) unit, enabling isolated high-density tensor compute execution for semantic translation, model training, and extreme-scale validation — all while maintaining strict separation of control and execution layers.
 
-#### DGX Utilization Note:
-> **The DGX B200 node is primarily allocated for semantic-symbolic translation training between SapClarify semantic path structures and AI-generated language models. It will serve as a high-density compute module for recursive mapping experiments, model path convergence testing, and large-scale bidirectional alignment between deterministic system logic and generative AI representations.**
+#### AI Compute Nodes Utilization Note:
+> **The AI Compute Nodes are primarily allocated for semantic-symbolic translation training between SapClarify semantic path structures and AI-generated language models. They serve as high-density compute modules for recursive mapping experiments, model path convergence testing, and large-scale bidirectional alignment between deterministic system logic and generative AI representations.**
 
 > ⚠ **GB200 NVL72 or GB300 NVL72 configuration would be highly preferred as an ultimate AI compute platform for extreme path validation and full-scale semantic-to-instruction translation experiments. However, its industrial-grade power demands and sustained operational cost requirements remain far beyond what any independent developer could practically accommodate.**
 > 
