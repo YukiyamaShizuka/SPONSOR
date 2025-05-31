@@ -68,7 +68,7 @@ Include diverse experimental architectures — for example, utilizing DGX as a p
 #### DGX Utilization Note:
 > **The DGX B200 node is primarily allocated for semantic-symbolic translation training between SapClarify semantic path structures and AI-generated language models. It will serve as a high-density compute module for recursive mapping experiments, model path convergence testing, and large-scale bidirectional alignment between deterministic system logic and generative AI representations.**
 
-> ⚠ **GB200 NVL72 / GB300 NVL72 configuration would be highly preferred as an ultimate AI compute platform for extreme path validation and full-scale semantic-to-instruction translation experiments. However, its industrial-grade power demands and sustained operational cost requirements remain far beyond what any independent developer could practically accommodate.**
+> ⚠ **GB200 NVL72 or GB300 NVL72 configuration would be highly preferred as an ultimate AI compute platform for extreme path validation and full-scale semantic-to-instruction translation experiments. However, its industrial-grade power demands and sustained operational cost requirements remain far beyond what any independent developer could practically accommodate.**
 > 
 > **If such technical and logistical challenges could be addressed, I stand fully ready to responsibly leverage this extreme platform to pursue the architectural development work in full depth and scale.**
 
