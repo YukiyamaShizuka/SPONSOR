@@ -57,6 +57,7 @@ None of these layers can be removed or substituted without collapsing the model�
 **Help bring TreeOS, Signal, and SapClarify into real execution.**  
 → **[View X86 hardware sponsorship request](./X86_Hardware_Sponsorship_Request_TreeOS_Signal_SapClarify.md)**  
 → **[View Apple device sponsorship request](./Apple_Device_Sponsorship_Request_TreeOS_Signal_SapClarify.md)**
+
 → **Full Dreaming Lab Configuration Request:** 
 **[Dreaming_Lab_X86_Hardware_Sponsorship_Request.md](./Dreaming_Lab_X86_Hardware_Sponsorship_Request.md)**
 
