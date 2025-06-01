@@ -195,11 +195,6 @@ This combined architectural approach guarantees stable long-term operational cap
   - Full integration with emergency power cutoff protocols.
   - Fire system certified for electronic compute facilities with high-density semiconductor equipment.
 
-- **Security Camera and Remote Facility Oversight:**
-  - 24/7 video surveillance with local and cloud-based recording redundancy.
-  - Multi-angle coverage across server racks, access doors, staging chambers, and control consoles.
-  - Remote access interface for real-time offsite lab status verification.
-
 - **Facility Maintenance and Emergency Support:**
   - Dedicated external backup power generator interface.
   - Vendor-certified maintenance access provisions for AI server racks, cooling systems, power management, and ventilation subsystems.
