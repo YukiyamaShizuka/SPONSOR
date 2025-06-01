@@ -7,6 +7,29 @@
 
 ---
 
+> **Architectural Determinism vs Statistical Volatility Statement:**  
+>  
+> The Dreaming Lab architecture is fundamentally deterministic in nature. Every development stage operates under strict logical validation, with immediately observable failure points, precise debugging paths, and fully isolated module independence.  
+> Unlike large-scale LLM training — where failures often remain hidden until late-stage evaluation after extensive parameter-space exploration, resulting in unrecoverable wasted compute cycles — the Dreaming Lab architecture progresses linearly:  
+> Every instruction path, semantic layer, and execution tree can be fully observed, audited, and corrected at any stage, preventing catastrophic downstream failure accumulation.  
+> This architecture eliminates statistical gambling entirely and replaces it with pure logical recursion closure.
+
+---
+
+> **Risk-Return Optimization Statement for Sponsor Evaluation:**  
+>  
+> Relative to traditional large-scale AI training projects, Dreaming Lab offers a highly favorable risk-return profile.  
+> - Total capital expenditure remains in the 6,500,000 CNY range — orders of magnitude below the billions often allocated to LLM training.
+> - All hardware assets remain reusable even in partial failure scenarios.
+> - Development risk is fully isolatable at each module checkpoint, with linear growth curves rather than exponential sunk cost accumulation.
+> - The ultimate architectural yield—if successful—provides fundamental semantic execution control rights applicable across multiple AI domains.
+> - The failure cost is capped; the upside, if achieved, is structurally non-linear.
+>  
+> In summary, Dreaming Lab operates under a unique structure:  
+> **Low absolute risk — High deterministic visibility — Uniquely compounding architectural payoff.**
+
+---
+
 This document outlines in full technical depth the sequential phases, verification stages, architectural logic, and compute utilization objectives that the Dreaming hardware configuration is intended to support. The plan aims to guide the development, testing, and eventual stabilization of an entirely new deterministic semantic execution architecture spanning Signal, SapClarify, and Tree.
 
 ---
