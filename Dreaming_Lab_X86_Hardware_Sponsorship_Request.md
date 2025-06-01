@@ -120,18 +120,20 @@ The target property configuration is a multi-level residential unit specifically
 **[Property Layout Preview](./IMG_1963.png)**
 
 - **First Floor (Family Residential Area):**
-  - Reserved for parents’ long-term residence and daily living.
-  - Fully separated from the laboratory environment to ensure privacy, safety, and operational decoupling.
-  - The first floor and all non-lab areas will retain residential-level construction standards, including high-quality home-grade electrical, plumbing, HVAC, and finish work, to preserve normal daily living conditions without unnecessary technical overengineering or sponsor capital expansion beyond core laboratory scope.
+  - Reserved exclusively for parents’ long-term residence and daily living, fully isolated from laboratory technical operations.
+  - The first floor will remain entirely residential in function and scope, receiving only standard home-grade construction and interior finishing consistent with normal high-quality residential properties.
+  - All construction on this floor will follow typical residential-grade standards for electrical wiring, plumbing systems, HVAC installations, insulation, flooring, cabinetry, lighting, and interior design.
+  - No laboratory-class hardware, compute infrastructure, environmental control systems, or technical overengineering will be installed on this level, ensuring sponsor capital remains fully concentrated within the second-floor Dreaming Lab zone.
 
 - **Second Floor (Dedicated Dreaming Lab Architecture Zone):**
   - The master bedroom shall undergo full-scale room reconstruction to transform it into the Dreaming Lab semantic execution zone.
-  - Direct installation of AI server racks, NVL72 compute nodes, UPS systems, high-density cooling, precision airflow control, high-speed networking, secure physical access, and semantic execution visualization workstations.
-  - Secondary bedroom reserved for personal rest and auxiliary workspace during extended architecture research cycles.
-  - Existing en-suite utility areas converted into environmental stabilization, gas-based fire suppression, and closed-loop cooling subsystems.
-  - South-facing balcony integrated with the 85" QN950F wall-mounted rendering display for life-scale semantic path debugging and fluid dynamic visualization.
+  - Direct installation of AI server racks, NVL72 compute nodes, UPS systems, high-density cooling, precision airflow control, high-speed networking, secure physical access, and semantic execution visualization workstations will be deployed exclusively within this master bedroom laboratory space.
+  - All remaining areas of the second floor — including the secondary bedroom, hallway, staircase, and auxiliary zones — will retain high-quality residential-grade construction standards consistent with home living functionality, without technical laboratory modifications.
+  - The secondary bedroom remains reserved for personal rest and auxiliary workspace during extended architecture research cycles.
+  - Existing en-suite utility areas connected to the master bedroom will be converted into environmental stabilization, gas-based fire suppression, and closed-loop cooling subsystems specifically serving the Dreaming Lab core compute zone.
+  - South-facing balcony attached to the master bedroom will be integrated with the 85" QN950F wall-mounted rendering display for life-scale semantic path debugging and fluid dynamic visualization.
 
-This combined architectural approach guarantees stable long-term operational capacity, continuous full-time AI architecture development, and industrial-grade semantic system evolution — while maintaining full sponsor ownership and asset stability through the dedicated property acquisition process, while simultaneously ensuring non-laboratory spaces remain optimized for cost-effective residential usability.
+This combined architectural approach guarantees stable long-term operational capacity, continuous full-time AI architecture development, and industrial-grade semantic system evolution — while maintaining full sponsor ownership and asset stability through the dedicated property acquisition process, with strict scope control ensuring non-laboratory residential spaces remain fully optimized for normal residential living, cost efficiency, and functional separation.
 
 ### Core Facility Requirements:
 
