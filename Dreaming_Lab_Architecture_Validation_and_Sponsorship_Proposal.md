@@ -79,12 +79,12 @@ Include diverse experimental architectures — for example, utilizing AI Compute
 
 - **Monitors:**
   - ASUS ProArt PA32KCX 8K HDR Reference Monitors
-  - Samsung 85" Class Neo QLED 8K 85QN950F (Model: QA85QN950FJXXZ; Wall-Mounted Installation)
+  - Samsung 114" Class Mirco Led MNA114MS1CCXXZ (Model: MNA114MS1CCXXZ ; Wall-Mounted Installation)
 
 #### Intended Application:
 > **Used for ultra-high-resolution rendering experiments, visual verification of semantic path outputs, precision color calibration during hybrid simulation-to-rendering pipeline tests, large-scale dynamic visualization of fluid and particle simulation results, cinematic-scale AI semantic flow visualization, and immersive debugging of full-path semantic executions under life-size real-world projection environments.**
 >
-> **The 85-inch large-format panel allows for expanded detail resolution during rendering engine experiments, enabling clearer observation of fine-grained simulation artifacts, boundary conditions, and fluid interaction surfaces across wide visual fields.**
+> **The 114-inch large-format panel allows for expanded detail resolution during rendering engine experiments, enabling clearer observation of fine-grained simulation artifacts, boundary conditions, and fluid interaction surfaces across wide visual fields.**
 
 ---
 
@@ -128,7 +128,7 @@ The target property configuration is a multi-level residential unit specifically
 - **Second Floor (Dedicated Dreaming Lab Architecture Zone):**
   - The master bedroom shall undergo full-scale room reconstruction to transform it into the Dreaming Lab semantic execution zone, serving as the core AI architecture development, semantic system design, path visualization, and software execution workspace.
   - The AI server racks, NVL72 compute nodes, UPS systems, high-density cooling, precision airflow control, and primary power distribution equipment will not be installed within the master bedroom itself, but will be fully isolated into the adjacent study room, which will be reconstructed into a dedicated machine room to host all heavy technical infrastructure.
-  - The master bedroom lab will house developer workstations, large-scale semantic visualization displays (including the 85" QN950F wall-mounted rendering display), reference terminal consoles, semantic simulation monitors, and full local control interfaces for live monitoring and architecture validation.
+  - The master bedroom lab will house developer workstations, large-scale semantic visualization displays (including the 114" MNA114MS1CCXXZ wall-mounted rendering display), reference terminal consoles, semantic simulation monitors, and full local control interfaces for live monitoring and architecture validation.
   - The existing en-suite utility area (original bathroom) connected to the master bedroom will be fully converted into an enclosed physical book and technical document storage zone, allowing for local reference archives and long-term architecture documentation access during extended development cycles.
   - The south-facing balcony attached to the master bedroom will remain purely residential, equipped as a private rest zone with ergonomic seating for cognitive decompression and long-session psychological stabilization, fully isolated from technical infrastructure.
   - Both the Dreaming Lab core workspace (master bedroom zone) and the machine room (study room zone) will be secured with industrial-grade electronic locking systems to ensure personnel isolation, safety, and operational integrity.
