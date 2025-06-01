@@ -70,7 +70,7 @@ Include diverse experimental architectures — for example, utilizing AI Compute
 - **Integration:** The Dreaming architecture establishes a hierarchical high-density compute layer with role-specific NVL72 allocation. The system divides into two fully isolated experimental subsystems:
 
   - **AI Server 00:**  
-    Directly connected to 2× NVL72 unit. This isolated pairing supports core Signal compiler development, architectural instruction-path language construction, and deterministic path execution verification. Visual validation is performed through ASUS ProArt PA32KCX 8K HDR reference monitors for precision language-level path inspection and structural debugging.
+    Directly connected to 2× NVL72 units. This isolated pairing supports core Signal compiler development, architectural instruction-path language construction, and deterministic path execution verification. Visual validation is performed through ASUS ProArt PA32KCX 8K HDR reference monitors for precision language-level path inspection and structural debugging.
 
   - **AI Server 01:**  
     Directly connected to 8× NVL72 nodes aggregated into a unified tensor compute fabric. This configuration supports large-scale SapClarify semantic translation experiments, SC-AI bidirectional training pipelines, recursive semantic-to-path alignment model verification, as well as advanced neural-fluid simulation engines. All rendering and visualization output in this segment is presented through the 98" Samsung QA98QN990FJXZK 8K QLED display, enabling wide-field, life-scale observation of high-density simulation artifacts, dynamic fluid interaction surfaces, and neural-rendered system visualizations under extreme-scale computational loads.
