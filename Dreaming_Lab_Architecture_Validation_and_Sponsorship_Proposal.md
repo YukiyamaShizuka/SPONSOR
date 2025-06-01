@@ -85,6 +85,8 @@ Include diverse experimental architectures — for example, utilizing AI Compute
 > **Used for ultra-high-resolution rendering experiments, visual verification of semantic path outputs, precision color calibration during hybrid simulation-to-rendering pipeline tests, large-scale dynamic visualization of fluid and particle simulation results, cinematic-scale AI semantic flow visualization, and immersive debugging of full-path semantic executions under life-size real-world projection environments.**
 >
 > **The 98" Samsung 8K Neo QLED Display enables expanded visual resolution during rendering engine experiments, allowing for enhanced observation of fine-grained simulation artifacts, boundary transitions, and dynamic fluid interaction surfaces across wide-field visualizations. The large-format panel size further supports life-scale visual feedback during semantic system path rendering and neural fluid simulation verification.**
+>
+> **The increased physical panel size allows rendered simulations to be observed at larger real-world visual scale, directly enhancing human-perceptible resolution of fine-grained artifacts, boundary interactions, and dynamic fluid transitions that may otherwise be visually compressed on smaller displays. The expanded viewing area enables deeper physical intuition during experimental rendering validation and semantic system debugging cycles.**
 
 ---
 
