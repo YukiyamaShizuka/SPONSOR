@@ -107,6 +107,31 @@ Include diverse experimental architectures — for example, utilizing AI Compute
 **Structural Objective:**  
 The physical laboratory environment shall be fully upgraded to support sustained operation of the entire Dreaming Lab architecture stack, providing stable power delivery, precision noise control, thermal management, controlled airflow, controlled access, and visually clean high-aesthetic laboratory presentation standards suitable for continuous architectural development work.
 
+### Property Acquisition Requirement (Integrated Facility Deployment):
+
+In order to fully establish the Dreaming Lab residential-semantic development environment, **a new property must be acquired as part of the initial infrastructure deployment. This is not based on any existing personal property holdings, and full purchase sponsorship is required as part of the total project architecture.**
+
+The primary architectural design of the property acquisition directly serves the laboratory deployment plan. **Specifically, the second floor master bedroom of the newly acquired property shall be fully and permanently converted into the Dreaming Lab core execution environment. This dedicated conversion defines the central operational purpose of the real estate acquisition itself.**
+
+The selected property is located within a fourth-tier county-level city, intentionally chosen to optimize sponsor capital efficiency while maximizing long-term operational stability for the Dreaming Lab architecture deployment. Compared to major urban centers, this location offers substantially lower acquisition costs, dramatically reduced ongoing utility and maintenance expenses, simplified legal, regulatory, and zoning procedures, highly stable regional power delivery, minimal electromagnetic or industrial interference, and full physical isolation from dense population centers. These conditions create an ideal operational environment for continuous multi-year AI-semantic architecture development, while ensuring that the majority of sponsor investment directly supports hardware execution, semantic system development, and architectural verification — rather than being consumed by urban real estate overhead or high-cost infrastructure constraints.
+
+The target property configuration is a multi-level residential unit specifically selected for its suitability for both independent family residency and fully isolated laboratory conversion, as illustrated in the following property layout preview:
+
+**[Property Layout Preview](./IMG_1963.png)**
+
+- **First Floor (Family Residential Area):**
+  - Reserved for parents’ long-term residence and daily living.
+  - Fully separated from the laboratory environment to ensure privacy, safety, and operational decoupling.
+
+- **Second Floor (Dedicated Dreaming Lab Architecture Zone):**
+  - The master bedroom shall undergo full-scale room reconstruction to transform it into the Dreaming Lab semantic execution zone.
+  - Direct installation of AI server racks, NVL72 compute nodes, UPS systems, high-density cooling, precision airflow control, high-speed networking, secure physical access, and semantic execution visualization workstations.
+  - Secondary bedroom reserved for personal rest and auxiliary workspace during extended architecture research cycles.
+  - Existing en-suite utility areas converted into environmental stabilization, gas-based fire suppression, and closed-loop cooling subsystems.
+  - South-facing balcony integrated with the 85" QN950F wall-mounted rendering display for life-scale semantic path debugging and fluid dynamic visualization.
+
+This combined architectural approach guarantees stable long-term operational capacity, continuous full-time AI architecture development, and industrial-grade semantic system evolution — while maintaining full sponsor ownership and asset stability through the dedicated property acquisition process.
+
 ### Core Facility Requirements:
 
 - **Electrical Infrastructure:**
@@ -192,7 +217,6 @@ The physical laboratory environment shall be fully upgraded to support sustained
   The overall facility should reflect the visual and operational precision of flagship AI research centers while remaining tightly human-scaled to support the individual developer operational model. Industrial beauty, controlled minimalism, and mental immersion are prioritized to sustain deep long-session architectural design activities.
 
 > ⚠ **The laboratory environment itself functions as an extension of the Dreaming Lab core design philosophy: technical clarity, functional stability, and extreme cognitive support during iterative semantic system development.**
-
 ---
 
 ## 8️⃣ Disaster Recovery & Redundancy Subsystem
