@@ -117,7 +117,7 @@ The selected property is located within a fourth-tier county-level city, intenti
 
 The target property configuration is a multi-level residential unit specifically selected for its suitability for both independent family residency and fully isolated laboratory conversion, as illustrated in the following property layout preview:
 
-**[IMG_1963.png - Property Layout Preview (GitHub Repository Link)](https://github.com/<your-repo-path>/IMG_1963.png)**
+**[Property Layout Preview](./IMG_1963.png)**
 
 - **First Floor (Family Residential Area):**
   - Reserved for parents’ long-term residence and daily living.
