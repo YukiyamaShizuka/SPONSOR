@@ -77,10 +77,12 @@ Include diverse experimental architectures — for example, utilizing AI Compute
 
 ## 5️⃣ Display System
 
-- **Monitors:** 2× ASUS ProArt PA32KCX 8K HDR Reference Monitors
+- **Monitors:**
+  - ASUS ProArt PA32KCX 8K HDR Reference Monitors
+  - Samsung 85" Class Neo QLED 8K 85QN950F (Model: QA85QN950FJXXZ)
 
 #### Intended Application:
-> **Used for ultra-high-resolution rendering experiments, visual verification of semantic path outputs, precision color calibration during hybrid simulation-to-rendering pipeline tests, and large-scale dynamic visualization of fluid and particle simulation results.**
+> **Used for ultra-high-resolution rendering experiments, visual verification of semantic path outputs, precision color calibration during hybrid simulation-to-rendering pipeline tests, large-scale dynamic visualization of fluid and particle simulation results, cinematic-scale AI semantic flow visualization, and immersive debugging of full-path semantic executions under life-size real-world projection environments.**
 
 ---
 
