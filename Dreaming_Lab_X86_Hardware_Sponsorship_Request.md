@@ -127,13 +127,14 @@ The target property configuration is a multi-level residential unit specifically
 
 - **Second Floor (Dedicated Dreaming Lab Architecture Zone):**
   - The master bedroom shall undergo full-scale room reconstruction to transform it into the Dreaming Lab semantic execution zone.
-  - Direct installation of AI server racks, NVL72 compute nodes, UPS systems, high-density cooling, precision airflow control, high-speed networking, secure physical access, and semantic execution visualization workstations will be deployed exclusively within this master bedroom laboratory space.
-  - All remaining areas of the second floor — including the secondary bedroom, hallway, staircase, and auxiliary zones — will retain high-quality residential-grade construction standards consistent with home living functionality, without technical laboratory modifications.
-  - The secondary bedroom remains reserved for personal rest and auxiliary workspace during extended architecture research cycles.
-  - Existing en-suite utility areas connected to the master bedroom will be converted into environmental stabilization, gas-based fire suppression, and closed-loop cooling subsystems specifically serving the Dreaming Lab core compute zone.
-  - South-facing balcony attached to the master bedroom will be integrated with the 85" QN950F wall-mounted rendering display for life-scale semantic path debugging and fluid dynamic visualization.
+  - Direct installation of AI server racks, NVL72 compute nodes, UPS systems, high-density cooling, precision airflow control, high-speed networking, secure physical access, and semantic execution visualization workstations will be deployed within this master laboratory space.
+  - The existing en-suite utility area (original bathroom) connected to the master bedroom will be fully converted into an enclosed physical book and technical document storage area, allowing for local reference archives and knowledge access during extended architecture development cycles.
+  - The south-facing balcony attached to the master bedroom will remain purely residential, equipped as a private rest zone with ergonomic seating for cognitive decompression and long-session psychological stabilization, fully isolated from technical infrastructure.
+  - The existing second floor study room will be fully reconstructed into a dedicated machine room housing the AI server racks, NVL72 compute nodes, UPS modules, and power distribution equipment, with precision cooling and airflow management systems isolated within this enclosure.
+  - Both the Dreaming Lab core workspace (master bedroom zone) and the machine room (study room zone) will be secured with industrial-grade electronic locking systems to ensure personnel isolation, safety, and operational integrity.
+  - All remaining areas of the second floor — including the secondary bedroom, hallways, staircase, and auxiliary zones — will retain full residential-grade construction standards, maintaining normal daily living functionality for non-laboratory spaces without unnecessary technical overengineering.
 
-This combined architectural approach guarantees stable long-term operational capacity, continuous full-time AI architecture development, and industrial-grade semantic system evolution — while maintaining full sponsor ownership and asset stability through the dedicated property acquisition process, with strict scope control ensuring non-laboratory residential spaces remain fully optimized for normal residential living, cost efficiency, and functional separation.
+This combined architectural approach guarantees stable long-term operational capacity, continuous full-time AI architecture development, and industrial-grade semantic system evolution — while maintaining full sponsor ownership and asset stability through the dedicated property acquisition process, with strictly defined scope boundaries ensuring clear separation between laboratory zones and non-technical residential areas to optimize sponsor capital allocation and asset risk control.
 
 ### Core Facility Requirements:
 
