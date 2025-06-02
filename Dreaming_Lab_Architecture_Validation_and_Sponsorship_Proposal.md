@@ -94,7 +94,7 @@ Include diverse experimental architectures — for example, utilizing AI Compute
 - **Monitors:**
   - ASUS ProArt PA32KCX 8K HDR Reference Monitors
   - Samsung 98" 8K Neo QLED Display (Model: QA98QN990FJXZK) — Fixed Wall-Mount Installation
-  - Samsung 114" MicroLED Display (Model: MNA114MS1CCXXZ) — Fixed Wall-Mount Installation, paired with Intel NUC13 5090FE PC (Core i9-13900K, 64GB DDR5 RAM, 2TB NVMe,5090FE) for local media processing, visualization handling, and VPN-integrated content routing.
+  - Samsung 114" MicroLED Display (Model: MNA114MS1CCXXZ) — Fixed Wall-Mount Installation, paired with Intel NUC13 5090FE PC (Core i9-13900K, 64GB DDR5 RAM, 2TB NVMe,5090FE,Enermax PlatiGemini1200 12VO 1200W Power Supply Unit) for local media processing, visualization handling, and VPN-integrated content routing.
 
 #### Intended Application:
 > **Used for ultra-high-resolution rendering experiments, visual verification of semantic path outputs, precision color calibration during hybrid simulation-to-rendering pipeline tests, large-scale dynamic visualization of fluid and particle simulation results, cinematic-scale AI semantic flow visualization, and immersive debugging of full-path semantic executions under life-size real-world projection environments.**
