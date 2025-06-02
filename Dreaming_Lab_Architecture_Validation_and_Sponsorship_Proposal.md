@@ -219,6 +219,7 @@ This fully integrated structure achieves maximum operational capacity, full-cycl
   - 100GbE or higher internal interconnect to fully support NVLink/NVL72 cluster traffic.
   - Physical network segmentation for execution nodes, development nodes, external access zones, and security firewalls.
   - Redundant fiber uplinks for external data integration, semantic corpus ingestion, and model training dataset access.
+  - Research network layer includes integrated enterprise-grade VPN tunneling capability for global corpus retrieval, academic dataset access, and international semantic resource acquisition — fully isolated from production compute fabrics to preserve deterministic architecture control boundaries.
 
 - **Environmental Monitoring and Stability Feedback:**
   - Continuous temperature, humidity, and particulate monitoring with real-time dashboard integration.
