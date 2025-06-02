@@ -31,7 +31,7 @@ Relative to traditional large-scale AI training projects, Dreaming Lab offers a 
 
 In contrast, Dreaming Lab directly provides an alternative architecture track focused on deterministic, observable, and modular system growth:
 
-- **Total capital expenditure remains in the 500,000,000 USD range — orders of magnitude below the billions often allocated to LLM training.**
+- **Total capital expenditure remains in the 1 Billion USD range — orders of magnitude below the billions often allocated to LLM training.**
 - **All hardware assets remain reusable even in partial failure scenarios.**
 - **Development risk is fully isolatable at each module checkpoint, with linear growth curves rather than exponential sunk cost accumulation.**
 - **System behavior is fully observable and traceable at each stage — eliminating black-box training uncertainty.**
