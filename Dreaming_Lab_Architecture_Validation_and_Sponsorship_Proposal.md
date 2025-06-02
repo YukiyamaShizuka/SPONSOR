@@ -67,16 +67,33 @@ Include diverse experimental architectures — for example, utilizing AI Compute
 
 - **Model:** 20× NVIDIA GB200 NVL72 (or GB300 NVL72 for extreme-scale experimental workloads)
 
-- **Integration:** The Dreaming architecture establishes a hierarchical high-density compute layer with role-specific NVL72 allocation. The system divides into two fully isolated experimental subsystems:
+- **Integration:**  
+  The Dreaming architecture establishes a **tiered ultra-high-density compute structure**, fully leveraging the capacity of the dedicated underground industrial-grade machine room. The system divides into two fully isolated operational clusters to support distinct architecture development pipelines:
 
   - **AI Server 00:**  
-    Directly connected to 4× NVL72 units. This isolated pairing supports core Signal compiler development, architectural instruction-path language construction, and deterministic path execution verification. Visual validation is performed through ASUS ProArt PA32KCX 8K HDR reference monitors for precision language-level path inspection and structural debugging.
+    Directly connected to **4× NVL72 units**.  
+    This isolated compute cluster supports all foundational architecture development tasks, including:
+    - Core **Signal compiler kernel development**  
+    - Instruction-path language binding experiments  
+    - Deterministic low-level execution path expansion  
+    - Semantic control flow compiler debugging  
+    - Architecture kernel instruction trace stability validation  
+    Visualization and rendering validation for this path development tier remains supported by the **ASUS ProArt PA32KCX 8K HDR Reference Monitors** for pixel-level path structure inspection, semantic debugging, and system stability verification.
 
   - **AI Server 01:**  
-    Directly connected to 16× NVL72 units, aggregated into a unified tensor compute fabric. This configuration supports large-scale SapClarify semantic translation experiments, SC-AI bidirectional training pipelines, recursive semantic-to-path alignment model verification, as well as advanced neural-fluid simulation engines. All rendering and visualization output in this segment is presented through the 98" Samsung QA98QN990FJXZK 8K QLED display, enabling wide-field, life-scale observation of high-density simulation artifacts, dynamic fluid interaction surfaces, and neural-rendered system visualizations under extreme-scale computational loads.
+    Directly connected to **16× NVL72 units**, unified as an aggregated tensor compute super-fabric.  
+    This subsystem serves as the semantic-to-instruction AI research engine, supporting:
+    - Large-scale **SapClarify recursive translation training pipelines**
+    - Full-scale **SC-AI bidirectional alignment modeling**
+    - **Neural-path recursive translation stability verification**
+    - **Neural-fluid dynamic simulation engines** for advanced rendering physics exploration
+    - Extreme-scale tensor-core accelerated model convergence sweeps
+    Semantic render validation, dynamic fluid path simulation, and cognitive visual inspections are performed through the dedicated **Samsung 98" QA98QN990FJXZK 8K Neo QLED Display**, providing wide-field semantic output visualization, life-scale fluid simulation evaluation, and dynamic multi-path translation integrity monitoring.
 
 - **Control Layer Separation:**  
-  Logical control orchestration, path generation, semantic parsing, and instruction scheduling remain strictly decoupled from tensor execution compute planes. Deterministic runtime observability and validation integrity are fully preserved throughout all experimental pipelines under industrial-grade high-throughput validation scenarios.
+  The complete compute architecture maintains strict logical decoupling between semantic control planes and tensor execution hardware layers.  
+  - All semantic control, compiler scheduling, instruction pipeline orchestration, and path validation remain isolated from raw tensor-core compute operations.
+  - Full deterministic runtime observability and validation auditability is continuously preserved across every stage of experimental execution, even under extreme full-capacity computational workloads.
 
 #### AI Compute Nodes Utilization Note:
 > **The AI Compute Nodes are primarily allocated for semantic-symbolic translation training between SapClarify semantic path structures and AI-generated language models. They serve as high-density compute modules for recursive mapping experiments, model path convergence testing, and large-scale bidirectional alignment between deterministic system logic and generative AI representations.**
