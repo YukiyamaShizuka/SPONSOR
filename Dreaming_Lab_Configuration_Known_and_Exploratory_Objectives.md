@@ -19,7 +19,7 @@
 > **Risk-Return Optimization Statement for Sponsor Evaluation:**  
 >  
 > Relative to traditional large-scale AI training projects, Dreaming Lab offers a highly favorable risk-return profile.  
-> - Total capital expenditure remains in the 6,500,000 CNY range — orders of magnitude below the billions often allocated to LLM training.
+> - Total capital expenditure remains in the 100,000,000 USD range — orders of magnitude below the billions often allocated to LLM training.
 > - All hardware assets remain reusable even in partial failure scenarios.
 > - Development risk is fully isolatable at each module checkpoint, with linear growth curves rather than exponential sunk cost accumulation.
 > - The ultimate architectural yield—if successful—provides fundamental semantic execution control rights applicable across multiple AI domains.
