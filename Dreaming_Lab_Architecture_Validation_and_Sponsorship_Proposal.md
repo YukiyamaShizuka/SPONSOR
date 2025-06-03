@@ -225,6 +225,7 @@ Unlike conventional LLM-centric AI research models, Dreaming Lab directly pursue
 - **CPU:** 2× Intel Xeon 6980P (Granite Rapids, 256 cores total)
 - **Memory:** 6TB DDR5 ECC per server
 - **GPU:** 8× NVIDIA RTX PRO 6000 Blackwell Server Edition
+- **System Storage:** Sumsung 9100PRO 4TB NVMe (per node)
 - **Data Storage:** 8× 15.36TB PCIe 5.0 U.2 NVMe (per node)
 - **Purpose:** Dedicated SapClarify language model alignment, path compiler verification & semantic map alignment.
 
