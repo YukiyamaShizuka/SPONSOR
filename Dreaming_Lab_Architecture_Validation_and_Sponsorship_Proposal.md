@@ -326,7 +326,7 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
   - **Private exterior landscaped garden courtyard exceeding 200 square meters**, providing outdoor cognitive decompression space, natural light access, seasonal environmental stability, and additional physical separation buffer from neighboring residential or commercial structures.
 - **Underground Level (Full Industrial Subsurface Conversion):**
   - Existing underground **bowling alley zone** converted into primary datacenter-grade compute chamber.
-  - Total subsurface facility allocation: ~100+ square meters.
+  - Total subsurface facility allocation: ~150+ square meters.
   - Full machine room functions relocated to isolated subterranean layer for:
     - Thermal containment
     - Acoustic isolation
@@ -636,7 +636,7 @@ The Dreaming Lab architecture fundamentally departs from conventional institutio
 
 - **Total Site Type:** Fully detached independent residential complex  
 - **Structure Count:** Single multi-story independent residential-laboratory fusion structure
-- **Above-Ground Build Area:** ~500 sqm total liveable space
+- **Above-Ground Build Area:** ~700 sqm total liveable space
 - **Basement Level:** Fully enclosed subsurface compute core
 - **Outdoor Zones:**  
   - Private garden zone with controlled acoustic boundaries.
