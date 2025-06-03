@@ -902,3 +902,122 @@ To preserve both parties' long-term interests, a dual-layer preservation and leg
 **Preservation Framework Summary Statement:**  
 > The Dreaming Lab corpus vault serves simultaneously as a capital-protected sponsor asset and an intellectual-sovereign developer innovation archive.  
 > Through dual-key authorship certification, corpus immutability, and structural IP boundary separation, both parties secure maximum long-term protection — eliminating future legal ambiguity while jointly capturing the full semantic system growth curve.
+
+## 🔟 Sponsor-Facing Financial Predictability & Long-Horizon Capital Control Model
+
+**Strategic Capital Management Objective:**  
+To ensure complete financial transparency, predictable long-term budgeting, and full risk-managed capital exposure for all sponsor-side financial controllers while executing Dreaming Lab’s full-stack architecture roadmap.
+
+---
+
+### 10.1 — Stable Hardware Capital Allocation Model
+
+- **Total Primary Capital Envelope:**  
+  - Full-stack Dreaming Lab capital budget ceiling established at **1 Billion USD**.
+
+- **Hardware Acquisition Breakdown:**
+  - AI Server Platforms (2× RTX PRO Server clusters)
+  - NVIDIA NVL72 Compute Nodes (20 units total)
+  - Semantic Development Workstations & Display Subsystems
+  - Precision Cooling, Electrical Isolation, Industrial Datacenter Infrastructure
+  - Residential Facility Acquisition & Renovation
+  - Cognitive Stabilization Environmental Engineering
+  - Security & Physical Access Control
+
+- **Single-Cycle Upfront Procurement:**  
+  - No recurring mid-cycle expansion phases.
+  - Full hardware inventory secured in one unified procurement cycle.
+  - Sponsor retains capital control during entire hardware negotiation and deployment stages.
+
+---
+
+### 10.2 — Stable Power & Environmental Operations Budget
+
+- **Long-Term Predictive Energy Modeling:**  
+  - Full-cycle runtime power draw forecast models established.
+  - Projected active runtime continuous draw:
+    - **85 kW (baseline) — 120 kW (peak runtime)**
+  - Precision thermal stabilization system designed to optimize cooling energy curves dynamically.
+
+- **Sponsor-Backed Energy Subsidy Pool:**  
+  - Continuous sponsor financial allocation to cover all electricity, cooling, and environmental support layers.
+  - Energy costs modeled on stable local Japanese regional commercial industrial grid pricing.
+
+---
+
+### 10.3 — Facility Renovation & Maintenance Budget Stabilization
+
+- **One-Time Renovation Cost Window:**  
+  - Complete detached residence & laboratory facility purchase
+  - Full high-grade residential interior engineering
+  - Complete laboratory zone industrial reinforcement & conversion
+  - Underground machine room reconstruction & datacenter-grade isolation buildout
+  - Complete security, access control, air handling, and sound isolation system installation
+
+- **Long-Term Facility Maintenance Fund:**  
+  - Sponsor-backed dedicated maintenance allocation pool.
+  - Covers multi-decade facility upkeep, equipment replacement, and physical environment integrity preservation.
+
+---
+
+### 10.4 — Researcher Personal Stability Subsidy Envelope
+
+- **Dedicated Developer Life Support Package:**  
+  - Full living stipend coverage across entire research cycle.
+  - Private residential stability assurance.
+  - Personal medical insurance, taxation, and social contribution stability.
+  - Family stabilization allowance for continuous residency integrity.
+
+- **Annual Support Forecast:**  
+  - Modeled at mid-tier Japan regional cost-of-living adjusted standards.
+  - Fully sponsor-backed without additional researcher dependency obligations.
+
+---
+
+### 10.5 — Sponsor Investment Risk Mitigation Structures
+
+| Risk Axis | Mitigation Strategy |
+| ----------- | ------------------- |
+| Capital Sunk Cost | Single-round hardware acquisition eliminates prolonged exposure |
+| Hardware Obsolescence | Fixed deterministic semantic target avoids LLM-style retraining cycles |
+| Researcher Stability Risk | Full personal support subsidy prevents psychological disruption |
+| Data Loss Risk | Immutable semantic corpus replication with offsite sovereign storage |
+| Legal Ownership Dispute | Pre-structured IP separation boundaries with arbitration fallback |
+| Uncertain ROI Windows | Tiered milestone reviews with cross-phase progress certification |
+
+---
+
+### 10.6 — Long-Horizon Multi-Year Budget Visibility
+
+- **Primary Capital Deployment Timeline:**  
+  - Year 0: Full hardware and facility acquisition
+  - Year 1: Renovation buildout and architecture kernel initiation
+  - Year 2-5+: Full system architecture validation and corpus expansion cycles
+
+- **Sponsor Receives:**  
+  - Quarterly capital deployment reports
+  - Full inventory verification
+  - Financial exposure dashboards
+  - Long-horizon operational burn-rate projections
+
+---
+
+### 10.7 — Predictability Summary Statement
+
+> Unlike conventional high-variance AI training investments, Dreaming Lab operates under maximum capital predictability through:
+> - Fixed acquisition cost envelope
+> - Fully isolatable module-by-module development risks
+> - Non-recurring sunk cost structures
+> - Extreme multi-year budget stabilization for sponsor board visibility
+
+---
+
+**Sponsor Financial Controller Assurance Summary:**  
+> Dreaming Lab’s full-stack execution model has been deliberately engineered not only for technical system clarity, but also for unprecedented long-term financial clarity across all capital exposure windows.
+>
+> This architecture guarantees that sponsors face:  
+> ✅ Fully known capital ceilings  
+> ✅ Fully separable development phase checkpoints  
+> ✅ Fully controllable operational cost curves  
+> ✅ Fully transparent multi-year budget visibility  
+> ✅ Fully contractually bounded risk exposure per capital tranche
