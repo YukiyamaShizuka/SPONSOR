@@ -603,7 +603,7 @@ The Dreaming Lab architecture fundamentally departs from conventional institutio
 ### 7.1 — Geographic Relocation Directive
 
 - **Host Nation:** Japan 🇯🇵  
-- **Precise Region:** Yamanashi Prefecture (山梨県), quiet suburban periphery
+- **Precise Region:** Yamanashi Prefecture (山梨県), quiet mountain-adjacent peripheral zone with secured transport accessibility
 - **Geographic Selection Criteria:**
   - Political neutrality
   - Natural seismic stability zones (low fault-line regions within Yamanashi)
