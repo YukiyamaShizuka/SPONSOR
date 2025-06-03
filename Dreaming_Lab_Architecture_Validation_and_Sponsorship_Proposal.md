@@ -319,8 +319,8 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
 ### 4.2 — Property Physical Structure Specifications
 
 - **Above Ground Facility:**
-  - 2 Floors, fully detached luxury private residence.
-  - Total residential + research interior footprint: **~500 square meters above ground.**
+  - 2 Floors, fully detached luxury private residence located within mountain-adjacent secured research zone.
+  - Total residential + research interior footprint: **~700 square meters above ground.**
   - Reinforced earthquake-resistant composite concrete & steel frame structure.
   - Fully private enclosed compound with acoustic isolation perimeter fencing.
   - **Private exterior landscaped garden courtyard exceeding 100 square meters**, providing outdoor cognitive decompression space, natural light access, seasonal environmental stability, and additional physical separation buffer from neighboring residential or commercial structures.
@@ -936,7 +936,7 @@ To ensure complete financial transparency, predictable long-term budgeting, and 
 - **Long-Term Predictive Energy Modeling:**  
   - Full-cycle runtime power draw forecast models established.
   - Projected active runtime continuous draw:
-    - **85 kW (baseline) — 120 kW (peak runtime)**
+    - **850 kW (baseline) — 1200 kW (peak runtime)**
   - Precision thermal stabilization system designed to optimize cooling energy curves dynamically.
 
 - **Sponsor-Backed Energy Subsidy Pool:**  
