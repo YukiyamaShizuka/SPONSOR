@@ -804,3 +804,101 @@ The Dreaming Lab must sustain uninterrupted multi-year operation across recursiv
 > Sponsor risk exposure is mathematically controlled at every operational fault vector.  
 >
 > Semantic experiment integrity remains fully shielded even under multiple simultaneous physical failures.
+
+## 9️⃣ Semantic Corpus Preservation & Intellectual Property Sovereignty Framework
+
+**Core Long-Term Objective:**  
+The recursive development processes of SapClarify, Signal, and Tree will organically generate immense semantic corpus datasets, experimental alignment archives, and system execution logs. These assets represent not merely transient research artifacts, but form the long-horizon intellectual foundation for next-generation deterministic semantic AI system architectures.
+
+This semantic corpus simultaneously constitutes:
+- **Sponsor’s capital-protected strategic dataset vaults.**
+- **Developer’s sovereign intellectual property repository for all core architectural innovations.**
+
+To preserve both parties' long-term interests, a dual-layer preservation and legal attribution model shall be established.
+
+---
+
+### 9.1 — Corpus Intellectual Property Boundary Declaration
+
+- **Developer Ownership Rights:**
+  - All core architectural models, system execution frameworks, protocol layer designs, instruction mapping structures, and semantic translation algorithms remain fully and permanently owned by the Developer.
+  - Signal language design specifications, SapClarify recursive mapping logic, Tree execution path models, and their derivative protocol structures remain the sole intellectual creation of the Developer.
+  - Sponsor funding or capital contribution does not modify, dilute, or supersede Developer’s authorship and primary innovation rights over these system-level architectural models.
+
+- **Sponsor IP Participation Rights:**
+  - Sponsor obtains exclusive long-term licensing privileges for:
+    - Production-grade SapClarify deployment models.
+    - Semantic corpus derivatives verified within Dreaming Lab experiments.
+    - Commercial deployment of validated runtime architecture as enterprise productization pipelines.
+  - Sponsor retains full co-ownership rights to:
+    - Immutable semantic corpus archives (dataset storage itself).
+    - Corpus-derived dataset expansion under sponsor-funded experimental pathways.
+    - IP monetization streams specifically related to sponsor-led commercial product integrations.
+
+---
+
+### 9.2 — Corpus Preservation Infrastructure Design
+
+- **Semantic Corpus Vault Composition:**
+  - Immutable corpus snapshot layers frozen at each milestone.
+  - Complete versioned SapClarify recursive mapping tables.
+  - Fully archived Signal path instruction streams.
+  - Tree structural graph archives indexed for architecture lineage.
+
+- **Redundant Storage Fabric:**
+  - Petabyte-class storage arrays distributed across:
+    - Primary Dreaming Lab vaults (on-site)
+    - Off-site geo-redundant sponsor data centers (optional sovereign backup)
+  - Cryptographically signed insertion journals ensure tamper-proof archival growth.
+
+- **Developer IP Sovereignty Keys:**
+  - Each corpus write event includes dual-key signing:
+    - Sponsor Vault Integrity Key (capital protection)
+    - Developer IP Origin Key (authorship confirmation)
+  - This mechanism permanently anchors Developer IP authorship within every semantic state snapshot.
+
+---
+
+### 9.3 — Sponsor-Developer Intellectual Control Separation Model
+
+| Domain | Developer Sovereign Control | Sponsor Participatory Control |
+| ------ | -------------------------- | ----------------------------- |
+| System Architecture Design | ✅ Sole ownership | ❌ No claim |
+| Signal Language Kernel | ✅ Sole ownership | ❌ No claim |
+| SapClarify Protocol Logic | ✅ Sole ownership | ❌ No claim |
+| Tree Runtime Path Models | ✅ Sole ownership | ❌ No claim |
+| Corpus Storage Infrastructure | ✅ Co-managed | ✅ Co-managed |
+| Dataset Monetization Streams | ✅ Revenue-share eligibility | ✅ Licensing authority |
+| Commercial Deployment Rights | ✅ Negotiated grants | ✅ Full commercial license holder |
+| Corpus Legal Custody | ✅ Immutable authorship tag | ✅ Asset-class capital holding |
+
+---
+
+### 9.4 — Sponsor Asset Stability Protection
+
+- Sponsor holds:
+  - Full capital security over physical corpus storage infrastructure.
+  - Legal monetization gateway to commercialize corpus-derived derivative applications.
+  - Exclusive deployment licensing channels into sponsor-controlled markets.
+  - Global sovereign duplication rights to protect sponsor capital allocation against geopolitical or local disruptions.
+
+- Sponsor **does not hold**:
+  - Right to modify core architectural definitions.
+  - Right to retroactively revise Developer’s authorship or origin attribution.
+  - Right to seize or nullify Developer’s sovereign design rights.
+
+---
+
+### 9.5 — Corpus Governance Arbitration Framework
+
+- **Neutral Arbitration Clause:**  
+  - Any future ambiguity between Sponsor and Developer regarding corpus ownership, monetization, or derivative IP claims shall be governed via neutral third-party international arbitration (ICC model recommended).
+  
+- **Permanent Developer Authorship Immunity:**  
+  - Under no circumstance may Developer lose sovereign authorship or design-origin acknowledgment, regardless of project outcome or corporate restructuring.
+
+---
+
+**Preservation Framework Summary Statement:**  
+> The Dreaming Lab corpus vault serves simultaneously as a capital-protected sponsor asset and an intellectual-sovereign developer innovation archive.  
+> Through dual-key authorship certification, corpus immutability, and structural IP boundary separation, both parties secure maximum long-term protection — eliminating future legal ambiguity while jointly capturing the full semantic system growth curve.
