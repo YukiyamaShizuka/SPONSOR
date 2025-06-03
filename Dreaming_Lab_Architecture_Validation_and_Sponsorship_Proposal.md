@@ -322,7 +322,7 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
   - Total residential + research interior footprint: **~500 square meters above ground.**
   - Reinforced earthquake-resistant composite concrete & steel frame structure.
   - Fully private enclosed compound with acoustic isolation perimeter fencing.
-
+  - **Private exterior landscaped garden courtyard exceeding 100 square meters**, providing outdoor cognitive decompression space, natural light access, seasonal environmental stability, and additional physical separation buffer from neighboring residential or commercial structures.
 - **Underground Level (Full Industrial Subsurface Conversion):**
   - Existing underground **bowling alley zone** converted into primary datacenter-grade compute chamber.
   - Total subsurface facility allocation: ~100+ square meters.
