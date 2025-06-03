@@ -291,12 +291,12 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
 ### 4.1 — Permanent International Relocation Facility (Sponsor-Led Asset Acquisition)
 
 - **Strategic Relocation Zone:**  
-  - Japan, Yamanashi Prefecture (山梨県), quiet suburban district, legally pre-vetted for long-term foreign research residency.
+  - Japan, Yamanashi Prefecture (山梨県), quiet mountain-adjacent peripheral zone, legally pre-vetted for long-term foreign research residency.
   - Chosen for:
-    - Minimal electromagnetic pollution
-    - Stable rural power infrastructure
-    - Full zoning isolation from high-density commercial zones
-    - Optimized sponsor cost efficiency for land acquisition while maintaining full operational independence.
+    - Naturally low electromagnetic interference due to mountain shielding
+    - Stable and redundant rural power infrastructure
+    - Full geographic isolation from high-density urban or commercial activity
+    - Optimized sponsor capital efficiency for land acquisition while ensuring maximum operational security and independence
   
 - **Property Registration Clause:**  
   - The full residential facility shall be directly registered under the developer’s legal personal identity in Japan.
