@@ -73,7 +73,7 @@ To fully support the cross-national residency transition, sponsor support shall 
 ### Site Configuration Summary
 
 - **Above-Ground Structure:**  
-  500 square meters of total usable internal space across two detached levels.
+  700 square meters of total usable internal space across two detached levels.
 
 - **Basement Data Center Zone:**  
   Fully enclosed underground facility pre-allocated for full AI machine room conversion.
@@ -323,7 +323,7 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
   - Total residential + research interior footprint: **~700 square meters above ground.**
   - Reinforced earthquake-resistant composite concrete & steel frame structure.
   - Fully private enclosed compound with acoustic isolation perimeter fencing.
-  - **Private exterior landscaped garden courtyard exceeding 100 square meters**, providing outdoor cognitive decompression space, natural light access, seasonal environmental stability, and additional physical separation buffer from neighboring residential or commercial structures.
+  - **Private exterior landscaped garden courtyard exceeding 200 square meters**, providing outdoor cognitive decompression space, natural light access, seasonal environmental stability, and additional physical separation buffer from neighboring residential or commercial structures.
 - **Underground Level (Full Industrial Subsurface Conversion):**
   - Existing underground **bowling alley zone** converted into primary datacenter-grade compute chamber.
   - Total subsurface facility allocation: ~100+ square meters.
