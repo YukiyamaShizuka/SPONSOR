@@ -11,7 +11,7 @@ Once fully deployed, I commit to full-cycle immersion operation within this envi
 
 ### Relocation Target: Japan, Yamanashi Prefecture (山梨県)
 
-To fully support the Dreaming Lab operational model, the project will anchor itself within the quieter suburban peripheral zones of Japan’s Yamanashi Prefecture. This location was chosen after careful optimization across multiple axes important to both sponsor capital protection and developer architectural stability:
+To fully support the Dreaming Lab operational model, the project will anchor itself within the quieter mountain-adjacent peripheral zones of Japan’s Yamanashi Prefecture, with maintained accessibility to major transport lines. This location was chosen after careful optimization across multiple axes important to both sponsor capital protection and developer architectural stability:
 
 - **Legal & Political Stability:**  
   Japan offers one of the highest levels of long-horizon political predictability, institutional rule of law, and sponsor contract enforcement globally.
