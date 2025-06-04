@@ -319,7 +319,7 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
 ### 4.2 — Property Physical Structure Specifications
 
 - **Above Ground Facility:**
-  - 2 Floors, fully detached luxury private residence located within mountain-adjacent secured research zone.
+  - 2 floors, fully detached private research residence located within the Lake Yamanaka (山中湖) secured low-density research development zone.
   - Total residential + research interior footprint: **~700 square meters above ground.**
   - Reinforced earthquake-resistant composite concrete & steel frame structure.
   - Fully private enclosed compound with acoustic isolation perimeter fencing.
