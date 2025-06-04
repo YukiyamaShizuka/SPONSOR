@@ -442,7 +442,7 @@ This personal support package forms one of the key non-hardware components of th
 ### 5.2 — Capital Sizing & Budget Provisions
 
 - **Total Dedicated Personal Fund Estimate:**  
-  - **10,000,000 USD capital allocation** recommended as long-horizon financial stability buffer.
+  - **100,000,000 USD capital allocation** recommended as long-horizon financial stability buffer.
   - This fund scales conservatively to support not only the developer, but potential family expansion or emergency buffers across 20+ year window.
 
 - **Stability Clause Logic:**  
