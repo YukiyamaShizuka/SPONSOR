@@ -604,7 +604,8 @@ The Dreaming Lab architecture fundamentally departs from conventional institutio
 ### 7.1 — Geographic Relocation Directive
 
 - **Host Nation:** Japan 🇯🇵  
-- **Precise Region:** Yamanashi Prefecture (山梨県), Lake Yamanaka (山中湖) region, quiet mountain-adjacent peripheral zone with secured multi-modal transport accessibility, situated within a 400 meters by 300 meters fully enclosed private estate; the primary residence occupies a 100 meters by 75 meters footprint, with both the estate and the residence aligned along their long axis directly facing Mount Fuji and Lake Yamanaka.
+- **Precise Region:** Yamanashi Prefecture (山梨県), Lake Yamanaka (山中湖) region, quiet mountain-adjacent peripheral zone with secured multi-modal transport accessibility, situated within a 400 meters by 300 meters fully enclosed private estate; the primary residence occupies a 100 meters by 75 meters footprint, constructed as a two-level structure, with both the estate and the residence aligned along their long axis directly facing Mount Fuji and Lake Yamanaka.
+
 - **Geographic Selection Criteria:**
   - Political neutrality
   - Natural seismic stability zones (low fault-line regions within Yamanashi)
@@ -1103,7 +1104,7 @@ This produces technical compounding unlike unstable LLM pipelines.
 
 ---
 
-A detailed breakdown of how I intend to utilize these hardware resources — including both defined architectural phases and speculative exploratory avenues — is documented in [Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md](./Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md).
+A detailed breakdown of how I intend to utilize these resources — including both defined architectural phases and speculative exploratory avenues — is documented in [Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md](./Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md).
 
 **The full scope of this Dreaming configuration represents an extraordinary opportunity — one that grows increasingly compelling with every passing day, as I eagerly anticipate the chance to explore, validate, and build upon these architectures.**
 
