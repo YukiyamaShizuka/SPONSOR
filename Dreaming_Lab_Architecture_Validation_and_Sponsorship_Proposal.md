@@ -11,7 +11,7 @@ Once fully deployed, I commit to full-cycle immersion operation within this envi
 
 ### Relocation Target: Japan, Yamanashi Prefecture (山梨県)
 
-To fully support the Dreaming Lab operational model, the project will anchor itself within the quieter mountain-adjacent peripheral zones of Japan’s Yamanashi Prefecture, with maintained accessibility to major transport lines. This location was chosen after careful optimization across multiple axes important to both sponsor capital protection and developer architectural stability:
+To fully support the Dreaming Lab operational model, the project will anchor itself within the Lake Yamanaka (Yamanakako) region of Japan’s Yamanashi Prefecture, leveraging the area’s stable climatic patterns, low population density, and natural proximity to Mount Fuji. The location remains logistically accessible to major transportation infrastructure while ensuring full environmental isolation required for long-term facility stability. This site was selected after comprehensive optimization across multiple axes important to both sponsor capital protection and developer architectural stability, including seismic resilience, thermal and electromagnetic consistency, power infrastructure scalability, legal construction flexibility, and long-term expansion headroom.
 
 - **Legal & Political Stability:**  
   Japan offers one of the highest levels of long-horizon political predictability, institutional rule of law, and sponsor contract enforcement globally.
@@ -292,7 +292,7 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
 ### 4.1 — Permanent International Relocation Facility (Sponsor-Led Asset Acquisition)
 
 - **Strategic Relocation Zone:**  
-  - Japan, Yamanashi Prefecture (山梨県), quiet mountain-adjacent peripheral zone, legally pre-vetted for long-term foreign research residency.
+  - Japan, Yamanashi Prefecture (山梨県), Lake Yamanaka (山中湖) region, quiet mountain-adjacent peripheral zone, legally designated and pre-cleared for long-term foreign research residency and private laboratory facility development.
   - Chosen for:
     - Naturally low electromagnetic interference due to mountain shielding
     - Stable and redundant rural power infrastructure
@@ -604,7 +604,7 @@ The Dreaming Lab architecture fundamentally departs from conventional institutio
 ### 7.1 — Geographic Relocation Directive
 
 - **Host Nation:** Japan 🇯🇵  
-- **Precise Region:** Yamanashi Prefecture (山梨県), quiet mountain-adjacent peripheral zone with secured transport accessibility
+- **Precise Region:** Yamanashi Prefecture (山梨県), Lake Yamanaka (山中湖) region, quiet mountain-adjacent peripheral zone with secured multi-modal transport accessibility.
 - **Geographic Selection Criteria:**
   - Political neutrality
   - Natural seismic stability zones (low fault-line regions within Yamanashi)
