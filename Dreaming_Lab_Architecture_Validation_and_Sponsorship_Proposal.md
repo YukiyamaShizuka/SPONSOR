@@ -106,7 +106,7 @@ To fully unlock the semantic system architecture development potential envisione
 
 - **Complete Living Cost Coverage:**  
   - Full ongoing residential living expenses, including food, utilities, transportation, personal insurance, healthcare, and daily necessities.
-  - Indexed long-horizon living budget designed for 20–30 year operational continuity.
+  - Indexed long-horizon living budget designed for 100 year operational continuity.
 
 - **No External Employment Interruption:**  
   - Developer shall not engage in outside employment obligations or contract distractions that interfere with cognitive immersion.
@@ -167,7 +167,7 @@ To fully unlock the semantic system architecture development potential envisione
 | Long-Horizon Contingency Reserve | $40,000 USD |
 | **Total Annual Personal Support** | **$400,000 USD / Year** |
 
-- Multiplied across 20-30 year operational horizon, total projected personal stability fund reaches $4–6 Million USD equivalent — an extremely minor fraction of total Dreaming Lab capital structure, yet securing absolute personal system stability.
+- Multiplied across 100 year operational horizon, total projected personal stability fund reaches $10–20 Million USD equivalent — an extremely minor fraction of total Dreaming Lab capital structure, yet securing absolute personal system stability.
 
 ---
 
@@ -429,7 +429,7 @@ This personal support package forms one of the key non-hardware components of th
     - Education or dependent support if applicable.
 
 - **Funding Term:**  
-  - Minimum **20-year full term pre-funded at initial Dreaming Lab launch.**
+  - Minimum **100-year full term pre-funded at initial Dreaming Lab launch.**
   - Full coverage model allows 100% uninterrupted architectural execution without developer economic concerns.
 
 - **Funding Control Model:**  
@@ -443,7 +443,7 @@ This personal support package forms one of the key non-hardware components of th
 
 - **Total Dedicated Personal Fund Estimate:**  
   - **100,000,000 USD capital allocation** recommended as long-horizon financial stability buffer.
-  - This fund scales conservatively to support not only the developer, but potential family expansion or emergency buffers across 20+ year window.
+  - This fund scales conservatively to support not only the developer, but potential family expansion or emergency buffers across 100+ year window.
 
 - **Stability Clause Logic:**  
   - This fund effectively creates a **"financial firewall"** isolating Dreaming Lab execution cycles from both personal economic uncertainty and global market disruptions.
