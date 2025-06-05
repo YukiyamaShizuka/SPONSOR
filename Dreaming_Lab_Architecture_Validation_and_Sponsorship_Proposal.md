@@ -11,8 +11,7 @@ Once fully deployed, I commit to full-cycle immersion operation within this envi
 
 ### Relocation Target: Japan, Yamanashi Prefecture (山梨県)
 
-To fully support the Dreaming Lab operational model, the project will anchor itself within the Lake Yamanaka (Yamanakako) region of Japan’s Yamanashi Prefecture, leveraging the area’s stable climatic patterns, low population density, and natural proximity to Mount Fuji. The location remains logistically accessible to major transportation infrastructure while ensuring full environmental isolation required for long-term facility stability. The secured private estate spans 200 meters by 150 meters, while the primary facility occupies a 60 meters by 45 meters footprint, constructed across two fully detached levels with an interior floor-to-ceiling clearance of 4 meters per level and a total structural height exceeding 9 meters. The architectural layout adopts a system-on-chip (SOC) inspired functional matrix partitioning model to ensure fully compartmentalized cognitive, operational, and environmental separation. Both the estate and the main structure are precisely aligned along their long axis directly facing Mount Fuji and Lake Yamanaka, providing full visual anchoring for cognitive rhythm stabilization. This site was selected after comprehensive optimization across multiple axes important to both sponsor capital protection and developer architectural stability, including seismic resilience, thermal and electromagnetic consistency, power infrastructure scalability, legal construction flexibility, and long-term expansion headroom.
-
+To fully support the Dreaming Lab operational model, the project will anchor itself within the Lake Kawaguchi (Kawaguchiko) region of Japan’s Yamanashi Prefecture, leveraging the area’s stable climatic patterns, low population density, and natural proximity to Mount Fuji. The location remains logistically accessible to major transportation infrastructure while ensuring full environmental isolation required for long-term facility stability. The secured private estate spans 200 meters by 150 meters, while the primary facility occupies a 60 meters by 45 meters footprint, constructed across two fully detached levels with an interior floor-to-ceiling clearance of 4 meters per level and a total structural height exceeding 9 meters. The architectural layout adopts a system-on-chip (SOC) inspired functional matrix partitioning model to ensure fully compartmentalized cognitive, operational, and environmental separation. Both the estate and the main structure are precisely aligned along their long axis directly facing Mount Fuji and Lake Kawaguchi, providing full visual anchoring for cognitive rhythm stabilization. This site was selected after comprehensive optimization across multiple axes important to both sponsor capital protection and developer architectural stability, including seismic resilience, thermal and electromagnetic consistency, power infrastructure scalability, legal construction flexibility, and long-term expansion headroom.
 
 - **Legal & Political Stability:**  
   Japan offers one of the highest levels of long-horizon political predictability, institutional rule of law, and sponsor contract enforcement globally.
@@ -293,7 +292,7 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
 ### 4.1 — Permanent International Relocation Facility (Sponsor-Led Asset Acquisition)
 
 - **Strategic Relocation Zone:**  
-  - Japan, Yamanashi Prefecture (山梨県), Lake Yamanaka (山中湖) region, quiet mountain-adjacent peripheral zone, legally designated and pre-cleared for long-term foreign research residency and private laboratory facility development, situated within a secured 200 meters by 150 meters enclosed private estate.
+  - Japan, Yamanashi Prefecture (山梨県), Lake Kawaguchi (河口湖) region, quiet mountain-adjacent peripheral zone, legally designated and pre-cleared for long-term foreign research residency and private laboratory facility development, situated within a secured 200 meters by 150 meters enclosed private estate.
   - Chosen for:
     - Naturally low electromagnetic interference due to mountain shielding
     - Stable and redundant rural power infrastructure
@@ -319,7 +318,7 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
 ### 4.2 — Property Physical Structure Specifications
 
 - **Above Ground Facility:**
-  - 2 floors, fully detached private research residence located within the Lake Yamanaka (山中湖) secured low-density research development zone.
+  - 2 floors, fully detached private research residence located within the Lake Kawaguchi (河口湖) secured low-density research development zone.
   - Total residential + research interior footprint: **~5,400 square meters above ground.**
   - Reinforced earthquake-resistant composite concrete & steel frame structure.
   - Fully private enclosed compound with acoustic isolation perimeter fencing.
@@ -604,7 +603,7 @@ The Dreaming Lab architecture fundamentally departs from conventional institutio
 ### 7.1 — Geographic Relocation Directive
 
 - **Host Nation:** Japan 🇯🇵  
-- **Precise Region:** Yamanashi Prefecture (山梨県), Lake Yamanaka (山中湖) region, quiet mountain-adjacent peripheral zone with secured multi-modal transport accessibility, situated within a 200 meters by 150 meters fully enclosed private estate; the primary residence occupies a 60 meters by 45 meters footprint, constructed as a two-level structure, with both the estate and the residence aligned along their long axis directly facing Mount Fuji and Lake Yamanaka.
+- **Precise Region:** Yamanashi Prefecture (山梨県), Lake Kawaguchi (河口湖) region, quiet mountain-adjacent peripheral zone with secured multi-modal transport accessibility, situated within a 200 meters by 150 meters fully enclosed private estate; the primary residence occupies a 60 meters by 45 meters footprint, constructed as a two-level structure, with both the estate and the residence aligned along their long axis directly facing Mount Fuji and Lake Kawaguchi.
 
 - **Geographic Selection Criteria:**
   - Political neutrality
