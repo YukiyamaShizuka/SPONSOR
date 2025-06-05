@@ -9,7 +9,7 @@ Once fully deployed, I commit to full-cycle immersion operation within this envi
 
 # 1️⃣ Strategic Geographic Deployment & Property Acquisition Framework
 
-### Relocation Target: Japan, Yamanashi Prefecture (山梨県)
+### Relocation Target: Japan, Yamanashi Prefecture (山梨県), Lake Kawaguchi (河口湖) Region
 
 To fully support the Dreaming Lab operational model, the project will anchor itself within the Lake Kawaguchi (Kawaguchiko) region of Japan’s Yamanashi Prefecture, leveraging the area’s stable climatic patterns, low population density, and natural proximity to Mount Fuji. The location remains logistically accessible to major transportation infrastructure while ensuring full environmental isolation required for long-term facility stability. The secured private estate spans 200 meters by 150 meters, while the primary facility occupies a 60 meters by 45 meters footprint, constructed across two fully detached levels with an interior floor-to-ceiling clearance of 4 meters per level and a total structural height exceeding 9 meters. The architectural layout adopts a system-on-chip (SOC) inspired functional matrix partitioning model to ensure fully compartmentalized cognitive, operational, and environmental separation. Both the estate and the main structure are precisely aligned along their long axis directly facing Mount Fuji and Lake Kawaguchi, providing full visual anchoring for cognitive rhythm stabilization. This site was selected after comprehensive optimization across multiple axes important to both sponsor capital protection and developer architectural stability, including seismic resilience, thermal and electromagnetic consistency, power infrastructure scalability, legal construction flexibility, and long-term expansion headroom.
 
@@ -336,7 +336,7 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
 
 ### 4.3 — Interior Zoning Allocation
 
-#### 🏡 First Floor (Family Private Residential Area)
+#### 🏡 First Floor (Private Residential Area)
 
 - Reserved solely for long-term residence of developer’s immediate family.
 - Fully luxury-class residential construction (not laboratory adapted).
