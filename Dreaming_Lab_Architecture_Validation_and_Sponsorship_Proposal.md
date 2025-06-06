@@ -530,6 +530,7 @@ To support full deterministic semantic system development under the Dreaming Lab
 
 - **AI Server 00 Linked Compute Group:**  
   - 4× NVL72 nodes directly mapped for compiler kernel runtime acceleration, statistical path expansion, low-level branch convergence verification, and compiler recursion simulations.
+  - Display Device: ASUS ProArt PA32KCX 8K HDR Reference Display for precision compiler kernel visual debugging, semantic path inspection, and artifact detection.
 
 - **AI Server 01 Linked Compute Group:**  
   - 16× NVL72 nodes fully unified as recursive SapClarify-AI tensor path translation supercore.
@@ -539,6 +540,7 @@ To support full deterministic semantic system development under the Dreaming Lab
     - Neural fluid dynamic rendering models
     - Full-scale path divergence simulations
     - Hybrid neural-physics experiment engine evaluation
+  - Display Device: Samsung The Wall 292" 8K MicroLED Display for full-scale semantic recursion visualization, fluid structure rendering, and multi-dimensional semantic map alignment monitoring.
 
 #### **Integration Architecture:**
 - NVL72 nodes physically isolated in fully independent underground machine room.
