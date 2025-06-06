@@ -662,7 +662,7 @@ The Dreaming Lab architecture fundamentally departs from conventional institutio
 - **Primary Semantic Research Room:**  
   Fully engineered for semantic path development workstation clusters
 - **Cognitive Stabilization Chamber:**  
-  Recovery room equipped with 114” MicroLED immersive decompression system and operator bar
+  Recovery room equipped with 292” MicroLED immersive decompression system and operator bar
 - **Technical Documentation Archives:**  
   Dedicated built-in archive zone for semantic corpus research materials
 
