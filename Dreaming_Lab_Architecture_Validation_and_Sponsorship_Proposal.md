@@ -11,7 +11,7 @@ Once fully deployed, I commit to full-cycle immersion operation within this envi
 
 ### Relocation Target: Japan, Yamanashi Prefecture (山梨県), Lake Kawaguchi (河口湖) Region
 
-To fully support the Dreaming Lab operational model, the project will anchor itself within the Lake Kawaguchi (Kawaguchiko) region of Japan’s Yamanashi Prefecture, leveraging the area’s stable climatic patterns, low population density, and natural proximity to Mount Fuji. The location remains logistically accessible to major transportation infrastructure while ensuring full environmental isolation required for long-term facility stability. The secured private estate spans 200 meters by 150 meters, while the primary facility occupies a 60 meters by 45 meters footprint, constructed across two fully detached levels with an interior floor-to-ceiling clearance of 4 meters per level and a total structural height exceeding 9 meters. The architectural layout adopts a system-on-chip (SOC) inspired functional matrix partitioning model to ensure fully compartmentalized cognitive, operational, and environmental separation. Both the estate and the main structure are precisely aligned along their long axis directly facing Mount Fuji and Lake Kawaguchi, allowing simultaneous unobstructed visual access to both the mountain and the lake, thus providing full dual-anchor stabilization for cognitive rhythm alignment.
+To fully support the Dreaming Lab operational model, the project will anchor itself within the Lake Kawaguchi (Kawaguchiko) region of Japan’s Yamanashi Prefecture, leveraging the area’s stable climatic patterns, low population density, and natural proximity to Mount Fuji. The location remains logistically accessible to major transportation infrastructure while ensuring full environmental isolation required for long-term facility stability. The secured private estate spans 200 meters by 150 meters, while the primary facility occupies a 60 meters by 45 meters footprint, constructed across two fully detached levels with an interior floor-to-ceiling clearance of 4.5 meters per level and a total structural height exceeding 10+ meters. The architectural layout adopts a system-on-chip (SOC) inspired functional matrix partitioning model to ensure fully compartmentalized cognitive, operational, and environmental separation. Both the estate and the main structure are precisely aligned along their long axis directly facing Mount Fuji and Lake Kawaguchi, allowing simultaneous unobstructed visual access to both the mountain and the lake, thus providing full dual-anchor stabilization for cognitive rhythm alignment.
  This site was selected after comprehensive optimization across multiple axes important to both sponsor capital protection and developer architectural stability, including seismic resilience, thermal and electromagnetic consistency, power infrastructure scalability, legal construction flexibility, and long-term expansion headroom.
 
 - **Legal & Political Stability:**  
@@ -246,9 +246,9 @@ Unlike conventional LLM-centric AI research models, Dreaming Lab directly pursue
 - **Primary Development Display:**
   - ASUS ProArt PA32KCX 8K HDR Reference Panels
 - **Semantic Rendering Visualization:**
-  - Samsung 98" 8K Neo QLED QA98QN990FJXZK
+  - Samsung The Wall 292" 8K MircoLed Display
 - **Cognitive Decompression Visualization:**
-  - Samsung 114" MicroLED MNA114MS1CCXXZ (paired to Intel NUC13 5090FE workstation via enterprise VPN)
+  - Samsung The Wall 292" 8K MircoLed Display (paired to Intel NUC13 5090FE workstation via enterprise VPN)
 - **Purpose:** Visual debugging, cognitive stabilization, neural-render experiments, full-path inspection.
 
 #### 🖥 Media Control Node for Cognitive Recovery Zone
@@ -366,7 +366,7 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
 
 - **Cognitive Stabilization Recovery Chamber:**  
   - Dedicated neural decompression zone equipped with:
-    - 114" Samsung MicroLED cognitive wall display
+    - 292" Samsung 8K MicroLED cognitive wall display
     - Intel NUC13 5090FE media workstation node (VPN-integrated)
     - Fully immersive long-horizon decompression chamber for sustained cognitive health over multi-year cycles.
 
@@ -557,13 +557,13 @@ To support full deterministic semantic system development under the Dreaming Lab
   - Pixel-level path inspection, semantic data flow stability, rendering artifact tracking, and hybrid physics-neural simulation integrity verification.
 
 #### 6.3.2 — Semantic Flow Full-Field Visualization:
-- **Samsung 98" Neo QLED 8K Display (Model QA98QN990FJXZK)**
+- **Samsung The Wall 292" 8K MircoLed Display**
   - High-level semantic system output visualization
   - Life-scale dynamic rendering of fluid structures
   - Dynamic semantic translation behavior observation
 
 #### 6.3.3 — Cognitive Decompression Room Integration:
-- **Samsung 114" MicroLED Display (Model MNA114MS1CCXXZ)**  
+- **Samsung The Wall 292" 8K MircoLed Display**  
   - Connected to Intel NUC13 5090FE PC (Core i9-13900K / 64GB DDR5 / 2TB NVMe / 5090FE / Enermax PlatiGemini1200 PSU).
   - Fully VPN-integrated into Dreaming Lab core backbone.
   - High-bandwidth global content stream integration for cinematic decompression, cognitive stabilization, and long-cycle architecture rhythm recovery.
