@@ -292,7 +292,8 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
 ### 4.1 — Permanent International Relocation Facility (Sponsor-Led Asset Acquisition)
 
 - **Strategic Relocation Zone:**  
-  - Japan, Yamanashi Prefecture (山梨県), Lake Kawaguchi (河口湖) region, quiet mountain-adjacent peripheral zone, legally designated and pre-cleared for long-term foreign research residency and private laboratory facility development, situated within a secured 200 meters by 150 meters enclosed private estate. 
+  - Japan, Yamanashi Prefecture (山梨県), Lake Kawaguchi (河口湖) region, quiet mountain-adjacent peripheral zone, legally designated and pre-cleared for long-term foreign research residency and private laboratory facility development, situated within a secured 200 meters by 150 meters enclosed private estate.
+  
   - Chosen for:
     - Naturally low electromagnetic interference due to mountain shielding
     - Stable and redundant rural power infrastructure
