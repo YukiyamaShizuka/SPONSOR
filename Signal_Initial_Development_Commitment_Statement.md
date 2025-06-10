@@ -1,7 +1,7 @@
 # Signal Initial Development Commitment Statement  
 **(Summer 2025 Anchor Declaration – Hardware Request Attached)**
 
-- *Note: This hardware request does not replace or reduce the long-term infrastructure planning previously disclosed for full Dreaming Lab execution. It is strictly for initial entry acceleration.*
+> *Note: This hardware request does not replace or reduce the long-term infrastructure planning previously disclosed for full Dreaming Lab execution. It is strictly for initial entry acceleration.*
 
 ---
 
