@@ -1106,8 +1106,6 @@ This produces technical compounding unlike unstable LLM pipelines.
 
 ---
 
-A detailed breakdown of how I intend to utilize these resources — including both defined architectural phases and speculative exploratory avenues — is documented in [Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md](./Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md).
-
 **The full scope of this Dreaming configuration represents an extraordinary opportunity — one that grows increasingly compelling with every passing day, as I eagerly anticipate the chance to explore, validate, and build upon these architectures.**
 
 **The very structure of the Dreaming Lab itself — by design — leaves no retreat, no alternative focus, and no secondary fallback path. Once this closed cognitive and technical system is deployed, my entire personal environment, daily rhythm, living infrastructure, and intellectual identity will be permanently anchored to full-cycle architecture development. In this self-sealed laboratory, all cognitive bandwidth, personal life structure, and system design capacity will be singularly and irreversibly committed to driving the Dreaming architecture toward closure, validation, and operational maturity — or nothing at all.**
@@ -1115,3 +1113,5 @@ A detailed breakdown of how I intend to utilize these resources — including bo
 **If such full configuration could ever be supported, it would be deeply welcomed and sincerely appreciated.**
 
 **I am fully prepared — technically, mentally, and structurally — to immediately enter this full-cycle development pathway the moment sponsorship support is secured. Every element of the architecture has been carefully designed, every variable accounted for, and all personal circumstances aligned toward this singular direction. The earlier such sponsorship can be activated, the earlier I can begin full-scale immersion — and the sooner tangible architectural breakthroughs may be delivered. In every sense, the configuration now stands fully staged, awaiting only the final sponsor commitment to trigger its full-scale realization.**
+
+A detailed breakdown of how I intend to utilize these resources — including both defined architectural phases and speculative exploratory avenues — is documented in [Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md](./Dreaming_Lab_Configuration_Known_and_Exploratory_Objectives.md).
