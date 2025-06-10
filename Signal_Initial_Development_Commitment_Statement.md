@@ -59,7 +59,7 @@ It is **not** designed to sustain comprehensive Signal execution, Tree‑layer i
 All rigorous development, cross‑layer validation, and long‑horizon operation of the complete Tree architecture can be conducted **solely** within the purpose‑built Dreaming Lab and its dedicated laboratory infrastructure  
 (**see** [Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md](Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md) **for the requisite facilities**).  
 **The Dreaming Lab is thus indispensable to the full realization of the Tree stack; absent this facility, comprehensive development, holistic integration, and conclusive verification cannot proceed.**  
-Accordingly, the earlier the Dreaming Lab is secured and commissioned, the sooner end‑to‑end development may advance in earnest.
+Accordingly, the earlier the Dreaming Lab is secured and commissioned, the sooner full‑stage development may advance in earnest.
 
 ---
 
