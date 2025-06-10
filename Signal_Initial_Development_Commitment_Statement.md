@@ -1,8 +1,6 @@
 # Signal Initial Development Commitment Statement  
 **(Summer 2025 Anchor Declaration – Hardware Request Attached)**
 
-> *Note: This hardware request does not replace or reduce the long-term infrastructure planning previously disclosed for full Dreaming Lab execution. It is strictly for initial entry acceleration.*
-
 ---
 
 ## 1. Core Intention
@@ -22,7 +20,7 @@ Development will proceed under one of the following two pathways:
 If no sponsorship is available, development will begin on the current **MacBook Pro M3 Max**, with architecture-level simulation abstractions used to temporarily emulate x86_64 control structures, acknowledging performance and memory limitations.
 
 ### → B. Sponsor-Supported Development (Preferred Path)  
-If provisional sponsorship is available, the following two-tiered x86 hardware package is requested to enable clean instruction-level tracing, page table modeling, and early-stage AI integration validation.
+If provisional sponsorship is available, the following three-tiered x86 hardware package is requested to enable clean instruction-level tracing, page table modeling, and early-stage AI integration validation.
 
 #### 🔹 Lightweight AI Development Tablet  
 - **Model**: Microsoft Surface Pro 11 (AI+PC)  
@@ -38,6 +36,15 @@ If provisional sponsorship is available, the following two-tiered x86 hardware p
 - **Storage**: 16TB PCIe NVMe  
 - **GPU**: NVIDIA RTX 5000 Ada Laptop Edition  
 - **Purpose**: Rapid local semantic model stress-testing and architecture visualization runs.
+
+#### 🔹 Full-Scale Architecture Tracing Workstation  
+- **Display**: ASUS ProArt PA32KCX  
+- **Host**: Lenovo ThinkStation PX Workstation  
+- **CPU**: 2× Intel Xeon 8593Q  
+- **Memory**: 4TB DDR5 ECC Registered  
+- **Storage**: 4× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 NVMe  
+- **GPU**: 4× NVIDIA RTX Pro 6000 Blackwell Max-Q  
+- **Purpose**: Full instruction tracing, memory-bound vector resolution, and early-stage multi-agent simulation modeling under maximum load constraints.
 
 ---
 
@@ -72,7 +79,7 @@ The early execution stack will implement the following:
 - Path-based page structuring (64-bit)  
 - Manual memory block persistence lifecycle (`grow`, `live`, `fall`)  
 - Scalar-mapped instruction branching (`.sgn` source files)  
-- Vector-scoped call resolution without global state
+- Vector-scoped call resolution without global state  
 
 ---
 
