@@ -50,9 +50,12 @@ If provisional sponsorship is available, the following three-tiered x86 hardware
 
 ## 3. Usage Limitation Declaration
 
+## 3. Usage Limitation Declaration
+
 This hardware package is solely intended for **initial investigation and path-structuring**.  
 It **cannot support full execution, multi-agent synchronization, or long-cycle system validation**.  
-Such operations will require future-scale fixed-lab configurations (ref: Dreaming Lab execution grid).
+Such operations will require future-scale fixed-lab configurations  
+(**[ref: Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md](Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md)**).
 
 ---
 
