@@ -65,12 +65,12 @@ All full‑scale development, cross‑layer validation, and long‑cycle operati
 
 If sponsorship is available, hardware may be shipped to:
 
-> **Baojing Garden, Lujiang County, Hefei City, Anhui Province, China**  
-> **Phone：13696525769**  
-> **Preferred Courier**: JD Express only
+> **Baojing Garden, Lujiang County, Hefei City, Anhui Province, China**  
+> **Phone**: 136‑9652‑5769 *(for courier use only; all other inquiries via email)*  
+> **Preferred Courier**: JD Express only
 
-This address will remain valid through Summer 2025.  
-Delivery confirmation is welcomed via encrypted contact if required.
+To ensure an uninterrupted start, **please arrange for all equipment listed in this document to arrive no later than 10 July 2025**.  
+This address will remain valid through Summer 2025, and delivery confirmation is welcomed via encrypted contact if required.
 
 ---
 
