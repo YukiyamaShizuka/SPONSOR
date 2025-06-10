@@ -51,8 +51,6 @@ If provisional sponsorship is available, the following three-tiered x86 hardware
 
 ## 3. Usage Limitation Declaration
 
-## 3. Usage Limitation Declaration
-
 This hardware package is solely intended for **initial investigation and path-structuring**.  
 It **cannot support full execution, multi-agent synchronization, or long-cycle system validation**.  
 Such operations will require future-scale fixed-lab configurations  
@@ -65,7 +63,8 @@ Such operations will require future-scale fixed-lab configurations
 If sponsorship is available, hardware may be shipped to:
 
 > **Baojing Garden, Lujiang County, Hefei City, Anhui Province, China**  
-> **Phone：13696525769**
+> **Phone：13696525769**  
+> **Preferred Courier**: JD Express only
 
 This address will remain valid through Summer 2025.  
 Delivery confirmation is welcomed via encrypted contact if required.
