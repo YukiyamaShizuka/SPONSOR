@@ -54,10 +54,11 @@ If provisional sponsorship is available, the following three-tiered x86 hardware
 ## 3. Usage Limitation Declaration  
 
 The hardware specified in this document is **strictly for the earliest phase of Signal prototyping and pathway mapping**.  
-It **cannot** support comprehensive Signal execution, Tree‐layer architecture integration, multi‑agent workloads, or prolonged stability testing.  
+It **cannot** support comprehensive Signal execution, Tree‑layer architecture integration, multi‑agent workloads, or prolonged stability testing.  
 Accordingly, it must be regarded only as a **starter sandbox** for proof‑of‑concept exploration.  
 All full‑scale development, cross‑layer validation, and long‑cycle operations for the complete Tree stack will require the purpose‑built Dreaming Lab facility and its fixed laboratory resources  
-(**see** [Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md](Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md) **for the mandatory infrastructure**).
+(**see** [Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md](Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md) **for the mandatory infrastructure**);  
+**the sooner the Dreaming Lab is secured and commissioned, the faster full‑stage development can proceed.**
 
 ---
 
