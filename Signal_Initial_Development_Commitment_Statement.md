@@ -51,11 +51,10 @@ If provisional sponsorship is available, the following three-tiered x86 hardware
 
 ## 3. Usage Limitation Declaration
 
-This hardware package is solely intended for **initial investigation and path‑structuring**.  
-It **cannot support full execution, multi‑agent synchronization, or long‑cycle system validation**.  
-Such operations will require future‑scale fixed‑lab configurations  
-(**[ref: Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md](Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md)**),  
-and this configuration should therefore be regarded only as a preliminary exploration platform—**the full Dreaming Lab infrastructure remains essential for complete development and validation**.
+The requested hardware is intended **solely for early‑stage exploration and path‑structuring**.  
+It **cannot** sustain full‑scale execution, multi‑agent synchronization, or long‑duration validation cycles, and must therefore be viewed strictly as a **preliminary sandbox**.  
+Comprehensive development and verification will still require the dedicated Dreaming Lab infrastructure and other future‑scale fixed‑lab resources  
+(**see** [Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md](Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md) **for details**).
 
 ---
 
