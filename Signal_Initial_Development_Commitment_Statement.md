@@ -44,7 +44,8 @@ If provisional sponsorship is available, the following three-tiered x86 hardware
 - **Memory**: 4TB DDR5 ECC Registered
 - **System Storage**: Sumsung 9100Pro 4TB PCIe5.0 NVMe
 - **Data Storage**: 4× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 NVMe  
-- **GPU**: 4× NVIDIA RTX Pro 6000 Blackwell Max-Q  
+- **GPU**: 4× NVIDIA RTX Pro 6000 Blackwell Max-Q
+- **System**:Ubuntu 24.04
 - **Purpose**: Full instruction tracing, memory-bound vector resolution, and early-stage multi-agent simulation modeling under maximum load constraints.
 
 ---
