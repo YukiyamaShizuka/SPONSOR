@@ -53,7 +53,7 @@ If provisional sponsorship is available, the following three-tiered x86 hardware
 
 The requested hardware is intended **solely for early‑stage exploration and path‑structuring**.  
 It **cannot** sustain full‑scale execution, multi‑agent synchronization, or long‑duration validation cycles, and must therefore be viewed strictly as a **preliminary sandbox**.  
-Comprehensive development and verification will still require the dedicated Dreaming Lab infrastructure and other future‑scale fixed‑lab resources  
+Comprehensive development and verification will still require the dedicated Dreaming Lab infrastructure and other fixed‑lab resources  
 (**see** [Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md](Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md) **for details**).
 
 ---
