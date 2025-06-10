@@ -74,18 +74,20 @@ Delivery confirmation is welcomed via encrypted contact if required.
 
 ---
 
-## 5. Final Commitment
+## 5. Final Commitment  
 
-This document constitutes a **binding personal development commitment**.
+This statement serves as a **formal and irrevocable pledge** of personal execution.
 
-Regardless of support status, **Signal 0.0 development will begin** no later than July 2025.  
-The early execution stack will implement the following:
+**Signal 0.0 development will begin no later than July 2025, irrespective of external sponsorship.**  
+Although my sole fallback device is presently an Apple Silicon machine, I **earnestly seek to initiate work on a native x86‑64 platform** in order to avoid cross‑ISA translation overhead and to expedite the earliest stages of compiler verification.
 
-- Semantic leaf node instantiation  
-- Path-based page structuring (64-bit)  
-- Manual memory block persistence lifecycle (`grow`, `live`, `fall`)  
-- Scalar-mapped instruction branching (`.sgn` source files)  
-- Vector-scoped call resolution without global state  
+The inaugural build will deliver:  
+
+- Semantic leaf‑node instantiation  
+- Path‑oriented page structuring (64‑bit)  
+- Manual memory‑block persistence lifecycle (`grow`, `live`, `fall`)  
+- Scalar‑mapped instruction branching (`.sgn` source files)  
+- Vector‑scoped call resolution, executed without global state  
 
 ---
 
