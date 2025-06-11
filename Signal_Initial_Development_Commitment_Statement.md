@@ -17,7 +17,7 @@ Development will proceed under all conditions, including fallback to minimal har
 Development will proceed under one of the following two pathways:
 
 ### → A. Self-Hosted Development (Guaranteed Path)  
-If no sponsorship is available, development will begin on the current **MacBook Pro M3 Max**, with architecture-level simulation abstractions used to temporarily emulate x86_64 control structures, acknowledging performance and memory limitations.
+If no sponsorship is available, development will begin on the current **MacBook Pro M3 Max**(surely not enough), with architecture-level simulation abstractions used to temporarily emulate x86_64 control structures, acknowledging performance and memory limitations.
 
 ### → B. Sponsor-Supported Development (Preferred Path)  
 If provisional sponsorship is available, the following three-tiered x86 hardware package is requested to enable clean instruction-level tracing, page table modeling, and early-stage AI integration validation.
