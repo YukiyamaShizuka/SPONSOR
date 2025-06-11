@@ -23,7 +23,7 @@ If no sponsorship is available, development will begin on the current **MacBook 
 If provisional sponsorship is available, the following three-tiered x86 hardware package is requested to enable clean instruction-level tracing, page table modeling, and early-stage AI integration validation.
 
 #### 🔹 Lightweight AI Development Tablet  
-- **Model**: Microsoft Surface Pro 11 (AI+PC)  
+- **Model**: Microsoft Surface Pro 11 (AI+PC) with Slim Pen2
 - **CPU**: Intel Core Ultra 7 U7-268V  
 - **Memory**: 32GB LPDDR5X  
 - **Storage**: 1TB NVMe SSD  
