@@ -205,7 +205,7 @@ The Dreaming Lab pathway enables:
 
 ### 9 Legacy Interoperability
 * **POSIX-Shim** – libc calls translate to canonical Leaves; SQLite port ran unmodified regression tests with **< 2 % perf delta**.  
-* **Container Escape Hatch** – `signal --container shim:docker` wraps binaries into OCI images for gradual migration; Ops teams A/B-test without changing CI/CD.
+* **Container Escape Hatch** – `signal --container shim:docker` wraps binaries into OCI images for gradual migration; Ops teams A/B-test without changing CI/CD. 
 
 ---
 
