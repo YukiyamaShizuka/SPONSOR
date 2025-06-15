@@ -11,7 +11,7 @@ Once fully deployed, I commit to full-cycle immersion operation within this envi
 
 ### Relocation Target: Japan, Yamanashi Prefecture (山梨県), Lake Kawaguchi (河口湖) Region
 
-To fully support the Dreaming Lab operational model, the project will anchor itself within the Lake Kawaguchi (Kawaguchiko) region of Japan’s Yamanashi Prefecture, leveraging the area’s stable climatic patterns, low population density, and natural proximity to Mount Fuji. The location remains logistically accessible to major transportation infrastructure while ensuring full environmental isolation required for long-term facility stability. The secured private estate spans 200 meters by 150 meters, while the primary facility occupies a 60 meters by 45 meters footprint, constructed across two fully detached levels with an interior floor-to-ceiling clearance of 4.5 meters per level and a total structural height exceeding 10+ meters. The architectural layout adopts a system-on-chip (SOC) inspired functional matrix partitioning model to ensure fully compartmentalized cognitive, operational, and environmental separation. Both the estate and the main structure are precisely aligned along their long axis directly facing Mount Fuji and Lake Kawaguchi, allowing simultaneous unobstructed visual access to both the mountain and the lake, thus providing full dual-anchor stabilization for cognitive rhythm alignment. This site was selected after comprehensive optimization across multiple axes important to both sponsor capital protection and developer architectural stability, including seismic resilience, thermal and electromagnetic consistency, power infrastructure scalability, legal construction flexibility, and long-term expansion headroom. 
+To fully support the Dreaming Lab operational model, the project will anchor itself within the Lake Kawaguchi (Kawaguchiko) region of Japan’s Yamanashi Prefecture, leveraging the area’s stable climatic patterns, low population density, and natural proximity to Mount Fuji. The location remains logistically accessible to major transportation infrastructure while ensuring full environmental isolation required for long-term facility stability. The secured private estate spans 100 meters by 80 meters, while the primary facility occupies a 30 meters by 24 meters footprint, constructed across two fully detached levels with an interior floor-to-ceiling clearance of 4.5 meters per level and a total structural height exceeding 10+ meters. The architectural layout adopts a system-on-chip (SOC) inspired functional matrix partitioning model to ensure fully compartmentalized cognitive, operational, and environmental separation. Both the estate and the main structure are precisely aligned along their long axis directly facing Mount Fuji and Lake Kawaguchi, allowing simultaneous unobstructed visual access to both the mountain and the lake, thus providing full dual-anchor stabilization for cognitive rhythm alignment. This site was selected after comprehensive optimization across multiple axes important to both sponsor capital protection and developer architectural stability, including seismic resilience, thermal and electromagnetic consistency, power infrastructure scalability, legal construction flexibility, and long-term expansion headroom. 
 
 - **Legal & Political Stability:**  
   Japan offers one of the highest levels of long-horizon political predictability, institutional rule of law, and sponsor contract enforcement globally.
@@ -73,7 +73,7 @@ To fully support the cross-national residency transition, sponsor support shall 
 ### Site Configuration Summary
 
 - **Above-Ground Structure:**  
-  5,400 square meters of total usable internal space distributed across two fully detached levels (each level measuring 60 meters by 45 meters).
+  1440 square meters of total usable internal space distributed across two fully detached levels (each level measuring 30 meters by 24 meters).
 
 - **Basement Data Center Zone:**  
   Fully enclosed underground facility pre-allocated for full AI machine room conversion.
@@ -292,7 +292,7 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
 ### 4.1 — Permanent International Relocation Facility (Sponsor-Led Asset Acquisition)
 
 - **Strategic Relocation Zone:**  
-  - Japan, Yamanashi Prefecture (山梨県), Lake Kawaguchi (河口湖) region, quiet mountain-adjacent peripheral zone, legally designated and pre-cleared for long-term foreign research residency and private laboratory facility development, situated within a secured 200 meters by 150 meters enclosed private estate.
+  - Japan, Yamanashi Prefecture (山梨県), Lake Kawaguchi (河口湖) region, quiet mountain-adjacent peripheral zone, legally designated and pre-cleared for long-term foreign research residency and private laboratory facility development, situated within a secured 100 meters by 80 meters enclosed private estate.
   
   - Chosen for:
     - Naturally low electromagnetic interference due to mountain shielding
@@ -320,13 +320,13 @@ To fully enable uninterrupted, multi-year, ultra-high-density AI-semantic resear
 
 - **Above Ground Facility:**
   - 2 floors, fully detached private research residence located within the Lake Kawaguchi (河口湖) secured low-density research development zone.
-  - Total residential + research interior footprint: **~5,400 square meters above ground.**
+  - Total residential + research interior footprint: **~1440 square meters above ground.**
   - Reinforced earthquake-resistant composite concrete & steel frame structure.
   - Fully private enclosed compound with acoustic isolation perimeter fencing.
-  - **Private exterior landscaped garden courtyard exceeding 30,000 square meters**, providing outdoor cognitive decompression space, natural light access, seasonal environmental stability, and additional physical separation buffer from neighboring residential or commercial structures.
+  - **Private exterior landscaped garden courtyard exceeding 8000 square meters**, providing outdoor cognitive decompression space, natural light access, seasonal environmental stability, and additional physical separation buffer from neighboring residential or commercial structures.
 - **Underground Level (Full Industrial Subsurface Conversion):**
   - Existing subterranean primary compute chamber engineered to datacenter-grade specifications.
-  - Total subsurface facility allocation: ~600+ square meters.
+  - Total subsurface facility allocation: ~80+ square meters.
   - Full machine room functions relocated to isolated subterranean layer for:
     - Thermal containment
     - Acoustic isolation
@@ -606,7 +606,7 @@ The Dreaming Lab architecture fundamentally departs from conventional institutio
 ### 7.1 — Geographic Relocation Directive
 
 - **Host Nation:** Japan 🇯🇵  
-- **Precise Region:** Yamanashi Prefecture (山梨県), Lake Kawaguchi (河口湖) region, quiet mountain-adjacent peripheral zone with secured multi-modal transport accessibility, situated within a 200 meters by 150 meters fully enclosed private estate; the primary residence occupies a 60 meters by 45 meters footprint, constructed as a two-level structure, with both the estate and the residence aligned along their long axis directly facing Mount Fuji and Lake Kawaguchi, allowing simultaneous full-frame visual anchoring of both the mountain and the lake to ensure optimal cognitive rhythm stabilization.
+- **Precise Region:** Yamanashi Prefecture (山梨県), Lake Kawaguchi (河口湖) region, quiet mountain-adjacent peripheral zone with secured multi-modal transport accessibility, situated within a 100 meters by 80 meters fully enclosed private estate; the primary residence occupies a 30 meters by 24 meters footprint, constructed as a two-level structure, with both the estate and the residence aligned along their long axis directly facing Mount Fuji and Lake Kawaguchi, allowing simultaneous full-frame visual anchoring of both the mountain and the lake to ensure optimal cognitive rhythm stabilization.
 
 - **Geographic Selection Criteria:**
   - Political neutrality
@@ -639,7 +639,7 @@ The Dreaming Lab architecture fundamentally departs from conventional institutio
 
 - **Total Site Type:** Fully detached independent residential complex  
 - **Structure Count:** Single multi-story independent residential-laboratory fusion structure
-- **Above-Ground Build Area:** ~5,400 sqm total liveable space
+- **Above-Ground Build Area:** ~1440 sqm total liveable space
 - **Basement Level:** Fully enclosed subsurface compute core
 - **Outdoor Zones:**
   - Fully enclosed four-season botanical garden design with continuous blooming cycles, incorporating layered planting of gardenia, plum, cherry blossom, hydrangea, and seasonal perennials to ensure year-round visual balance and cognitive environmental stability.
