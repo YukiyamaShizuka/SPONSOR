@@ -5,7 +5,7 @@
 
 ## 1. Core Intention
 
-Signal, as a deterministic low-level programming language engineered for direct semantic path control and memory lifecycle regulation, will **formally enter its live development phase in Summer 2025**.
+Signal, as a deterministic low-level programming language engineered for direct semantic path control and memory lifecycle regulation, will **formally enter its live development phase in Summer 2025**
 
 This marks the irreversible initiation of the Signal execution structure, regardless of current resource constraints.  
 Development will proceed under all conditions, including fallback to minimal hardware if necessary.
