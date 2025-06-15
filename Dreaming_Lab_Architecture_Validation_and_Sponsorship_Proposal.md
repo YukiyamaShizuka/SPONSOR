@@ -231,10 +231,10 @@ Unlike conventional LLM-centric AI research models, Dreaming Lab directly pursue
 
 #### 🧠 NVIDIA GB200 NVL72 Compute Node Cluster
 
-- **Total Units:** 20× NVL72 Units (or GB300 upgrade optional)
+- **Total Units:** 10× NVL72 Units (or GB300 upgrade optional)
 - **Server Pairings:**
-  - **AI Server 00:** 4 NVL72 units assigned — dedicated for instruction kernel development and compiler experiments.
-  - **AI Server 01:** 16 NVL72 units assigned — allocated for full-scale semantic alignment and recursive model training.
+  - **AI Server 00:** 2 NVL72 units assigned — dedicated for instruction kernel development and compiler experiments.
+  - **AI Server 01:** 8 NVL72 units assigned — allocated for full-scale semantic alignment and recursive model training.
 - **Tensor Application Scope:**
   - Billions of semantic-path recursion sweeps.
   - Neural-fluid simulation experiments.
@@ -523,17 +523,17 @@ To support full deterministic semantic system development under the Dreaming Lab
 ### 6.2 — NVIDIA NVL72 Tensor Compute Superfabric (Extreme Semantic Validation Layer)
 
 #### **Total Quantity:**  
-- 20× NVIDIA GB200 NVL72 Compute Nodes  
+- 10× NVIDIA GB200 NVL72 Compute Nodes  
   (or GB300 NVL72 if later sponsor budget permits extreme expansion).
 
 #### **Functional Subdivision:**
 
 - **AI Server 00 Linked Compute Group:**  
-  - 4× NVL72 nodes directly mapped for compiler kernel runtime acceleration, statistical path expansion, low-level branch convergence verification, and compiler recursion simulations.
+  - 2× NVL72 nodes directly mapped for compiler kernel runtime acceleration, statistical path expansion, low-level branch convergence verification, and compiler recursion simulations.
   - Display Device: ASUS ProArt PA32KCX 8K HDR Reference Display for precision compiler kernel visual debugging, semantic path inspection, and artifact detection.
 
 - **AI Server 01 Linked Compute Group:**  
-  - 16× NVL72 nodes fully unified as recursive SapClarify-AI tensor path translation supercore.
+  - 8× NVL72 nodes fully unified as recursive SapClarify-AI tensor path translation supercore.
   - Roles include:
     - Bi-directional semantic language translation
     - Recursive SapClarify alignment training pipelines
