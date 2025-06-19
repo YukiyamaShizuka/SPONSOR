@@ -19,7 +19,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## Memory
 
-- **Size**: 2TB (8 x 256GB 4800MHz RECC SK HYNIX DDR5 ECC Registered)
+- **Size**: 2TB (8 × 256GB) SK HYNIX DDR5-4800 ECC Registered (RECC)
 - **Purpose**: Enables full-memory simulation environments for deterministic vector execution and memory-mapped system calls.
 
 ## GPU
