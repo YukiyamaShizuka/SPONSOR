@@ -29,7 +29,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## Power Supply
 
-- **Model**: Great Wall 3000W ATX 3.0
+- **Model**: Great Wall 3000W ATX 3.0 (GW-EPS3000BL(94+))
 - **Purpose**: Stabilized power under dual-GPU and 2TB ECC RAM conditions. Suitable for 24/7 simulation runs.
 
 ## Cooling
@@ -50,7 +50,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 ## Storage
 
 - **Model**: Samsung 9100 PRO NVMe PCIe Gen5
-- **Capacity**: 4TB x 2
+- **Capacity**: 4TB x 3
 - **Purpose**: High-throughput I/O tracing, page file analysis, live recompilation caching, and runtime log capture.
 
 ## Peripherals
