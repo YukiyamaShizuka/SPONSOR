@@ -47,7 +47,7 @@ If provisional sponsorship is available, the following three-tiered x86 hardware
 - **GPU**: 4× NVIDIA RTX Pro 6000 Blackwell Max-Q Workstation Edition ( NVLink — N/A
 )
 - **System**:Ubuntu 24.04 LTS
-- **Wifi+Bluetooth**:Intel BE200
+- **Wifi / Bluetooth**:Intel BE200 (Wi-Fi 7 + BT 5.4)
 - **Purpose**: Instruction tracing, memory-bound vector resolution, and early-stage multi-agent simulation modeling under maximum load constraints.
 
 ---
