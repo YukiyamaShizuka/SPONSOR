@@ -44,7 +44,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## 📦 Chassis
 
-- **Model**: ASUS ProArt PA602 (White Edition)
+- **Model**: ASUS ProArt PA602 (White Wood Edition)
 - **Purpose**: High airflow support and component spacing for workstation-class builds.
 
 ## 💾 Storage
