@@ -39,12 +39,13 @@ If provisional sponsorship is available, the following three-tiered x86 hardware
 
 #### 🔹 Full-Scale Architecture Tracing Workstation  
 - **Display**: ASUS ProArt PA32KCX  
-- **Host**: Lenovo ThinkStation PX Workstation  
-- **CPU**: 2× Intel Xeon 8593Q  
-- **Memory**: 4TB DDR5 ECC Registered
+- **Host**: Dell Precision T7960 Workstation  
+- **CPU**: Intel Xeon W-3595X (60 Cores) 
+- **Memory**: 4TB DDR5 ECC Registered (16 × 256 GB DDR5-4800 ECC RDIMM)
 - **System Storage**: Samsung 9100Pro 4TB PCIe5.0 NVMe
 - **Data Storage**: 4× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 NVMe  
-- **GPU**: 4× NVIDIA RTX Pro 6000 Blackwell Max-Q Workstation Edition (NVLink enabled)
+- **GPU**: 4× NVIDIA RTX Pro 6000 Blackwell Max-Q Workstation Edition ( NVLink — N/A
+)
 - **System**:Ubuntu 24.04 LTS
 - **Wifi+Bluetooth**:Intel BE200
 - **Purpose**: Instruction tracing, memory-bound vector resolution, and early-stage multi-agent simulation modeling under maximum load constraints.
