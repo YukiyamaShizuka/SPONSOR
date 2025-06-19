@@ -71,7 +71,7 @@ If sponsorship is available, hardware may be shipped to:
 > **Phone**: 136‑9652‑5769 *(for courier use only; all other inquiries via email)*  
 > **Preferred Courier**: JD Express only
 
-To ensure an uninterrupted start, **please arrange for all equipment listed in this document to arrive no later than 10 July 2025**.  
+To ensure an uninterrupted start, **please arrange for all equipment listed in this document to arrive no later than 1 July 2025**.  
 This address will remain valid through Summer 2025, and delivery confirmation is welcomed via encrypted contact if required.
 
 ---
