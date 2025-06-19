@@ -14,7 +14,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 ## CPU & Motherboard
 
 - **Processor**: Intel Xeon W-3595X (60Cores,120Threads,LGA4677)
-- **Motherboard**: ASUS Pro WS W790-ACE
+- **Motherboard**: ASUS Pro WS W790E SAGE SE
 - **Purpose**: High-performance multi-core simulation, AVX-512 parallelism, ECC memory integration for stable memory-critical workloads.
 
 ## Memory
@@ -24,12 +24,12 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## GPU
 
-- **Model**: 2 x NVIDIA RTX Pro 6000 Blackwell Workstation Edition
+- **Model**: 4 x NVIDIA RTX Pro 6000 Blackwell Workstation Edition
 - **Purpose**: CUDA-backed runtime acceleration for instruction visualization, GPGPU compilation testing, and real-time pipeline rendering for the Signal virtual machine.
 
 ## Power Supply
 
-- **Model**: SEASONIC PRIME 2200W Platinum ATX 3.1
+- **Model**: Great Wall 3000W ATX 3.0
 - **Purpose**: Stabilized power under dual-GPU and 2TB ECC RAM conditions. Suitable for 24/7 simulation runs.
 
 ## Cooling
