@@ -39,7 +39,7 @@ If provisional sponsorship is available, the following three-tiered x86 hardware
 
 #### 🔹 Full-Scale Architecture Tracing Workstation  
 - **Display**: ASUS ProArt PA32KCX  
-- **Host**: Lenovo Thinkstation PX Workstation  
+- **Host**: Lenovo ThinkStation PX Workstation  
 - **CPU**: 2× Intel Xeon 8593Q 
 - **Memory**: 4TB DDR5 ECC Registered
 - **System Storage**: Samsung 9100Pro 4TB PCIe5.0 NVMe
