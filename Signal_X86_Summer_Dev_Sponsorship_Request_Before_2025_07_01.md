@@ -11,49 +11,49 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ---
 
-## 🧠 CPU & Motherboard
+## CPU & Motherboard
 
 - **Processor**: Intel Xeon W-3595X (60Cores,120Threads,LGA4677)
 - **Motherboard**: ASUS Pro WS W790-ACE
 - **Purpose**: High-performance multi-core simulation, AVX-512 parallelism, ECC memory integration for stable memory-critical workloads.
 
-## 🧬 Memory
+## Memory
 
 - **Size**: 2TB (8 x 256GB 4800MHz RECC SK HYNIX DDR5 ECC Registered)
 - **Purpose**: Enables full-memory simulation environments for deterministic vector execution and memory-mapped system calls.
 
-## 🎮 GPU
+## GPU
 
 - **Model**: 2 x NVIDIA RTX Pro 6000 Blackwell Workstation Edition
 - **Purpose**: CUDA-backed runtime acceleration for instruction visualization, GPGPU compilation testing, and real-time pipeline rendering for the Signal virtual machine.
 
-## 🔌 Power Supply
+## Power Supply
 
 - **Model**: SEASONIC PRIME 2200W Platinum ATX 3.1
 - **Purpose**: Stabilized power under dual-GPU and 2TB ECC RAM conditions. Suitable for 24/7 simulation runs.
 
-## 🧊 Cooling
+## Cooling
 
 - **Model**: COOLSERVER LGA4677 Tower Cooler
 - **Purpose**: Passive and active airflow regulation for Xeon socket, critical to maintaining frequency integrity under thermal stress.
 
-## 🖥️ Monitor
+## Monitor
 
 - **Model**: ASUS ProArt PA32KCX 32" HDR Display
 - **Purpose**: Precise representation of assembly flow, binary trace overlays, and full-range color debugging during signal-mapped visualizations.
 
-## 📦 Chassis
+## Chassis
 
 - **Model**: ASUS ProArt PA602 (White Wood Edition)
 - **Purpose**: High airflow support and component spacing for workstation-class builds.
 
-## 💾 Storage
+## Storage
 
 - **Model**: Samsung 9100 PRO NVMe PCIe Gen5
 - **Capacity**: 4TB x 2
 - **Purpose**: High-throughput I/O tracing, page file analysis, live recompilation caching, and runtime log capture.
 
-## ⌨️ Peripherals
+## Peripherals
 
 - **Keyboard**: ROG RX98 Wireless Mechanical Keyboard (Triple‑mode)
 - **Mouse**: ASUS ROG Keris II Ace Wireless Gaming Mouse (54 g, 2.4 GHz/BT/wired tri‑mode)  
