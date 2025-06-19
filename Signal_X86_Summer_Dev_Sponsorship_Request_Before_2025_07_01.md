@@ -55,10 +55,14 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## ⌨️ Peripherals
 
-- **Keyboard**: ROG RX98 Wireless Mechanical Keyboard (Triple-mode)
-- **Mouse**: ROG Moon Blade 2 ACE Wireless Mouse
+- **Keyboard**: ROG RX98 Wireless Mechanical Keyboard (Triple‑mode)
+- **Mouse**: ASUS ROG Keris II Ace Wireless Gaming Mouse (54 g, 2.4 GHz/BT/wired tri‑mode)  
 - **Speaker**: Edifier Halo SoundBar (Cherry Blossom Pink Edition)
-- **Purpose**: Comfortable long-session interaction with low-latency input handling for console emulation and breakpoint stepping.
+- **Fan**: Lian Li UNI FAN TL140 Wireless ARGB Standard Blade Fan (Black) ×3  
+- **Fan Controller**: Lian Li UNI FAN TL Wireless Controller (Transmitter, required for the TL wireless fans) 
+- **Purpose**: 
+   - Provides low-latency, ergonomic input for long development sessions, console emulation, and breakpoint debugging.
+   - The wireless TL140 fans, powered by 2.4 GHz L‑Wireless sync, use standard-direction blades for strong airflow, optimizing chassis cooling without cable clutter. 
 
 ---
 
