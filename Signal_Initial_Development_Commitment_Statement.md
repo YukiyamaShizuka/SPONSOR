@@ -40,8 +40,8 @@ If provisional sponsorship is available, the following three-tiered x86 hardware
 #### 🔹 Full-Scale Architecture Tracing Workstation  
 - **Display**: ASUS ProArt PA32KCX  
 - **Host**: Dell Precision T7960 Workstation  
-- **CPU**: Intel Xeon W-3595X (60 Cores) 
-- **Memory**: 4TB DDR5 ECC Registered (16 × 256 GB DDR5-4800 ECC RDIMM)
+- **CPU**: Intel Xeon W-3595X (60 Cores,120 Threads) 
+- **Memory**: 4TB DDR5 ECC Registered (16 × 256 GB DDR5-4800 ECC)
 - **System Storage**: Samsung 9100Pro 4TB PCIe5.0 NVMe
 - **Data Storage**: 4× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 NVMe  
 - **GPU**: 4× NVIDIA RTX Pro 6000 Blackwell Max-Q Workstation Edition ( NVLink — N/A
