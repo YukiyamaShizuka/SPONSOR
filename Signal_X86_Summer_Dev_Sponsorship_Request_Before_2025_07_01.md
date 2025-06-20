@@ -13,7 +13,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## CPU & Motherboard
 
-- **Processor**: Intel Xeon W-3595X (60Cores,120Threads,LGA4677,Boxed version)
+- **Processor**: Intel Xeon W-3595X (60Cores , 120Threads , LGA4677 , Boxed version)
 - **Motherboard**: ASUS Pro WS W790E SAGE SE
 - **Purpose**: High-performance multi-core simulation, AVX-512 parallelism, ECC memory integration for stable memory-critical workloads.
 
