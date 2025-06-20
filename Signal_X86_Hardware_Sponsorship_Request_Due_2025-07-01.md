@@ -1,4 +1,5 @@
-# Signal_X86 Summer Development Environment – Sponsorship Request (Delivery by July 1, 2025)
+# Signal_X86 Summer Development Environment – Sponsorship Request  
+**(Hardware Delivery Required by July 1, 2025)**
 
 This document outlines the full hardware configuration for the Signal_X86 low-level systems development platform. The goal is to build a transparent, deterministic execution stack for assembly-level experimentation, instruction tracing, and kernel module simulation under the Signal programming language runtime.
 
