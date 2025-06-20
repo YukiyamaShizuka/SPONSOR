@@ -50,8 +50,13 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 ## Storage
 
 - **Model**: Samsung 9100 PRO NVMe PCIe Gen5
-- **Capacity**: 4TB x 3
+- **Capacity**: 4TB x 2
 - **Purpose**: High-throughput I/O tracing, page file analysis, live recompilation caching, and runtime log capture.
+
+## Wi-Fi / Bluetooth
+
+- **Module**: Intel BE200 (M.2)
+- **Standards**: Wi-Fi 7 / Bluetooth 5.4
 
 ## Peripherals
 
