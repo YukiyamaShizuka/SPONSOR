@@ -24,7 +24,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## GPU
 
-- **Model**: 4 x NVIDIA RTX Pro 6000 Blackwell Workstation Edition (Boxed version)
+- **Model**: 4 x NVIDIA RTX PRO 6000 Blackwell Workstation Edition (Boxed version)
 - **Purpose**: CUDA-backed runtime acceleration for instruction visualization, GPGPU compilation testing, and real-time pipeline rendering for the Signal virtual machine.
 
 ## Power Supply
