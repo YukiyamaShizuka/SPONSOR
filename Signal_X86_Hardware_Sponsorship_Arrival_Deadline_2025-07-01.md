@@ -67,7 +67,11 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 - **Fan Controller**: Lian Li UNI FAN TL Wireless Controller (Transmitter , required for the TL wireless fans , Black Edition) 
 - **Purpose**: 
    - Provides low-latency, ergonomic input for long development sessions, console emulation, and breakpoint debugging.
-   - The wireless TL140 fans, powered by 2.4 GHz L‑Wireless sync, use standard-direction blades for strong airflow, optimizing chassis cooling without cable clutter. 
+   - The wireless TL140 fans, powered by 2.4 GHz L‑Wireless sync, use standard-direction blades for strong airflow, optimizing chassis cooling without cable clutter.
+
+## Tablet
+
+- **Model**: Microsoft Surface Pro (11th Edition) – Intel Core Ultra 7 268V / 13-inch PixelSense Flow Display / 32 GB LPDDR5x RAM / 1 TB SSD / Platinum – with Surface Pro Keyboard (Silver) & Surface Slim Pen2.
 
 ---
 
