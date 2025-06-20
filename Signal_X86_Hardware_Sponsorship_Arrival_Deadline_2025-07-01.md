@@ -74,6 +74,11 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 - **Model**: Microsoft Surface Pro (11th Edition) – Intel Core Ultra 7 268V / 13-inch PixelSense Flow Display / 32 GB LPDDR5x RAM / 1 TB SSD / Platinum – with Surface Pro Keyboard (Silver) & Surface Slim Pen2.
 - **Purpose**: To draw program-execution path diagrams.
 
+## Laptop for testing
+
+- **Model**: Dell Precision 7780 Mobile Workstation (i9-13950HX/128G/6T/5000Ada/4K 120Hz)
+- **Purpose**: Testing Signal on a standalone device to identify problems.
+
 ---
 
 ## 📬 Delivery Reminder
