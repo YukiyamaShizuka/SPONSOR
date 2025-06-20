@@ -3,6 +3,19 @@
 
 ---
 
+## 0. Logistics & Delivery
+
+If sponsorship is available, hardware may be shipped to:
+
+>**Baojing Garden, Lujiang County, Hefei City, Anhui Province, China**  
+> **Phone**: 136‑9652‑5769 *(for courier use only; all other inquiries via email)*  
+> **Preferred Courier**: JD Express only
+
+To ensure an uninterrupted start, **please arrange for all equipment listed in this document to arrive no later than 1 July 2025**.  
+This address will remain valid through Summer 2025, and delivery confirmation is welcomed via encrypted contact if required.
+
+---
+
 ## 1. Core Intention
 
 Signal, as a deterministic low-level programming language engineered for direct semantic path control and memory lifecycle regulation, will **formally enter its live development phase in Summer 2025**.
@@ -61,19 +74,6 @@ All rigorous development, cross‑layer validation, and long‑horizon operation
 (**see** [Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md](Dreaming_Lab_Architecture_Validation_and_Sponsorship_Proposal.md) **for the requisite facilities**).  
 **The Dreaming Lab is thus indispensable to the full realization of the Tree stack; absent this facility, comprehensive development, holistic integration, and conclusive verification cannot proceed.**  
 Accordingly, the earlier the Dreaming Lab is secured and commissioned, the sooner full‑stage development may advance in earnest.
-
----
-
-## 4. Logistics & Delivery
-
-If sponsorship is available, hardware may be shipped to:
-
-> **Baojing Garden, Lujiang County, Hefei City, Anhui Province, China**  
-> **Phone**: 136‑9652‑5769 *(for courier use only; all other inquiries via email)*  
-> **Preferred Courier**: JD Express only
-
-To ensure an uninterrupted start, **please arrange for all equipment listed in this document to arrive no later than 1 July 2025**.  
-This address will remain valid through Summer 2025, and delivery confirmation is welcomed via encrypted contact if required.
 
 ---
 
