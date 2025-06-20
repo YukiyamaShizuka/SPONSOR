@@ -105,6 +105,6 @@ All modules will remain under creator-defined terms, free of external lock-in.
 
 ---
 
-**Document ID:** `Signal_Initial_Development_Commitment_Statement`  
+**Document ID:** `Signal_Hardware_Sponsorship_Request_Please_Arrive_Before_2025-07-01.md`  
 **Issued by:** Yukiyama Shizuka – Architect of Signal, TreeOS, and SapClarify  
 **Date:** June 2025
