@@ -43,11 +43,12 @@ If provisional sponsorship is available, the following three-tiered x86 hardware
 - **Purpose**: On-the-go semantic path prototype editing & cognitive micro-adjustment zone.
 
 #### 🔹 Mobile Semantic Simulation Workstation  
-- **Model**: Lenovo ThinkPad P16 (Professional Configuration)  
-- **CPU**: Intel Core i9-13980HX  
-- **Memory**: 192GB DDR5 ECC Registered  
-- **Storage**: 16TB PCIe NVMe  
-- **GPU**: NVIDIA RTX 5000 Ada Laptop Edition  
+- **Model**: Dell Precision 17 7780 Mobile Workstation  
+- **CPU**: Intel Core i9-13950HX  
+- **Memory**: 128GB DDR5 ECC Registered  
+- **Storage**: 6TB PCIe NVMe  
+- **GPU**: NVIDIA RTX 5000 Ada Laptop Edition
+- **Display**: 4K 120Hz
 - **Purpose**: Rapid local semantic model stress-testing and architecture visualization runs.
 
 #### 🔹 Full-Scale Architecture Tracing Workstation  
