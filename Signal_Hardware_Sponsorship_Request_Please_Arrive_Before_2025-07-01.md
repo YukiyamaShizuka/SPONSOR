@@ -77,7 +77,7 @@ Accordingly, the earlier the Dreaming Lab is secured and commissioned, the soo
 
 ---
 
-## 5. Final Commitment  
+## 4. Final Commitment  
 
 This statement serves as a **formal and irrevocable pledge** of personal execution.
 
@@ -94,7 +94,7 @@ The inaugural build will deliver:
 
 ---
 
-## 6. Optional Sponsorship Pathway
+## 5. Optional Sponsorship Pathway
 
 For institutions or individuals wishing to support transparent low-level computing, direct contact may be initiated via:
 
