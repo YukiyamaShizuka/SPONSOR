@@ -72,6 +72,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 ## Tablet
 
 - **Model**: Microsoft Surface Pro (11th Edition) – Intel Core Ultra 7 268V / 13-inch PixelSense Flow Display / 32 GB LPDDR5x RAM / 1 TB SSD / Platinum – with Surface Pro Keyboard (Silver) & Surface Slim Pen2.
+- **Purpose**: To draw program-execution path diagrams.
 
 ---
 
