@@ -54,7 +54,7 @@ If provisional sponsorship is available, the following three-tiered x86 hardware
 - **Display**: ASUS ProArt PA32KCX  
 - **Host**: Lenovo ThinkStation PX Workstation  
 - **CPU**: 2× Intel Xeon 6788P Processor (86C/172T per CPU, total 172C/344T)
-- **Memory**: 8TB (16 × 512GB) Samsung DDR5-7200 ECC Registered (RECC)
+- **Memory**: 8TB (16 × 512GB Samsung DDR5-7200 ECC Registered (RECC))
 - **System Storage**: Samsung 9100Pro 4TB PCIe5.0 NVMe
 - **Data Storage**: 4× 15.36TB SK Hynix Solidigm D7-PS1010 PCIe 5.0 NVMe  
 - **GPU**: 4× NVIDIA RTX Pro 6000 Blackwell Max-Q Workstation Edition ( NVLink — N/A
