@@ -55,7 +55,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## Wi-Fi / Bluetooth
 
-- **Module**: Intel BE200 (M.2)
+- **Module**: Intel BE200 (Based on the M.2 interface)
 - **Standards**: Wi-Fi 7 / Bluetooth 5.4
 
 ## Peripherals
