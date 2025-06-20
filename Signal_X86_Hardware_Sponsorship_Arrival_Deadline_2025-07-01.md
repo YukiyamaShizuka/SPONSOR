@@ -76,7 +76,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## Laptop for testing
 
-- **Model**: Dell Precision 7780 Mobile Workstation (i9-13950HX/128G/6T/5000Ada/4K 120Hz)
+- **Model**: Dell Precision 17 7780 Mobile Workstation (i9-13950HX/128G/6T/5000Ada/4K 120Hz)
 - **Purpose**: Testing Signal on a standalone device to identify problems.
 
 ---
