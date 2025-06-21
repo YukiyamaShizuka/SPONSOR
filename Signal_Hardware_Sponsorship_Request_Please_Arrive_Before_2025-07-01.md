@@ -8,8 +8,10 @@
 If sponsorship is available, hardware may be shipped to:
 
 >**Baojing Garden, Lujiang County, Hefei City, Anhui Province, China**  
-> **Phone**: 136‑9652‑5769 *(for courier use only; all other inquiries via email)*  
+> **Phone**: 136‑9652‑5769 *(for courier use only; all other inquiries via email:shizuka@treeos.art)*  
 > **Preferred Courier**: JD Express only
+>
+> **If the sponsored equipment has been shipped, please notify us with the tracking number via email.**
 
 To ensure an uninterrupted start, **please arrange for all equipment listed in this document to arrive no later than 1 July 2025**.  
 This address will remain valid through Summer 2025, and delivery confirmation is welcomed via encrypted contact if required.
