@@ -8,6 +8,7 @@ This is a formal sponsorship request. If accepted, please **ensure delivery is c
 Baojing Garden, Lujiang County, Hefei City, Anhui Province, China  
 **Phone:** 136‑9652‑5769 *(for courier use only; all other inquiries via email: shizuka@treeos.art)*  
 **Preferred Courier:** JD Express only
+**If the sponsored equipment has been shipped, please notify us with the tracking number via email.**
 
 ---
 
