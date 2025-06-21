@@ -23,18 +23,13 @@ Signal, as a deterministic low-level programming language engineered for direct 
 This marks the irreversible initiation of the Signal execution structure, regardless of current resource constraints.  
 Development will proceed under all conditions, including fallback to minimal hardware if necessary.
 
-## The hardware version and configuration are finalized. All listed components are fixed for delivery and documentation:
-
 ---
+
+## The hardware version and configuration are finalized. All listed components are fixed for delivery and documentation:
 
 ## 2. Hardware Path Dual Strategy
 
-Development will proceed under one of the following two pathways:
-
-### → A. Self-Hosted Development (Guaranteed Path)  
-If no sponsorship is available, development will begin on the current **MacBook Pro M3 Max**(surely not enough), with architecture-level simulation abstractions used to temporarily emulate x86_64 control structures, acknowledging performance and memory limitations.
-
-### → B. Sponsor-Supported Development (Preferred Path)  
+### Sponsor-Supported Development (Preferred Path)  
 If provisional sponsorship is available, the following three-tiered x86 hardware package is requested to enable clean instruction-level tracing, page table modeling, and early-stage AI integration validation.
 
 #### 🔹 Lightweight AI Development Tablet  
