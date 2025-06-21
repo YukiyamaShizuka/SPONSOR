@@ -27,9 +27,10 @@ Development will proceed under all conditions, including fallback to minimal har
 
 ## The hardware version and configuration are finalized. All listed components are fixed for delivery and documentation:
 
-## 2. Hardware Path Dual Strategy
+## 2. Hardware List:
 
-### Sponsor-Supported Development (Preferred Path)  
+### Sponsor-Supported Development 
+
 If provisional sponsorship is available, the following three-tiered x86 hardware package is requested to enable clean instruction-level tracing, page table modeling, and early-stage AI integration validation.
 
 #### 🔹 Lightweight AI Development Tablet  
