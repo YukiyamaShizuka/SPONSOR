@@ -9,9 +9,9 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 **Phone:** 136‑9652‑5769 *(for courier use only; all other inquiries via email: shizuka@treeos.art)*  
 **Preferred Courier:** JD Express only
 
-## Final Hardware Version:
-
 ---
+
+## The hardware version and configuration are finalized. All listed components are fixed for delivery and documentation:
 
 ## CPU & Motherboard
 
