@@ -37,7 +37,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## Cooling
 
-- **Model**: COOLSERVER LGA4677 **M99** Tower Cooler
+- **Model**: COOLSERVER **LGA4677 M99** Tower Cooler
 - **Purpose**: Passive and active airflow regulation for Xeon socket, critical to maintaining frequency integrity under thermal stress.
 
 ## Monitor
