@@ -46,7 +46,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 - **Quantity**: 2 units
 - **Purpose**: Precise representation of assembly flow, binary trace overlays, and full-range color debugging during signal-mapped visualizations.
 
-## Chassis
+## Computer Case
 
 - **Model**: ASUS ProArt PA602 Wood Edition with Tempered Glass Panel (P/N 90DC00J0-B08010）
 - **Purpose**: High airflow support and component spacing for workstation-class builds.
