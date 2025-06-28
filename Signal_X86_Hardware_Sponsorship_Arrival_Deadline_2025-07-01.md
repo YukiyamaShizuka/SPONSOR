@@ -74,7 +74,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 - **Speaker**: Edifier Halo SoundBar (Cherry Blossom Pink Edition)
 - **Fan**: Lian Li UNI FAN TL140 Wireless ARGB Standard Blade Fan (Black Edition) ×3  
 - **Fan Controller**: Lian Li UNI FAN TL Wireless Controller (Transmitter , required for the TL wireless fans , Black Edition)
-- **Cable**: 2 x PCIe4.0 SlimSAS SFF-8654 4i to SFF-8639 U.2 NVMe Cable 
+- **Cable**: 2 x PCIe4.0 SlimSAS SFF-8654 4i to SFF-8639 U.2 NVMe Cable(50cm)
 - **Purpose**: 
    - Provides low-latency, ergonomic input for long development sessions, console emulation, and breakpoint debugging.
    - The wireless TL140 fans, powered by 2.4 GHz L‑Wireless sync, use standard-direction blades for strong airflow, optimizing chassis cooling without cable clutter.
