@@ -7,7 +7,6 @@ This is a formal sponsorship request. If accepted, please **ensure delivery is c
 **Delivery Address:**  
 Baojing Garden, Lujiang County, Hefei City, Anhui Province, China  
 **Phone:** 136‑9652‑5769 *(for courier use only; all other inquiries via email: shizuka@treeos.art)*  
-**Preferred Courier:** JD Express only
 
 **If the sponsored equipment has been shipped, please notify me with the tracking number via email.**
 
@@ -17,8 +16,8 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## CPU & Motherboard
 
-- **Processor**: Intel Xeon W-3595X (60Cores , 120Threads , LGA4677 , Boxed version)
-- **Motherboard**: ASUS Pro WS W790E SAGE SE
+- **Processor**: Intel Xeon W-3595X (60Cores , 120Threads , LGA4677)
+- **Motherboard**: ASUS Pro WS W790-ACE
 - **Purpose**: High-performance multi-core simulation, AVX-512 parallelism, ECC memory integration for stable memory-critical workloads.
 
 ## Memory
@@ -28,12 +27,12 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## GPU
 
-- **Model**: 4 x NVIDIA RTX PRO 6000 Blackwell Workstation Edition (Boxed version)
+- **Model**: 2 x NVIDIA RTX PRO 6000 Blackwell Workstation Edition (Boxed version)
 - **Purpose**: CUDA-backed runtime acceleration for instruction visualization, GPGPU compilation testing, and real-time pipeline rendering for the Signal virtual machine.
 
 ## Power Supply
 
-- **Model**: Great Wall 3000W ATX 3.0 (GW-EPS3000BL(94+))
+- **Model**: SEASONIC PRIME PX2200W ATX3
 - **Purpose**: Stabilized power under dual-GPU and 2TB ECC RAM conditions. Suitable for 24/7 simulation runs.
 
 ## Cooling
@@ -43,7 +42,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## Monitor
 
-- **Model**: ASUS ProArt PA32KCX 32" HDR Display
+- **Model**: ASUS ProArt PA32UCXR 32" HDR Display
 - **Purpose**: Precise representation of assembly flow, binary trace overlays, and full-range color debugging during signal-mapped visualizations.
 
 ## Chassis
@@ -51,11 +50,16 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 - **Model**: ASUS ProArt PA602 Wood Edition with Tempered Glass Panel
 - **Purpose**: High airflow support and component spacing for workstation-class builds.
 
-## Storage
+## System Storage
 
 - **Model**: Samsung 9100 PRO NVMe PCIe5.0
-- **Capacity**: 4TB x 2
+- **Capacity**: 4TB x 1
 - **Purpose**: High-throughput I/O tracing, page file analysis, live recompilation caching, and runtime log capture.
+
+## Data Storage
+
+- **Model**: SOLIDIGM D7-PS1010 PCIe5.0 NVMe
+- **Capacity**: 15.36TB x 1
 
 ## Wi-Fi / Bluetooth
 
