@@ -27,12 +27,12 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## GPU
 
-- **Model**: 2 x NVIDIA RTX PRO 6000 Blackwell Workstation Edition (Boxed version)
+- **Model**: 3 x NVIDIA RTX PRO 6000 Blackwell Workstation Edition (Boxed version)
 - **Purpose**: CUDA-backed runtime acceleration for instruction visualization, GPGPU compilation testing, and real-time pipeline rendering for the Signal virtual machine.
 
 ## Power Supply
 
-- **Model**: SEASONIC PRIME PX2200W ATX3
+- **Model**: Great Wall GW-EPS3000BL(94+)
 - **Purpose**: Stabilized power under dual-GPU and 2TB ECC RAM conditions. Suitable for 24/7 simulation runs.
 
 ## Cooling
