@@ -59,7 +59,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## Data Storage
 
-- **Model**: SOLIDIGM D7-PS1010 PCIe5.0 NVMe
+- **Model**: SOLIDIGM D7-PS1010 PCIe5.0 U.2 NVMe
 - **Capacity**: 15.36TB x 2
 
 ## Wi-Fi / Bluetooth
