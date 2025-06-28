@@ -53,7 +53,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## System Storage
 
-- **Model**: • Samsung 9100 PRO – PCIe 5.0 x4 NVMe, M.2 2280 (P/N MZ-VAP4T0B/AM)
+- **Model**: • Samsung 9100 PRO – PCIe 5.0 x4 NVMe, M.2 2280 (P/N MZ-VAP4T0BW)
 - **Capacity**: 4TB x 1
 - **Purpose**: High-throughput I/O tracing, page file analysis, live recompilation caching, and runtime log capture.
 
