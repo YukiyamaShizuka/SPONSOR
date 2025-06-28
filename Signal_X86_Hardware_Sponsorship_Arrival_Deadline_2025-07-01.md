@@ -22,7 +22,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## Memory
 
-- **Size**: 2TB (8 × 256GB SK hynix DDR5-4800 ECC RDIMM)
+- **Size**: 2TB (8 × 256GB SK hynix DDR5-4800 ECC RECC RDIMM)
 - **Purpose**: Enables full-memory simulation environments for deterministic vector execution and memory-mapped system calls.
 
 ## GPU
