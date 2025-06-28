@@ -69,8 +69,8 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## Peripherals
 
-- **Keyboard**: ROG RX98 Wireless Mechanical Keyboard (White Edition , Triple‑mode)
-- **Mouse**: ASUS ROG Keris II Ace Wireless Mouse (White Edition , 2.4 GHz/BT/wired tri‑mode)  
+- **Keyboard**: ROG RX98 Wireless Mechanical Keyboard (White Edition , 2.4 GHz/BT/wired, Triple‑mode)
+- **Mouse**: ASUS ROG Keris II Ace Wireless Mouse (White Edition , 2.4 GHz/BT/wired, Triple‑mode)  
 - **Speaker**: Edifier Halo SoundBar (Cherry Blossom Pink Edition)
 - **Fan**: Lian Li UNI FAN TL140 Wireless ARGB Standard Blade Fan (Black Edition) ×3  
 - **Fan Controller**: Lian Li UNI FAN TL Wireless Controller (Transmitter , required for the TL wireless fans , Black Edition)
