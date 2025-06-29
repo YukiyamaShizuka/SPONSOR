@@ -5,7 +5,7 @@ This document outlines the full hardware configuration for the Signal_X86 low-le
 This is a formal sponsorship request. If accepted, please **ensure delivery is completed before July 1, 2025** to the following address:
 
 **Delivery Address:**  
-Baojing Garden, Lujiang County, Hefei City, Anhui Province, China  
+Baojing ‌New village, Lujiang County, Hefei City, Anhui Province, China  
 **Phone:** 136‑9652‑5769 *(for courier use only; all other inquiries via email: shizuka@treeos.art)*  
 
 **If the sponsored equipment has been shipped, please notify me with the tracking number via email.**
