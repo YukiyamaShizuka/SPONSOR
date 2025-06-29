@@ -37,13 +37,13 @@ Baojing New Village‌, Lujiang County, Hefei City, Anhui Province
 ## Power Supply
 
 - **Model**: Great Wall GW-EPS3000BL(94+)
-- **Quantity**: 1 units
+- **Quantity**: 1 unit
 - **Purpose**: Stabilized power under dual-GPU and 2TB ECC RAM conditions. Suitable for 24/7 simulation runs.
 
 ## Cooling
 
 - **Model**: COOLSERVER **LGA4677 M99** Tower Cooler
-- **Quantity**: 1 units
+- **Quantity**: 1 unit
 - **Purpose**: Passive and active airflow regulation for Xeon socket, critical to maintaining frequency integrity under thermal stress.
 
 ## Monitor
@@ -55,24 +55,24 @@ Baojing New Village‌, Lujiang County, Hefei City, Anhui Province
 ## Computer Case
 
 - **Model**: ASUS ProArt PA602 Wood Edition with Tempered Glass Panel (P/N 90DC00J0-B08010）
-- **Quantity**: 1 units
+- **Quantity**: 1 unit
 - **Purpose**: High airflow support and component spacing for workstation-class builds.
 
 ## System Storage
 
 - **Model**: Samsung 9100 PRO 4TB – PCIe 5.0 x4 NVMe, M.2 2280 (P/N MZ-VAP4T0BW)
-- **Quantity**: 1 units
+- **Quantity**: 1 unit
 - **Purpose**: High-throughput I/O tracing, page file analysis, live recompilation caching, and runtime log capture.
 
 ## Data Storage
 
-- **Model**: SOLIDIGM D7-PS1010 PCIe5.0 U.2 NVMe 2.5" (15 mm)
-- **Capacity**: 15.36TB x 2 drives
+- **Model**: SOLIDIGM D7-PS1010 PCIe5.0 U.2 NVMe 2.5" (15 mm) 15.36TB
+- **Quantity**: 2 units
 
 ## Wi-Fi / Bluetooth
 
 - **Module**: Intel Wi-Fi 7 BE200NGW (M.2 2230 E-Key, Wi-Fi 7 + BT 5.4)
-- **Quantity**: 1 units
+- **Quantity**: 1 unit
 - **Standards**: Wi-Fi 7 / Bluetooth 5.4
 
 ## Peripherals
