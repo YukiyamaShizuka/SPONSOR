@@ -31,7 +31,7 @@ Baojing New Village‌, Lujiang County, Hefei City, Anhui Province
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | 3        | NVIDIA RTX PRO 6000 Blackwell Workstation Edition (Retail Box)                                                                          |
 | 2        | NVIDIA H200 NVL PCIe GPU                                                                                                                |
-| 1        | **Dell PowerEdge XE9680L** — **2** × Intel Xeon Platinum 8593Q (**64** cores each, **128** cores total)  ·  **4** TB DDR5-5600 RECC DIMM System Memory  ·  **8** x **NVIDIA** HGX **B200 180GB** 1000W SXM6 GPUs, fully interconnected with NVIDIA NVLink technology  ·   Security Bezel|
+| 1        | **Dell PowerEdge XE9680L** — **2** × Intel Xeon Platinum 8593Q (**64** cores each, **128** cores total)  ·  System Memory: **4** TB DDR5-5600 RECC DIMM  ·  **8** x **NVIDIA** HGX **B200 180GB** 1000W SXM6 GPUs, fully interconnected with NVIDIA NVLink technology  ·   System Storage: 1 x **4** TB PCIe5.0 M.2 ssd  ·  Data Storage: 8 x 2.5-inch NVMe SSD drives max 122.88 TB  ·  Security Bezel|
 - **Purpose**: CUDA-backed runtime acceleration for instruction visualization, GPGPU compilation testing, and real-time pipeline rendering for the Signal virtual machine.
 
 ## Power Supply
