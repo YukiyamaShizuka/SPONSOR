@@ -27,7 +27,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 
 ## GPU
 
-- **Model**: 3 x NVIDIA RTX PRO 6000 Blackwell Workstation Edition (Retail Box); 4 x NVIDIA H200 NVL PCIe GPU(NVLink enabled); 1 x NVDIA RTX 6000 Ada(Retail Box).
+- **Model**: 3 x NVIDIA RTX PRO 6000 Blackwell Workstation Edition (Retail Box); 6 x NVIDIA H200 NVL PCIe GPU.
 - **Purpose**: CUDA-backed runtime acceleration for instruction visualization, GPGPU compilation testing, and real-time pipeline rendering for the Signal virtual machine.
 
 ## Power Supply
@@ -75,6 +75,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 - **Fan**: Lian Li UNI FAN TL140 Wireless ARGB Standard Blade Fan (Black Edition) ×3  
 - **Fan Controller**: Lian Li UNI FAN TL Wireless Controller (Transmitter , required for the TL wireless fans , Black Edition)
 - **Cable**: 2 x PCIe4.0 SlimSAS SFF-8654 4i to SFF-8639 U.2 NVMe Cable(50cm)
+- **NVLink**: 1 x NVIDIA 4-way NVLink Bridge for H200 NVL; 3 x NVIDIA 2-way NVLink Bridge for H200 NVL.
 - **Purpose**: 
    - Provides low-latency, ergonomic input for long development sessions, console emulation, and breakpoint debugging.
    - The wireless TL140 fans, powered by 2.4 GHz L‑Wireless sync, use standard-direction blades for strong airflow, optimizing chassis cooling without cable clutter.
