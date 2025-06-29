@@ -94,6 +94,3 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 ## 📬 Delivery Reminder
 
 If this configuration is approved for sponsorship, please arrange for shipping via **JD Express** only, ensuring arrival **no later than July 1, 2025**. Timely delivery is critical for inclusion in the summer Signal_X86 development timeline.
-
-## 🔷 [See Better Plan – Signal Hardware Sponsorship Request (Due by 2025-07-01)](Signal_Hardware_Sponsorship_Request_Please_Arrive_Before_2025-07-01.md)
-
