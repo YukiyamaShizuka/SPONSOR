@@ -78,8 +78,8 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 - **Keyboard**: ROG RX98 Wireless Mechanical Keyboard (White Edition , 2.4 GHz/BT/wired, Triple‑mode)
 - **Mouse**: ASUS ROG Keris II Ace Wireless Mouse (White Edition , 2.4 GHz/BT/wired, Triple‑mode)  
 - **Speaker**: Edifier Halo SoundBar (Cherry Blossom Pink Edition)
-- **Fan**: 8 x Lian Li UNI FAN TL140 Wireless ARGB Standard Blade Fan (Black Edition); 3 x Lian Li UNI FAN TL140 Wireless ARGB Reverse Blade Fan (Black Edition).   
-- **Fan Controller**: 2 x Lian Li UNI FAN TL Wireless Controller (Transmitter , required for the TL wireless fans , Black Edition)
+- **Fan**: 8 x Lian Li UNI FAN TL140 Wireless ARGB Standard Blade Fan (Black/LCD Edition); 3 x Lian Li UNI FAN TL140 Wireless ARGB Reverse Blade Fan (Black/LCD Edition); 4 x Lian Li UNI FAN TL120 Wireless ARGB Reverse Blade Fan(Black/LCD Edition).
+- **Fan Controller**: 2 x Lian Li UNI FAN TL Wireless Controller (Transmitter , required for the TL wireless fans , Black/LCD Edition)
 - **Cable**: 4 x PCIe4.0 SlimSAS SFF-8654 4i to SFF-8639 U.2 NVMe Cable(50cm)
 - **NVLink**: 1 x NVIDIA 4-way NVLink Bridge for H200 NVL; 3 x NVIDIA 2-way NVLink Bridge for H200 NVL.
 - **Purpose**: 
