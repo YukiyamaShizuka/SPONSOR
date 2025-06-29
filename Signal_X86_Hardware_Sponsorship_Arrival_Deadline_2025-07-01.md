@@ -48,7 +48,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 ## Monitor
 
 - **Model**: ASUS ProArt PA32UCXR 32” 4K HDR Mini-LED Display (P/N PA32UCXR)
-- **Quantity**: 2 units
+- **Quantity**: 3 units
 - **Purpose**: Precise representation of assembly flow, binary trace overlays, and full-range color debugging during signal-mapped visualizations.
 
 ## Computer Case
