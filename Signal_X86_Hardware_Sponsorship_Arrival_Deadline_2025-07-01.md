@@ -31,7 +31,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 |----------|----------------------------------------------------------------------|
 | 3        | NVIDIA RTX PRO 6000 Blackwell Workstation Edition (Retail Box)      |
 | 2        | NVIDIA H200 NVL PCIe GPU                                            |
-| 1        | NVIDIA DGX B200                                                     |
+| 1        | NVIDIA DGX B200 (System Memory: 4TB)                   |
 - **Purpose**: CUDA-backed runtime acceleration for instruction visualization, GPGPU compilation testing, and real-time pipeline rendering for the Signal virtual machine.
 
 ## Power Supply
