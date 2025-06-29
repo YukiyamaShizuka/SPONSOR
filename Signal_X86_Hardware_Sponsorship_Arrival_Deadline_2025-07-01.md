@@ -55,6 +55,7 @@ Baojing Garden, Lujiang County, Hefei City, Anhui Province, Chin
 ## Computer Case
 
 - **Model**: ASUS ProArt PA602 Wood Edition with Tempered Glass Panel (P/N 90DC00J0-B08010）
+- **Quantity**: 1 units
 - **Purpose**: High airflow support and component spacing for workstation-class builds.
 
 ## System Storage
