@@ -69,12 +69,6 @@ Baojing New Village‌, Lujiang County, Hefei City, Anhui Province
 - **Model**: SOLIDIGM D7-PS1010 PCIe5.0 U.2 NVMe 2.5" (15 mm) 15.36TB
 - **Quantity**: 2 units
 
-## Wi-Fi / Bluetooth
-
-- **Module**: Intel Wi-Fi 7 BE200NGW (M.2 2230 E-Key, Wi-Fi 7 + BT 5.4)
-- **Quantity**: 1 unit
-- **Standards**: Wi-Fi 7 / Bluetooth 5.4
-
 ## Peripherals
 
 - **Keyboard**: 2 x ROG RX98 Wireless Mechanical Keyboard (White Edition , 2.4 GHz/BT/wired, Triple‑mode)
@@ -83,7 +77,8 @@ Baojing New Village‌, Lujiang County, Hefei City, Anhui Province
 - **Fan**: 3 x Lian Li UNI FAN TL140 Wireless ARGB Standard Blade Fan (Black/LCD Edition)
 - **Fan Controller**: Lian Li UNI FAN TL Wireless Controller (Transmitter , required for the TL wireless fans , Black/LCD Edition)
 - **Cable**: 2 x PCIe4.0 SlimSAS SFF-8654 4i to SFF-8639 U.2 NVMe Cable(50cm)
-- **NVLink**: 3 x NVIDIA 2-way NVLink Bridge for H200 NVL.
+- **NVLink**: 3 x NVIDIA 2-way NVLink Bridge for H200 NVL
+- **Network Cable**: 2 x ASUS ROG ZOOM CAT7 (3m)
 - **Purpose**: 
    - Provides low-latency, ergonomic input for long development sessions, console emulation, and breakpoint debugging.
    - The wireless TL140 fans, powered by 2.4 GHz L‑Wireless sync, use standard-direction blades for strong airflow, optimizing chassis cooling without cable clutter.
