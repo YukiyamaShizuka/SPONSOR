@@ -79,7 +79,7 @@ Baojing New Village‌, Lujiang County, Hefei City, Anhui Province
 - **Cable**: 2 x PCIe4.0 SlimSAS SFF-8654 4i to SFF-8639 U.2 NVMe Cable(50cm)
 - **NVLink**: 3 x NVIDIA 2-way NVLink Bridge for H200 NVL
 - **Network Cable**: 2 x ASUS ROG ZOOM CAT7 (3m)
-- **UPS**: 2 × KELONG YTR31 Series UPS Power Supply, Model YTR3120 (20 kVA / 16 kW, Vertical Tower, 6h battery runtime)
+- **UPS**: 2 × KELONG YTR31 Series UPS Power Supply, Model YTR3120 (20 kVA / 16 kW, Vertical Tower, 12h battery runtime)
 - **Purpose**: 
    - Provides low-latency, ergonomic input for long development sessions, console emulation, and breakpoint debugging.
    - The wireless TL140 fans, powered by 2.4 GHz L‑Wireless sync, use standard-direction blades for strong airflow, optimizing chassis cooling without cable clutter.
