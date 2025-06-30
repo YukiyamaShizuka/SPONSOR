@@ -49,7 +49,7 @@ Baojing New Village‌, Lujiang County, Hefei City, Anhui Province
 ## Monitor
 
 - **Model**: ASUS ProArt PA32UCXR 32” 4K HDR Mini-LED Display (P/N PA32UCXR)
-- **Quantity**: 3 units
+- **Quantity**: 4 units
 - **Purpose**: Precise representation of assembly flow, binary trace overlays, and full-range color debugging during signal-mapped visualizations.
 
 ## Computer Case
@@ -73,7 +73,7 @@ Baojing New Village‌, Lujiang County, Hefei City, Anhui Province
 
 - **Keyboard**: 2 x ROG RX98 Wireless Mechanical Keyboard (White Edition , 2.4 GHz/BT/wired, Triple‑mode)
 - **Mouse**: 2 x ASUS ROG Keris II Ace Wireless Mouse (White Edition , 2.4 GHz/BT/wired, Triple‑mode)  
-- **Speaker**: Edifier Halo SoundBar (Cherry Blossom Pink Edition)
+- **Speaker**: 2 x Edifier Halo SoundBar (Cherry Blossom Pink Edition)
 - **Fan**: 3 x Lian Li UNI FAN TL140 Wireless ARGB Standard Blade Fan (Black/LCD Edition)
 - **Fan Controller**: Lian Li UNI FAN TL Wireless Controller (Transmitter , required for the TL wireless fans , Black/LCD Edition)
 - **Cable**: 2 x PCIe4.0 SlimSAS SFF-8654 4i to SFF-8639 U.2 NVMe Cable(50cm)
