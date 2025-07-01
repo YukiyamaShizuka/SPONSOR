@@ -6,7 +6,7 @@ This is a formal sponsorship request. If accepted, please **ensure delivery is c
 
 **Delivery Address:**  
 Baojing New Village‌, Lujiang County, Hefei City, Anhui Province, China  
-**Phone:** 136‑9652‑5769 *(for courier use only; all other inquiries via email: shizuka@treeos.art)*  
+**Phone:** 136‑9652‑5769 (for courier use only; all other inquiries via email: shizuka@treeos.art or via WeChat: A1231457123)  
 
 **If the sponsored equipment has been shipped, please notify me with the tracking number via email.**
 
