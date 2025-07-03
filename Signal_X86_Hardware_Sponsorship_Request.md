@@ -62,7 +62,7 @@ and architectural behavior of the Signal VM at its lowest level.
 
 **Role:** Multi-path CUDA compilation, isolated kernel instruction synthesis
 
-- **CPU:** 2 × Xeon Platinum 8593Q (128 cores total)  
+- **CPU:** 2 × Xeon Platinum 8593Q (64 cores per, 128 cores total)  
 - **Memory:** 4TB DDR5-5600  
 - **GPU:** 8 × NVIDIA B200 SXM6 (180GB each, NVSwitch)  
 - **Display GPU:** RTX 2000 Ada  
