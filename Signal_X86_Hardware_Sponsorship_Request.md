@@ -114,7 +114,7 @@ You offer a chance to rewrite how systems think, act, and evolve—from the firs
 	•	Email: En.Farron@iCloud.com
 	•	WeChat: A1231457123
 	•	Telegram: +86 136‑9652‑5769
-	•	GitHub Proposal: Signal_X86 Hardware Sponsorship
+	•	GitHub Proposal: [Signal_X86_Hardware_Sponsorship_Request.md](https://github.com/YukiyamaShizuka/SPONSOR/blob/main/Signal_X86_Hardware_Sponsorship_Arrival_Deadline_2025-07-01.md)
 
 ⸻
 
