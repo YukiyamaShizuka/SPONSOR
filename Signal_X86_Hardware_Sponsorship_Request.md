@@ -55,7 +55,7 @@ The hardware I request isn’t high-end for prestige — it’s required to mirr
  • System Drive: Samsung 9100 PRO 4TB (PCIe 5.0)  
  • Data Drives: 2 × Solidigm D7-PS1010 U.2 (15.36TB each)  
 - **Power Supply**: Great Wall EPS3000BL (94+ Certified)  
-- **Chassis**: ASUS ProArt PA602 Wood Edition (Tempered Glass Panel)  
+- **Chassis**: ASUS ProArt PA602 Wood Edition (with Tempered Glass Panel)  
 - **Cooling**: COOLSERVER M99 Tower (LGA4677)
 
 ---
