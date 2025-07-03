@@ -58,7 +58,7 @@ and architectural behavior of the Signal VM at its lowest level.
 
 ---
 
-## 🏢 Simulation Node – Dell PowerEdge XE9680L (x1 Unit)
+## 🏢 Required Node – Dell PowerEdge XE9680L (x1 Unit)
 
 **Role:** Multi-path CUDA compilation, isolated kernel instruction synthesis
 
@@ -73,7 +73,7 @@ and architectural behavior of the Signal VM at its lowest level.
 
 ---
 
-## 💠 Optional Node – NVIDIA GB200 NVL72 (Factory-Rack Model)
+## 💠 Required Node – NVIDIA GB200 NVL72 (Factory-Rack Model)
 
 If available within your infrastructure, the GB200 NVL72 — in **NVIDIA’s original black-gold factory color** — would serve as a full-scale benchmarking extension.  
 **This unit is entirely optional.**
