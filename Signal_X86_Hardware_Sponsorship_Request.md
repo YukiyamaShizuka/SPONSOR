@@ -73,10 +73,9 @@ and architectural behavior of the Signal VM at its lowest level.
 
 ---
 
-## 💠 Required Node – NVIDIA GB200 NVL72 (Factory-Rack Model)
+## 💠 Required Node – NVIDIA GB200 NVL72 (Official Factory-Rack Model)
 
-If available within your infrastructure, the GB200 NVL72 — in **NVIDIA’s original black-gold factory color** — would serve as a full-scale benchmarking extension.  
-**This unit is entirely optional.**
+The GB200 NVL72 — in **NVIDIA’s official factory-rack configuration, with original black-gold chassis design** — is a required node for full-scale benchmarking and AI-coupled execution validation.
 
 - **CPU:** Grace + Blackwell Dual-Socket AI Architecture  
 - **GPU:** 72 × GB200 GPUs via NVLink/NVSwitch  
@@ -84,7 +83,7 @@ If available within your infrastructure, the GB200 NVL72 — in **NVIDIA’s ori
 
  ↳ Used for AI-coupled memory streaming validation, kernel-level saturation testing, CUDA coordination under full system pressure
 
-*If pre-production or warehouse units are available, this enables the full multi-node validation of Signal at its most complete scale.*
+This unit is essential for enabling the full multi-node validation of Signal at its most complete scale.
 
 ---
 
