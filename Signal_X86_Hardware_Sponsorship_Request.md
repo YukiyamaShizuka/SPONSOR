@@ -112,7 +112,7 @@ If available within your infrastructure, the GB200 NVL72 — in **NVIDIA’s ori
  • 3 × NVIDIA 2-Way NVLink Bridge (H200 NVL)  
  • 2 × ASUS ROG ZOOM CAT7 (3m Ethernet)  
 - UPS: 2 × KELONG YTR31 (20kVA / 16kW, 12hr Runtime)  
-- **Cabinet:** Glass-front cabinet (liquid-cooled, XE9680L compatible)
+- **Cabinet:** Glass-front cabinet (liquid-cooled, XE9680L compatible, custom 6U–12U MiniLab Rack format, styled to match Dell industrial aesthetic)
 
 ---
 
