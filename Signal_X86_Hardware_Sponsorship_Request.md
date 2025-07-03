@@ -83,7 +83,7 @@ The GB200 NVL72 — in **NVIDIA’s official factory-rack configuration, with or
 
  ↳ Used for AI-coupled memory streaming validation, kernel-level saturation testing, CUDA coordination under full system pressure
 
-This unit is essential for enabling the full multi-node validation of Signal/SapClarify at its most complete scale.
+This unit is essential for enabling the full multi-node validation of Signal at its most complete scale.
 
 ---
 
