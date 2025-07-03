@@ -130,6 +130,19 @@ You offer a chance to rewrite how systems think, act, and evolve — from the fi
 
 ---
 
+## 🎯 The Bet
+
+What I ask is not charity — it is a calculated bet.
+
+I ask that you wager a few machines — devices that may soon sit unused in a warehouse or become legacy hardware in two years — on a structure that could redefine the next 20.
+
+If you win, you gain the architecture that underpins the next era of computing.  
+If you lose, you still gain deep technical insight, early exposure to a novel execution model, and a cost no greater than some “toys” you may soon retire.
+
+But if you pass… the system still comes — just without you.
+
+---
+
 ## 📦 Delivery Details
 
 - **Recipient:** Shizuka  
