@@ -58,7 +58,7 @@ and architectural behavior of the Signal VM at its lowest level.
 
 ---
 
-## 🏢 Simulation Node – Dell PowerEdge XE9680L (x2 Units)
+## 🏢 Simulation Node – Dell PowerEdge XE9680L (x1 Unit)
 
 **Role:** Multi-path CUDA compilation, isolated kernel instruction synthesis
 
