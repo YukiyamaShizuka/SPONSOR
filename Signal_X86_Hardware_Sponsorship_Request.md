@@ -58,13 +58,13 @@ and architectural behavior of the Signal VM at its lowest level.
 
 ---
 
-## 🏢 Simulation Node – Dell PowerEdge XE9680 (x2 Units)
+## 🏢 Simulation Node – Dell PowerEdge XE9680L (x2 Units)
 
 **Role:** Multi-path CUDA compilation, isolated kernel instruction synthesis
 
 - **CPU:** 2 × Xeon Platinum 8593Q (128 cores total)  
 - **Memory:** 4TB DDR5-5600  
-- **GPU:** 8 × NVIDIA H200 SXM5 (141GB each, NVSwitch)  
+- **GPU:** 8 × NVIDIA B200 SXM6 (180GB each, NVSwitch)  
 - **Display GPU:** RTX 2000 Ada  
 - **Storage:**  
  • 1 × 4TB PCIe 5.0 NVMe (System)  
@@ -75,12 +75,12 @@ and architectural behavior of the Signal VM at its lowest level.
 
 ## 💠 Optional Node – NVIDIA GB200 NVL72 (Factory-Rack Model)
 
-If available within your infrastructure, the GB200 NVL72 would serve as a full-scale benchmarking extension.  
+If available within your infrastructure, the GB200 NVL72 — in **NVIDIA’s original black-gold factory color** — would serve as a full-scale benchmarking extension.  
 **This unit is entirely optional.**
 
 - **CPU:** Grace + Blackwell Dual-Socket AI Architecture  
 - **GPU:** 72 × GB200 GPUs via NVLink/NVSwitch  
-- **Cooling:** NVIDIA original rack-scale factory model (air or liquid)  
+- **Cooling:** NVIDIA original rack-scale factory model in black-gold finish  
 
  ↳ Used for AI-coupled memory streaming validation, kernel-level saturation testing, CUDA coordination under full system pressure
 
@@ -92,7 +92,7 @@ If available within your infrastructure, the GB200 NVL72 would serve as a full-s
 
 - **4 × ASUS ProArt PA32UCXR – 32” 4K HDR Mini-LED**  
  • 2 for the core workstation  
- • 2 mounted to XE9680 nodes  
+ • 2 mounted to XE9680L nodes  
 - **Microsoft Surface Pro (11th Gen, Core Ultra 7, 32GB RAM)**  
  ↳ For signal diagrams and runtime sketches  
 - **Dell Precision 17 7780 (i9-13950HX / RTX 5000 Ada / 128GB)**  
@@ -111,7 +111,8 @@ If available within your infrastructure, the GB200 NVL72 would serve as a full-s
  • 2 × SlimSAS SFF-8654 4i to SFF-8639 U.2  
  • 3 × NVIDIA 2-Way NVLink Bridge (H200 NVL)  
  • 2 × ASUS ROG ZOOM CAT7 (3m Ethernet)  
-- UPS: 2 × KELONG YTR31 (20kVA / 16kW, 12hr Runtime)
+- UPS: 2 × KELONG YTR31 (20kVA / 16kW, 12hr Runtime)  
+- **Cabinet:** Glass-front cabinet (liquid-cooled, XE9680L compatible)
 
 ---
 
