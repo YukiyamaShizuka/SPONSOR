@@ -91,7 +91,7 @@ and architectural behavior of the Signal VM at its lowest level.
 The GB300 NVL72 — in **NVIDIA’s official factory-rack configuration, with original black-gold chassis design** — is required for full-scale benchmarking and AI-coupled execution validation.
 
 - **CPU:** Grace + Blackwell Ultra dual-socket AI architecture  
-- **GPU:** 72 × GB300 GPUs via NVLink/NVSwitch  
+- **GPU:** 72 × B300 GPUs connected via 36 × Grace CPUs and NVSwitch  
 - **Cooling:** NVIDIA original rack-scale factory model in black-gold finish  
 
  ↳ AI-coupled memory streaming validation, kernel-level saturation testing, CUDA coordination under full system pressure
