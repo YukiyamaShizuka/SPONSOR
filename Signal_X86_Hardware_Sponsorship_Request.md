@@ -56,16 +56,16 @@ and architectural behavior of the Signal VM at its lowest level.
 
 - **CPU:** Intel Xeon W-3595X (60 cores / 120 threads)  
 - **Mainboard:** ASUS Pro WS W790-ACE  
-  ↳ For AVX-512 instruction-coupling validation  
-- **Memory:** 2TB DDR5 ECC RDIMM (8 × 256GB SK hynix DDR5-4800)  
-  ↳ For page orchestration and vectorized syscall mapping  
+ ↳ For AVX-512 instruction-coupling validation  
+- **Memory:** 2 TB DDR5 ECC RDIMM (8 × 256 GB SK hynix DDR5-4800)  
+ ↳ For page orchestration and vectorized syscall mapping  
 - **GPU:**  
  • 3 × NVIDIA RTX PRO 6000 Blackwell (Retail Box)  
  • 2 × NVIDIA H200 NVL PCIe  
   ↳ For CUDA signal path tracing and GPU-level VM synchronization  
 - **Storage:**  
- • Samsung 9100 PRO 4TB (PCIe 5.0 System)  
- • 2 × Solidigm D7-PS1010 U.2 15.36TB (Data)  
+ • Samsung 9100 PRO 4 TB (PCIe 5.0 System)  
+ • 2 × Solidigm D7-PS1010 U.2 15.36 TB (Data)  
 - **Chassis:** ASUS ProArt PA602 Wood Edition with Tempered Glass Panel  
 - **Power Supply:** Great Wall EPS3000BL (94+ Certified)  
 - **Cooling:** COOLSERVER M99 Tower (LGA4677)
@@ -76,23 +76,23 @@ and architectural behavior of the Signal VM at its lowest level.
 
 **Role:** Multi-path CUDA compilation, isolated kernel instruction synthesis
 
-- **CPU:** 2 × Xeon Platinum 8593Q (64 cores per, 128 cores total)  
-- **Memory:** 4TB DDR5-5600  
-- **GPU:** 8 × NVIDIA B200 SXM6 (180GB each, NVSwitch)  
+- **CPU:** 2 × Xeon Platinum 6788P (86 cores each, 172 cores total)  
+- **Memory:** 4 TB DDR5-6400  
+- **GPU:** 8 × NVIDIA B300 SXM6 (288 GB each, NVSwitch)  
 - **Display GPU:** RTX 2000 Ada  
 - **Storage:**  
- • 1 × 4TB PCIe 5.0 NVMe (System)  
- • 8 × U.2 NVMe SSDs (15.36TB × 8 = 122.88TB Total)  
+ • 1 × 4 TB PCIe 5.0 NVMe (System)  
+ • 8 × U.2 NVMe SSDs (15.36 TB × 8 = 122.88 TB Total)  
 - **Accessories:** LCD bezel enabled
 
 ---
 
-## 💠 Required Node – NVIDIA GB200 NVL72 (Official Factory-Rack Model)
+## 💠 Required Node – NVIDIA GB300 NVL72 (Official Factory-Rack Model)
 
-The GB200 NVL72 — in **NVIDIA’s official factory-rack configuration, with original black-gold chassis design** — is a required node for full-scale benchmarking and AI-coupled execution validation.
+The GB300 NVL72 — in **NVIDIA’s official factory-rack configuration, with original black-gold chassis design** — is a required node for full-scale benchmarking and AI-coupled execution validation.
 
-- **CPU:** Grace + Blackwell Dual-Socket AI Architecture  
-- **GPU:** 72 × GB200 GPUs via NVLink/NVSwitch  
+- **CPU:** Grace + Blackwell Ultra Dual-Socket AI Architecture  
+- **GPU:** 72 × GB300 GPUs via NVLink/NVSwitch  
 - **Cooling:** NVIDIA original rack-scale factory model in black-gold finish  
 
  ↳ Used for AI-coupled memory streaming validation, kernel-level saturation testing, CUDA coordination under full system pressure
@@ -106,9 +106,9 @@ This unit is essential for enabling the full multi-node validation of Signal at 
 - **4 × ASUS ProArt PA32UCXR – 32” 4K HDR Mini-LED**  
  • 2 for the core workstation  
  • 2 mounted to XE9680L nodes  
-- **Microsoft Surface Pro (11th Gen, Core Ultra 7, 32GB RAM)**  
+- **Microsoft Surface Pro (11th Gen, Core Ultra 7, 32 GB RAM)**  
  ↳ For signal diagrams and runtime sketches  
-- **Dell Precision 17 7780 (i9-13950HX / RTX 5000 Ada / 128GB)**  
+- **Dell Precision 17 7780 (i9-13950HX / RTX 5000 Ada / 128 GB)**  
  ↳ For portable code simulation and VM testing
 
 ---
