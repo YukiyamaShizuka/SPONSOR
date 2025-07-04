@@ -77,7 +77,7 @@ and architectural behavior of the Signal VM at its lowest level.
 
 - **CPU:** 2 × Xeon Platinum 6788P (86 cores each, 172 cores total)  
 - **Memory:** 4 TB DDR5-6400 ECC RDIMM  
-- **GPU:** 8 × NVIDIA B300 SXM6 GPUs (288 GB per GPU), interconnected in an all-to-all NVLink topology via NVSwitch  
+- **GPU:** 8 × NVIDIA B300 SXM GPUs (288 GB per GPU), interconnected in an all-to-all NVLink topology via NVSwitch  
 - **Display GPU:** RTX 2000 Ada  
 - **Storage:**  
  • 1 × 4 TB PCIe 5.0 NVMe (System)  
