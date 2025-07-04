@@ -147,10 +147,10 @@ You offer the catalyst that lets a blueprint become a living system.
 
 > **Stake Table**  
 > | Stake | Worst Outcome | Best Outcome |  
-> |-------|--------------|-------------|  
-> | One **NVL72**, one **XE9680L**, one workstation, one rack-slot | Project stalls; the lab assets flow into your internal research pool, accompanied by full run-logs and deep architectural insight | *First* trillion-parameter **AI-Auditable Kernel** white-paper carries your logo as **Founding Infrastructure Partner** |
+> |-------|----------------|--------------|  
+> | One **NVL72**, one **XE9680L**, one workstation, one rack-slot | Project stalls; all systems remain with the researcher, along with complete run-logs and architectural insights shared back with you | *First* trillion-parameter **AI-Auditable Kernel** white-paper carries your logo as **Founding Infrastructure Partner** |
 
-Even in the slowest timeline, the sponsored hardware keeps shaping breakthroughs — either in my codepath or yours.
+Whether the outcome is revolution or refinement, the hardware stays where the thinking happened — enabling future attempts, and forever marked by the belief that placed it there.
 
 ---
 
