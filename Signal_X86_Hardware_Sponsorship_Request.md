@@ -105,7 +105,7 @@ This node enables multi-node validation of Signal at its most complete scale.
 - **4 × ASUS ProArt PA32UCXR – 32” 4K HDR Mini-LED**  
  • 2 for the core workstation  
  • 2 mounted to XE9680L  
-- **Microsoft Surface Pro (11th Gen, Core Ultra 7, 32 GB RAM)**  
+- **Microsoft Surface Pro (11th Gen, Core Ultra 7, 32 GB + 1 TB)**  
  ↳ Signal diagrams and runtime sketches  
 - **Dell Precision 17 7780 (i9-13950HX / RTX 5000 Ada / 128 GB)**  
  ↳ Portable code simulation and VM testing
