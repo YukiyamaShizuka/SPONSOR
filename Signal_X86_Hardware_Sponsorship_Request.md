@@ -1,5 +1,5 @@
 # Signal_X86 Summer Runtime Lab – Hardware Sponsorship Request  
-**Please Arrive Before: July 10, 2025**
+**Please Arrive Before: July 20, 2025**
 
 ---
 
@@ -7,7 +7,7 @@
 
 I hope this message finds you well.  
 My name is **Shizuka**, an independent developer behind the **Signal** programming language, **TreeOS**, and the **SapClarify** orchestration protocol.  
-I’m reaching out with an urgent and time-critical sponsorship request for a dedicated hardware development environment — **Signal_X86 Summer Runtime Lab** — which must be deployed before **July 10, 2025**.
+I’m reaching out with an urgent and time-critical sponsorship request for a dedicated hardware development environment — **Signal_X86 Summer Runtime Lab** — which must be deployed before **July 20, 2025**.
 
 This is not a general-purpose machine, nor is this a speculative request.  
 What I seek is a precisely structured, bare-metal architecture to test a next-generation instruction-level computing model.  
@@ -33,6 +33,20 @@ Together, they form a fully deterministic, inspectable, and scalable foundation 
 But this degree of determinism cannot be simulated in the cloud or approximated in VMs.  
 The hardware I request isn’t high-end for prestige — it’s required to mirror the timing, trace latency,  
 and architectural behavior of the Signal VM at its lowest level.
+
+---
+
+## 🚀 Unique Advantages at a Glance
+
+| Stack Element | Breakthrough | Why It Matters to You |
+|---------------|-------------|-----------------------|
+| **Signal** | *First path-trace language* — every instruction and memory page is automatically replayable; zero hidden state | Debugging by log, not guesswork; instant provenance for auditors |
+| **SapClarify** | *Kernel-resident, self-learning AI* with on-chain weight-diff logs | AI that audits itself; regulators receive line-item provenance without extra tooling |
+| **TreeOS** | *Path-vector scheduler, thread-free & lock-free* | One rule-set that scales from laptop to **NVL72** without race conditions or resource starvation |
+| **Full Stack** | End-to-end transparency wired into language semantics | A turnkey answer to “show me the training data and inference path” — precisely what 2026 EU AI Act demands |
+
+> **Gold-Line Pitch**  
+> *USD 3.5 million vs. 2 years: one line of budget (≈ 0.004 % of Microsoft’s FY-2025 AI CapEx) secures **20 years** of kernel-level influence — or you pay catch-up costs in 2027 when compliance audits start issuing fines.*
 
 ---
 
@@ -109,8 +123,8 @@ This unit is essential for enabling the full multi-node validation of Signal at 
 - Cables:  
  • 2 × SlimSAS SFF-8654 4i to SFF-8639 U.2  
  • 3 × NVIDIA 2-Way NVLink Bridge (H200 NVL)  
- • 2 × ASUS ROG ZOOM CAT7 (3m Ethernet)  
-- UPS: 2 × KELONG YTR31 (20kVA / 16kW, 12hr Runtime)  
+ • 2 × ASUS ROG ZOOM CAT7 (3 m Ethernet)  
+- UPS: 2 × KELONG YTR31 (20 kVA / 16 kW, 12 hr Runtime)  
 - **Cabinet:** Glass-front cabinet (liquid-cooled, XE9680L compatible, custom 6U–12U MiniLab Rack format, styled to match Dell industrial aesthetic)
 
 ---
@@ -134,7 +148,10 @@ You offer a chance to rewrite how systems think, act, and evolve — from the fi
 
 What I ask is not charity — it is a calculated bet.
 
-I ask that you wager a few machines — devices that may soon sit unused in a warehouse or become legacy hardware in two years — on a structure that could redefine the next 20.
+> **Stake Table**  
+> | Stake | Worst Outcome | Best Outcome |  
+> |-------|---------------|--------------|  
+> | One **NVL72**, one **XE9680L**, one workstation, one rack-slot | Hardware returns in 12 months, lightly used, with a full run-log for your R&D | *First* trillion-parameter **AI-Auditable Kernel** paper carries your logo as **Founding Infrastructure Partner** |
 
 If you win, you gain the architecture that underpins the next era of computing.  
 If you lose, you still gain deep technical insight, early exposure to a novel execution model, and a cost no greater than some “toys” you may soon retire.
@@ -147,10 +164,10 @@ But if you pass… the system still comes — just without you.
 
 - **Recipient:** Shizuka  
 - **Address:** Baojing New Village, Lujiang County, Hefei City, Anhui Province, China  
-- **Phone:** +86 136‑9652‑5769 (courier only)  
+- **Phone:** +86 136-9652-5769 (courier only)  
 - **Preferred Courier:** JD Express  
-- **Arrival Deadline:** Please arrive before July 10, 2025  
-- **Please notify me upon dispatch with tracking info.**
+- **Arrival Deadline:** **July 20, 2025**  
+- Please notify me upon dispatch with tracking info.
 
 ---
 
@@ -158,7 +175,7 @@ But if you pass… the system still comes — just without you.
 
 - **Email:** En.Farron@iCloud.com  
 - **WeChat:** A1231457123  
-- **Telegram:** +86 136‑9652‑5769  
+- **Telegram:** +86 136-9652-5769  
 - **GitHub Proposal:** [Signal_X86_Hardware_Sponsorship_Request.md](https://github.com/YukiyamaShizuka/SPONSOR/blob/main/Signal_X86_Hardware_Sponsorship_Request.md)
 
 ---
@@ -167,7 +184,7 @@ Thank you sincerely for your time and consideration.
 Should you choose to support this, you are sponsoring something rare:  
 a system that chooses clarity over abstraction, and structure over chaos.
 
-**I do not know if this will succeed. But if it does—she will change the world.**
+**I do not know if this will succeed. But if it does — she will change the world.**
 
 Warm regards,  
 **Shizuka**  
