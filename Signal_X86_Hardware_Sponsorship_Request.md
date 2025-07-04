@@ -125,7 +125,7 @@ This unit is essential for enabling the full multi-node validation of Signal at 
  • 3 × NVIDIA 2-Way NVLink Bridge (H200 NVL)  
  • 2 × ASUS ROG ZOOM CAT7 (3 m Ethernet)  
 - UPS: 2 × KELONG YTR31 (20 kVA / 16 kW, 12 hr Runtime)  
-- **Cabinet:** Glass-front cabinet (liquid-cooled, XE9680L compatible, custom 6U–12U MiniLab Rack format, styled to match Dell industrial aesthetic)
+- **Cabinet:** Glass-front cabinet (liquid-cooled, XE9680L compatible, custom 6U–12U Dell MiniLab Rack format, styled to match Dell industrial aesthetic)
 
 ---
 
