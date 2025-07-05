@@ -145,9 +145,9 @@ and architectural behavior of the Signal VM at its lowest level.
 
 ## 🧰 Peripheral Stack
 
-- **Keyboards:** ROG RX98 Wireless (White)  
-- **Mice:** ROG Keris II Ace Wireless  
-- **Speakers:** Edifier Halo SoundBar (Sakura Pink)  
+- **Keyboards:** 2 × ROG RX98 Wireless (White)  
+- **Mice:** 2 × ROG Keris II Ace Wireless  
+- **Speakers:** 2 × Edifier Halo SoundBar (Sakura Pink)  
 - **GPU**: 2 × NVIDIA H200 NVL PCIe GPU  
 - **Cables:**  
   • 2 × SlimSAS SFF-8654 4i to SFF-8639 U.2  
