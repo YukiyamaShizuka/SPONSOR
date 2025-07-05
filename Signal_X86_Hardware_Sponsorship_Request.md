@@ -192,17 +192,6 @@ Evaluation, site acquisition, and all necessary retrofitting are respectfully re
 
 ---
 
-## 📦 Delivery Details
-
-- **Recipient:** Shizuka  
-- **Address:** Baojing New Village, Lujiang County, Hefei City, Anhui Province, China  
-- **Phone:** +86 136-9652-5769 (courier only)  
-- **Preferred Courier:** JD Express  
-- **Arrival Deadline:** **July 20, 2025**  
-- Please notify me upon dispatch with tracking info.
-
----
-
 ## ✉️ Contact
 
 - **Email:** En.Farron@iCloud.com  
