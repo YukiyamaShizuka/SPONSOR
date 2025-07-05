@@ -56,7 +56,7 @@ and architectural behavior of the Signal VM at its lowest level.
 - **Chassis:** **ASUS ESC8000-12** (4 U 8-GPU server)  
 - **CPU:** 2 × Intel Xeon 6788P (86 cores each, 172 cores total)  
 - **Memory:** 4 TB DDR5-6400 ECC RDIMM  
-- **GPU:** 8 × NVIDIA RTX PRO 6000 Blackwell Server Edition; 2 × NVIDIA H200 NVL PCIe GPU
+- **GPU:** 8 × NVIDIA RTX PRO 6000 Blackwell Server Edition
 - **OS Storage:** 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe  
 - **Data Storage:** 6 × Solidigm D7-PS1010 15.36 TB U.2  
 - **Cooling & Power:** High-pressure air tunnel; 4 × 3 kW Titanium PSU (N+1)
@@ -111,13 +111,14 @@ The GB300 NVL72 — delivered in ASUS AI POD reference rack with black-gold fini
 
 - **Keyboards:** ROG RX98 Wireless (White)  
 - **Mice:** ROG Keris II Ace Wireless  
-- **Speakers:** Edifier Halo SoundBar (Sakura Pink)    
+- **Speakers:** Edifier Halo SoundBar (Sakura Pink)
+- **GPU**: 2 × NVIDIA H200 NVL PCIe GPU
 - **Cables:**  
   • 2 × SlimSAS SFF-8654 4i to SFF-8639 U.2  
   • 3 × NVIDIA 2-Way NVLink Bridge (H200 NVL)  
-  • 2 × ASUS ROG ZOOM CAT7 (3 m Ethernet)  
-- **UPS:** 2 × KELONG YTR31 (20 kVA / 16 kW, 12 hr Runtime)  
-- **Cabinet:** SDWS SDB6242
+  • 2 × ASUS ROG ZOOM CAT7 (3 m Ethernet)
+- **UPS:** KELONG YTR33200  
+- **Cabinet:** KDE-PD6042
 
 ---
 
