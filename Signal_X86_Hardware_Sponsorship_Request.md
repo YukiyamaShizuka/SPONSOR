@@ -53,7 +53,7 @@ and architectural behavior of the Signal VM at its lowest level.
 
 **Build Target:** `Signal VM Runtime Testbed`
 
-- **Chassis:** **ASUS ESC8000-12** (4 U 8-GPU server)  
+- **Model:** **ASUS ESC8000-12** (4 U 8-GPU server)  
 - **CPU:** 2 × Intel Xeon 6788P (86 cores each, 172 cores total)  
 - **Memory:** 4 TB DDR5-6400 ECC RDIMM  
 - **GPU:** 8 × NVIDIA RTX PRO 6000 Blackwell Server Edition
