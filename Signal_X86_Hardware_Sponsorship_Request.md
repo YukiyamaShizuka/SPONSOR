@@ -135,7 +135,7 @@ and architectural behavior of the Signal VM at its lowest level.
 
 ## 🖥️ Display & Portable Nodes
 
-- **3 × ASUS ProArt PA32KCX – 32” 8K HDR Mini-LED**   
+- **4 × ASUS ProArt PA32KCX – 32” 8K HDR Mini-LED**   
 - **Microsoft Surface Pro (11th Gen, Core Ultra 7-268V, 32 GB + 1 TB)**  
   ↳ Signal diagrams and runtime sketches  
 - **Dell Precision 17 7780 (i9-13950HX / RTX 5000 Ada / 128 GB + 6 TB)**  
