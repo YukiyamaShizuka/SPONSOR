@@ -150,6 +150,11 @@ Regardless of success or setback, all contributed hardware is granted unconditio
 
 ---
 
+**Deployment Consideration**  
+**The current residence is a fourth-floor legacy building and lacks the structural and electrical conditions for high-performance hardware deployment. Evaluation and site preparation support by the sponsor is respectfully recommended.**
+
+---
+
 ## 📦 Delivery Details
 
 - **Recipient:** Shizuka  
