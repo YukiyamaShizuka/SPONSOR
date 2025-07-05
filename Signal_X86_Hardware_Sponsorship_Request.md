@@ -45,7 +45,8 @@ and architectural behavior of the Signal VM at its lowest level.
 | **Full Stack** | End-to-end transparency wired into language semantics | Turn-key compliance for the 2026 EU AI Act’s “show me the inference path” mandate |
 
 > **Gold-Line Pitch**  
-> *USD 3.5 million vs. 2 years:* one budget line (≈ 0.004 % of Microsoft’s FY-2025 AI CapEx) secures **20 years** of kernel-level influence — or you pay catch-up costs in 2027 when compliance audits start issuing fines.
+> *USD 3.5 million vs. 2 years:* one budget line (≈ 0.004 % of Microsoft’s FY-2025 AI CapEx) secures **20 years** of kernel-level influence — or you pay catch-up costs in 2027 when compliance audits start issuing fines.  
+> **The earlier the sponsorship arrives, the greater the chance of passing the 2026 AI regulatory audits smoothly.**
 
 ---
 
@@ -56,10 +57,10 @@ and architectural behavior of the Signal VM at its lowest level.
 - **Model:** **ASUS ESC8000-12** (4 U 8-GPU server)  
 - **CPU:** 2 × Intel Xeon 6788P (86 cores each, 172 cores total)  
 - **Memory:** 4 TB DDR5-6400 ECC RDIMM  
-- **GPU:** 8 × NVIDIA RTX PRO 6000 Blackwell Server Edition
+- **GPU:** 8 × NVIDIA RTX PRO 6000 Blackwell Server Edition  
 - **OS Storage:** 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe  
 - **Data Storage:** 6 × Solidigm D7-PS1010 15.36 TB U.2  
-- **Cooling & Power:** High-pressure air tunnel; 4 × 3 kW Titanium PSU (N+1)
+- **Cooling & Power:** High-pressure air tunnel; 4 × 3 kW Titanium PSU (N+1)  
 - **OS**: Ubuntu Server LTS
 
 ---
@@ -74,7 +75,7 @@ and architectural behavior of the Signal VM at its lowest level.
 - **GPU:** 16 × NVIDIA Blackwell Ultra GPUs with NVLink (HGX B300 NVL16)  
 - **Storage:** 10 × Solidigm D7-PS1010 15.36 TB NVMe  
 - **Network:** 8 × 800 Gb ConnectX-8 NIC（1:1 GPU mapping）  
-- **Cooling:** Direct-to-chip liquid (chassis-integrated loop)
+- **Cooling:** Direct-to-chip liquid (chassis-integrated loop)  
 - **OS**: Ubuntu Server LTS
 
 ---
@@ -83,16 +84,15 @@ and architectural behavior of the Signal VM at its lowest level.
 
 **Model**: **ASUS AI POD with NVIDIA GB300 NVL72 (XA GB721-E2)— Liquid-to-Air Sidercar(L2A) cooling with CDU**
 
-- 36 NVIDIA® Grace™ CPUs
-- 72 NVIDIA Blackwell Ultra GPUs
-- 5th Gen NVIDIA NVLink™ technology
-- NVIDIA Blackwell Ultra GPU SXM7 and SOCAMM
-- modules design for serviceability
-- Supports AI reasoning and inference
-- Scale-up ecosystem-ready
-- ASUS Infrastructure Deployment Center
-- ASUS premium service suite
-- **Cooling:** Rack-side L2A sidecar unit — no facility water loop required
+- 36 NVIDIA® Grace™ CPUs  
+- 72 NVIDIA Blackwell Ultra GPUs  
+- 5th Gen NVIDIA NVLink™ technology  
+- NVIDIA Blackwell Ultra GPU SXM7 and SOCAMM modules  
+- Supports AI reasoning and inference  
+- Scale-up ecosystem-ready  
+- ASUS Infrastructure Deployment Center  
+- ASUS premium service suite  
+- **Cooling:** Rack-side L2A sidecar unit — no facility water loop required  
 - **OS**: Ubuntu Server LTS
 
 ↳ Used for AI-coupled memory streaming validation, kernel-level saturation testing, CUDA coordination under full system pressure.
@@ -113,12 +113,12 @@ and architectural behavior of the Signal VM at its lowest level.
 
 - **Keyboards:** ROG RX98 Wireless (White)  
 - **Mice:** ROG Keris II Ace Wireless  
-- **Speakers:** Edifier Halo SoundBar (Sakura Pink)
-- **GPU**: 2 × NVIDIA H200 NVL PCIe GPU
+- **Speakers:** Edifier Halo SoundBar (Sakura Pink)  
+- **GPU**: 2 × NVIDIA H200 NVL PCIe GPU  
 - **Cables:**  
   • 2 × SlimSAS SFF-8654 4i to SFF-8639 U.2  
   • 3 × NVIDIA 2-Way NVLink Bridge (H200 NVL)  
-  • 2 × ASUS ROG ZOOM CAT7 (3 m Ethernet)
+  • 2 × ASUS ROG ZOOM CAT7 (3 m Ethernet)  
 - **UPS:** KELONG YTR33200  
 - **Cabinet:** KDE-PD6042
 
