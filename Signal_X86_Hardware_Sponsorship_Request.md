@@ -99,7 +99,7 @@ The GB300 NVL72 — delivered in ASUS AI POD reference rack with black-gold fini
 
 ## 🖥️ Display & Portable Nodes
 
-- **2 × ASUS ProArt PA32UCXR – 32” 4K HDR Mini-LED**   
+- **3 × ASUS ProArt PA32UCXR – 32” 4K HDR Mini-LED**   
 - **Microsoft Surface Pro (11th Gen, Core Ultra 7-268V, 32 GB + 1 TB)**  
   ↳ Signal diagrams and runtime sketches  
 - **Dell Precision 17 7780 (i9-13950HX / RTX 5000 Ada / 128 GB + 6 TB)**  
