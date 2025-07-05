@@ -60,6 +60,7 @@ and architectural behavior of the Signal VM at its lowest level.
 - **OS Storage:** 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe  
 - **Data Storage:** 6 × Solidigm D7-PS1010 15.36 TB U.2  
 - **Cooling & Power:** High-pressure air tunnel; 4 × 3 kW Titanium PSU (N+1)
+- **OS**: Ubuntu Server LTS
 
 ---
 
@@ -74,6 +75,7 @@ and architectural behavior of the Signal VM at its lowest level.
 - **Storage:** 10 × Solidigm D7-PS1010 15.36 TB NVMe  
 - **Network:** 8 × 800 Gb ConnectX-8 NIC（1:1 GPU mapping）  
 - **Cooling:** Direct-to-chip liquid (chassis-integrated loop)
+- **OS**: Ubuntu Server LTS
 
 ---
 
@@ -90,7 +92,8 @@ and architectural behavior of the Signal VM at its lowest level.
 - Scale-up ecosystem-ready
 - ASUS Infrastructure Deployment Center
 - ASUS premium service suite
-- **Cooling:** Rack-side L2A sidecar unit — no facility water loop required  
+- **Cooling:** Rack-side L2A sidecar unit — no facility water loop required
+- **OS**: Ubuntu Server LTS
 
 ↳ Used for AI-coupled memory streaming validation, kernel-level saturation testing, CUDA coordination under full system pressure.
 
