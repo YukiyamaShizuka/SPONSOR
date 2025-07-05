@@ -80,7 +80,7 @@ and architectural behavior of the Signal VM at its lowest level.
 ## 💠 Required Rack-Scale Node — 02 Node  
 **ASUS AI POD with NVIDIA GB300 NVL72**--**XA GB721-E2** (Liquid-to-Air Sidecar)
 
-**ASUS AI POD with NVIDIA GB300 NVL72 (XA GB721-E2)— Liquid-to-Air (L2A) cooling**
+**ASUS AI POD with NVIDIA GB300 NVL72 (XA GB721-E2)— Liquid-to-Air (L2A) cooling with CDU**
 
 - 36 NVIDIA® Grace™ CPUs
 - 72 NVIDIA Blackwell Ultra GPUs
