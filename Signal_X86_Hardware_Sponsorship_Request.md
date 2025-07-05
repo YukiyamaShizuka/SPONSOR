@@ -72,7 +72,7 @@ and architectural behavior of the Signal VM at its lowest level.
 | Component | Spec |
 |-----------|------|
 | **Model** | **Dell PowerEdge XE9780L** |
-| **CPU** | 2 × Intel Xeon 6980P (128 cores each, 256 cores total|
+| **CPU** | 2 × Intel Xeon 6980P (128 cores each, 256 cores total)|
 | **Memory** | 4 TB DDR5-6400 ECC RDIMM |
 | **GPU** | 16 × NVIDIA Blackwell Ultra (HGX B300 NVL16 with NVIDIA NVLink) |
 | **OS Storage** | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD|
