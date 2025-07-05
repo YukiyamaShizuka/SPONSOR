@@ -49,82 +49,75 @@ and architectural behavior of the Signal VM at its lowest level.
 
 ---
 
-## 🧩 Core Workstation Node
+## 🧩 Core Workstation Node — 00 Node
 
 **Build Target:** `Signal VM Runtime Testbed`
 
-- **CPU:** Intel Xeon W-3595X (60 cores / 120 threads)  
-- **Mainboard:** ASUS Pro WS W790-ACE  
- ↳ AVX-512 instruction-coupling validation  
-- **Memory:** 2 TB DDR5-4800 ECC RDIMM (8 × 256 GB)  
- ↳ Page orchestration and vectorized syscall mapping  
-- **GPU:**  
- • 3 × NVIDIA RTX PRO 6000 Blackwell (Retail Box)  
- • 2 × NVIDIA H200 NVL PCIe  
-  ↳ CUDA signal path tracing and GPU-level VM synchronization  
-- **Storage:**  
- • Samsung 9100 PRO 4 TB (PCIe 5.0 System)  
- • 2 × Solidigm D7-PS1010 U.2 15.36 TB (Data)  
-- **Chassis:** ASUS ProArt PA602 Wood Edition with Tempered-Glass Panel  
-- **Power Supply:** Great Wall EPS3000BL (94+ Certified)  
-- **Cooling:** COOLSERVER M99 Tower (LGA4677)
+- **Chassis:** **ASUS ESC8000-12** (4 U 8-GPU server)  
+- **CPU:** 2 × Intel Xeon 6788P (86 cores each, 172 cores total)  
+- **Memory:** 4 TB DDR5-6400 ECC RDIMM  
+- **GPU:** 8 × NVIDIA RTX PRO 6000 Blackwell Server Edition; 2 × NVIDIA H200 NVL PCIe GPU
+- **OS Storage:** 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe  
+- **Data Storage:** 6 × Solidigm D7-PS1010 15.36 TB U.2  
+- **Cooling & Power:** High-pressure air tunnel; 4 × 3 kW Titanium PSU (N+1)
 
 ---
 
-## 🏢 Required Node – Dell PowerEdge XE9680L 
+## 🏢 Required Server Node — 01 Node  
+**ASUS XA NB3I-E12 NVL16**
 
 **Role:** Multi-path CUDA compilation, isolated kernel instruction synthesis
 
-- **CPU:** 2 × Xeon Platinum 6788P (86 cores each, 172 cores total)  
-- **Memory:** 4 TB DDR5-6400 ECC RDIMM  
-- **GPU:** 8 × NVIDIA B300 SXM GPUs (288 GB per GPU), interconnected in an all-to-all NVLink topology via NVSwitch  
-- **Display GPU:** RTX 2000 Ada  
-- **Storage:**  
- • 1 × 4 TB PCIe 5.0 NVMe (System)  
- • 8 × U.2 NVMe SSDs (15.36 TB × 8 = 122.88 TB Total)  
-- **Accessories:** LCD bezel enabled
+- **CPU:** 2 × Intel Xeon 6788P  
+- **Memory:** 8 TB DDR5-6400 ECC RDIMM  
+- **GPU:** 16 × NVIDIA Blackwell Ultra GPUs with NVLink (HGX B300 NVL16)  
+- **Storage:** 10 × Solidigm D7-PS1010 15.36 TB NVMe  
+- **Network:** 8 × 800 Gb ConnectX-8 NIC（1:1 GPU mapping）  
+- **Cooling:** Direct-to-chip liquid (chassis-integrated loop)
 
 ---
 
-## 💠 Required Node – NVIDIA GB300 NVL72 (Official Factory-Rack Model)
+## 💠 Required Rack-Scale Node — 02 Node  
+**ASUS AI POD with NVIDIA GB300 NVL72**--**XA GB721-E2** (Liquid-to-Air Sidecar)
 
-The GB300 NVL72 — in **NVIDIA’s official factory-rack configuration, with original black-gold chassis design** — is required for full-scale benchmarking and AI-coupled execution validation.
+The GB300 NVL72 — delivered in ASUS AI POD reference rack with black-gold finish and **Liquid-to-Air (L2A) sidecar heat-exchanger** — is a required node for full-scale benchmarking and AI-coupled execution validation.
 
-- **CPU:** Grace + Blackwell Ultra dual-socket AI architecture  
-- **GPU:** 36 Grace–B300 Superchips (each pairing 1 Grace CPU with 2 B300 GPUs), interconnected through a high-bandwidth NVSwitch topology  
-- **Cooling:** NVIDIA original rack-scale factory model in black-gold finish  
+- 36 NVIDIA® Grace™ CPUs
+- 72 NVIDIA Blackwell Ultra GPUs
+- 5th Gen NVIDIA NVLink™ technology
+- NVIDIA Blackwell Ultra GPU SXM7 and SOCAMM
+- modules design for serviceability
+- Supports AI reasoning and inference
+- Scale-up ecosystem-ready
+- ASUS Infrastructure Deployment Center
+- ASUS premium service suite
+- **Cooling:** Rack-side L2A sidecar unit — no facility water loop required  
 
- ↳ AI-coupled memory streaming validation, kernel-level saturation testing, CUDA coordination under full system pressure
-
-This node enables multi-node validation of Signal at its most complete scale.
+↳ Used for AI-coupled memory streaming validation, kernel-level saturation testing, CUDA coordination under full system pressure.
 
 ---
 
 ## 🖥️ Display & Portable Nodes
 
-- **4 × ASUS ProArt PA32UCXR – 32” 4K HDR Mini-LED**  
- • 2 for the core workstation  
- • 2 mounted to XE9680L  
-- **Microsoft Surface Pro (11th Gen, Core Ultra 7, 32 GB + 1 TB)**  
- ↳ Signal diagrams and runtime sketches  
-- **Dell Precision 17 7780 (i9-13950HX / RTX 5000 Ada / 128 GB)**  
- ↳ Portable code simulation and VM testing
+- **2 × ASUS ProArt PA32UCXR – 32” 4K HDR Mini-LED**   
+- **Microsoft Surface Pro (11th Gen, Core Ultra 7-268V, 32 GB + 1 TB)**  
+  ↳ Signal diagrams and runtime sketches  
+- **Dell Precision 17 7780 (i9-13950HX / RTX 5000 Ada / 128 GB + 6 TB)**  
+  ↳ Portable code simulation and VM testing
 
 ---
 
 ## 🧰 Peripheral Stack
 
-- **Keyboards:** 2 × ROG RX98 Wireless (White)  
-- **Mice:** 2 × ROG Keris II Ace Wireless  
-- **Speakers:** 2 × Edifier Halo SoundBar (Sakura Pink)  
-- **Cooling:** 3 × Lian Li UNI FAN TL140 (Wireless LCD ARGB)  
-- **Fan Controller:** Lian Li TL Wireless LCD Controller  
+- **Keyboards:** ROG RX98 Wireless (White)  
+- **Mice:** ROG Keris II Ace Wireless  
+- **Speakers:** Edifier Halo SoundBar (Sakura Pink)    
 - **Cables:**  
- • 2 × SlimSAS SFF-8654 4i to SFF-8639 U.2  
- • 3 × NVIDIA 2-Way NVLink Bridge (H200 NVL)  
- • 2 × ASUS ROG ZOOM CAT7 (3 m Ethernet)  
+  • 2 × SlimSAS SFF-8654 4i to SFF-8639 U.2  
+  • 3 × NVIDIA 2-Way NVLink Bridge (H200 NVL)  
+  • 2 × ASUS ROG ZOOM CAT7 (3 m Ethernet)  
 - **UPS:** 2 × KELONG YTR31 (20 kVA / 16 kW, 12 hr Runtime)  
-- **Cabinet:** Glass-front cabinet (liquid-cooled, XE9680L compatible, custom 6U–12U Dell MiniLab Rack, matching Dell industrial aesthetic)
+- **Cabinet:** SDWS SDB6242
 
 ---
 
@@ -148,9 +141,9 @@ You offer the catalyst that lets a blueprint become a living system.
 > **Stake Table**  
 > | Stake | Worst Outcome | Best Outcome |  
 > |-------|----------------|--------------|  
-> | One **NVIDIA GB300 NVL72**, one **Dell XE9680L**, one workstation, one rack-slot | Project does not reach its intended milestone; all sponsored hardware remains permanently with the researcher, with full transparency of run-logs and technical insight shared in good faith | *First* trillion-parameter **AI-Auditable Kernel** white-paper carries your logo as **Founding Infrastructure Partner** |
+> | One **NVL72**, one **NVL16**, one workstation, one rack-slot | Project stalls; all sponsored hardware remains the property of the researcher, with full run-logs and architectural insights shared in good faith | *First* trillion-parameter **AI-Auditable Kernel** white-paper carries your logo as **Founding Infrastructure Partner** |
 
-To ensure a stable and focused development environment, all contributed hardware is granted with full and permanent ownership to the researcher — irrespective of outcome, and not subject to return or reclamation. This clarity of commitment enables the work to proceed without hesitation, and with the trust such efforts deserve.
+Regardless of success or setback, all contributed hardware is granted unconditionally — retained in full by the recipient as part of a one-way commitment to exploration, not subject to return or reclamation. This clarity of commitment enables the work to proceed without hesitation, and with the trust such efforts deserve.
 
 ---
 
