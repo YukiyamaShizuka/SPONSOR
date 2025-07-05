@@ -152,7 +152,7 @@ and architectural behavior of the Signal VM at its lowest level.
 - **Cables:**  
   • 2 × SlimSAS SFF-8654 4i to SFF-8639 U.2  
   • 3 × NVIDIA 2-Way NVLink Bridge (H200 NVL)  
-  • 2 × ASUS ROG ZOOM CAT7 (3 m Ethernet)  
+  • 3 × ASUS ROG ZOOM CAT7 (3 m Ethernet)  
 - **UPS:** KELONG YTR33200  
 - **Cabinet:** KDE-PD6042
 
