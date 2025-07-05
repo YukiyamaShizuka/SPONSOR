@@ -64,7 +64,7 @@ and architectural behavior of the Signal VM at its lowest level.
 ---
 
 ## 🏢 Required Server Node — 01 Node  
-**ASUS XA NB3I-E12 NVL16**
+**Model**: **ASUS XA NB3I-E12 NVL16**
 
 **Role:** Multi-path CUDA compilation, isolated kernel instruction synthesis
 
@@ -79,7 +79,7 @@ and architectural behavior of the Signal VM at its lowest level.
 
 ## 💠 Required Rack-Scale Node — 02 Node  
 
-**ASUS AI POD with NVIDIA GB300 NVL72 (XA GB721-E2)— Liquid-to-Air Sidercar(L2A) cooling with CDU**
+**Model**: **ASUS AI POD with NVIDIA GB300 NVL72 (XA GB721-E2)— Liquid-to-Air Sidercar(L2A) cooling with CDU**
 
 - 36 NVIDIA® Grace™ CPUs
 - 72 NVIDIA Blackwell Ultra GPUs
