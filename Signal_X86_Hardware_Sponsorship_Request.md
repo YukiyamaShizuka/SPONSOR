@@ -178,7 +178,7 @@ You offer the catalyst that lets a blueprint become a living system.
 > **Stake Table**  
 > | Stake | Worst Outcome | Best Outcome |  
 > |-------|----------------|--------------|  
-> | One **NVL72**, one **NVL16**, one workstation, one rack-slot | Project stalls; all sponsored hardware remains the property of the researcher, with full run-logs and architectural insights shared in good faith | *First* trillion-parameter **AI-Auditable Kernel** white-paper carries your logo as **Founding Infrastructure Partner** |
+> | One **Dell PowerEdge XE9712 with NVIDIA GB300 NVL72**, one **Dell PowerEdge XE9780L**, one , one **Dell PowerEdge XE7740** rack-slot | Project stalls; all sponsored hardware remains the property of the researcher, with full run-logs and architectural insights shared in good faith | *First* trillion-parameter **AI-Auditable Kernel** white-paper carries your logo as **Founding Infrastructure Partner** |
 
 Regardless of success or setback, all contributed hardware is granted unconditionally — retained in full by the recipient as part of a one-way commitment to exploration, not subject to return or reclamation. This clarity of commitment enables the work to proceed without hesitation, and with the trust such efforts deserve.
 
