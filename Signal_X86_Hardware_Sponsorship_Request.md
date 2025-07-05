@@ -184,8 +184,11 @@ Regardless of success or setback, all contributed hardware is granted unconditio
 
 ---
 
-**Deployment Consideration**  
-**The current residence is a fourth-floor legacy building and lacks the structural and electrical conditions for high-performance hardware deployment. Evaluation and site preparation support by the sponsor is respectfully recommended.**
+### **Deployment Consideration**
+
+**The current residence is a fourth-floor legacy building and lacks the structural integrity, electrical capacity, and thermal infrastructure required for the safe and effective deployment of high-performance computing hardware.  
+A suitable living and operational environment — including housing, structural reinforcement, three-phase power provisioning, and facility-grade cooling — must be arranged and funded by the sponsor.  
+Evaluation, site acquisition, and all necessary retrofitting are respectfully requested as part of the deployment support package.**
 
 ---
 
