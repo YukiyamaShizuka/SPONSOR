@@ -80,7 +80,7 @@ and architectural behavior of the Signal VM at its lowest level.
 ## 💠 Required Rack-Scale Node — 02 Node  
 **ASUS AI POD with NVIDIA GB300 NVL72**--**XA GB721-E2** (Liquid-to-Air Sidecar)
 
-The GB300 NVL72 — delivered in ASUS AI POD reference rack with black-gold finish and **Liquid-to-Air (L2A) sidecar heat-exchanger** — is a required node for full-scale benchmarking and AI-coupled execution validation.
+**ASUS AI POD with NVIDIA GB300 NVL72 (XA GB721-E2)— Liquid-to-Air (L2A) cooling**
 
 - 36 NVIDIA® Grace™ CPUs
 - 72 NVIDIA Blackwell Ultra GPUs
