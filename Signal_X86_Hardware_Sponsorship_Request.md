@@ -172,6 +172,7 @@ Regardless of success or setback, all contributed hardware is granted unconditio
 - **WeChat:** A1231457123  
 - **Telegram:** +86 136-9652-5769
 - **Facebook:** https://www.facebook.com/share/199JPqtb3x/?mibextid=wwXIfr
+- **X:** https://x.com/sacheronmo70668?s=21
 - **GitHub Proposal:** [Signal_X86_Hardware_Sponsorship_Request.md](https://github.com/YukiyamaShizuka/SPONSOR/blob/main/Signal_X86_Hardware_Sponsorship_Request.md)
 
 ---
