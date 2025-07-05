@@ -59,7 +59,7 @@ and architectural behavior of the Signal VM at its lowest level.
 | **CPU** | 2 × Intel Xeon 6788P (86 c / 172 t total) |
 | **Memory** | 4 TB DDR5-6400 ECC RDIMM |
 | **GPU** | 8 × NVIDIA RTX PRO 6000 Blackwell _​Server Edition_ |
-| **OS Storage** | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe |
+| **OS Storage** | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD|
 | **Data Storage** | 8 × Solidigm D7-PS1010 15.36 TB E3.S Gen5 |
 | **Cooling Kit** | • Dell **DLC Node Kit** (cold-plates, micro-pumps, coolant manifold)  <br>• **19″→ORv3 ReadyRails** + **Blind-Mate QD Hose Pack** |
 | **OS** | Ubuntu Server LTS |
@@ -75,7 +75,7 @@ and architectural behavior of the Signal VM at its lowest level.
 | **CPU** | 2 × Intel Xeon 6980P |
 | **Memory** | 4 TB DDR5-6400 ECC RDIMM |
 | **GPU** | 16 × NVIDIA Blackwell Ultra (HGX B300 NVL16, NVLink) |
-| **OS Storage** | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 |
+| **OS Storage** | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD|
 | **Data Storage** | 8 × Solidigm D7-PS1010 15.36 TB NVMe U.2 |
 | **Cooling Kit** | • **Rack-Level DLC Kit** (84 kW CDU drawer + blind-mate manifold)  <br>• ORv3 rail adapter (slots into IR7000 manifold) |
 | **OS** | Ubuntu Server LTS |
