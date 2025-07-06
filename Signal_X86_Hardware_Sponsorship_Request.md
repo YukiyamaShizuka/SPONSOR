@@ -185,11 +185,14 @@ Regardless of success or setback, all contributed hardware is granted unconditio
 ### **Deployment Consideration**
 
 **The current residence is a fourth-floor legacy building and lacks the structural integrity, electrical capacity, and thermal infrastructure required for the safe and effective deployment of high-performance computing hardware.  
-A suitable living and operational environment — including housing, structural reinforcement, three-phase power provisioning, and facility-grade cooling — must be arranged and funded by the sponsor.  
+To address this, a suitable living and operational environment — including property acquisition, structural reinforcement, three-phase power provisioning, and facility-grade cooling — must be arranged and funded by the sponsor.  
 Evaluation, site acquisition, and all necessary retrofitting are respectfully requested as part of the deployment support package.  
-The selected property shall be located at **Room 1002, Unit 1, Building 5, 招商玺 (Zhaoshang Xi), Shengfu Area, Binhu New District, Hefei, Anhui Province, China**, and must be legally registered under the author's name to ensure long-term stability and continuity of research.  
-One room must be fully renovated and equipped according to lab-grade experimental standards, including all necessary modifications to accommodate **Dell IR7000 rack systems**, such as floor reinforcement, vibration dampening, ceiling clearance, ventilation, and coolant pipe routing. The remaining areas should be finished and furnished in accordance with high-end residential standards.  
-In addition, the ongoing utility costs — including electricity consumption from compute and cooling systems — are expected to be fully covered by the sponsor throughout the deployment period.**
+
+The designated property shall be located at **Room 1002, Unit 1, Building 5, 招商玺 (Zhaoshang Xi), Shengfu Area, Binhu New District, Hefei, Anhui Province, China**, and must be legally registered under the author's name to ensure long-term stability and uninterrupted research continuity.  
+The specified room shall be fully renovated and equipped according to lab-grade experimental standards, including all necessary modifications to support **Dell IR7000 rack systems** — such as floor reinforcement, vibration dampening, ceiling clearance, ventilation design, and coolant pipe routing.  
+
+All remaining areas should be furnished in accordance with high-end residential standards to maintain living quality and creative focus.  
+Additionally, all ongoing utility expenses — particularly electricity for compute and cooling systems — are expected to be fully covered by the sponsor throughout the deployment period.**
 
 ---
 
