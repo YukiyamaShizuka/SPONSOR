@@ -20,7 +20,15 @@ page-based memory control, scalar/vector loop execution, and fully observable in
 It is transparent by design, eliminating runtime ambiguity and dismantling the very notion of the “black box” in system execution.
 
 **SapClarify** embeds computable AI logic directly into the system kernel,  
-keeping all runtime agents observable, reactive, and introspective — without opaque calls or hidden inference layers.
+keeping all runtime agents observable, reactive, and introspective — without opaque calls or hidden inference layers.  
+
+It enables a fully auditable and self-correcting AI framework by integrating the following mechanisms:  
+- **Transparent Execution Logs:** All inference activities, including token-level transitions and intermediate decision states, are recorded in real time.  
+- **Corrective Feedback Capture:** When a user identifies and corrects an error, the system logs the correction as a learning event, storing both the original output and the preferred revision.  
+- **Incremental Self-Adaptation:** After accumulating sufficient correction patterns, the system performs local updates on specific logic nodes, refining its responses over time without external retraining.  
+- **Compliance-Ready Traceability:** Every model decision can be traced to its logical path and revision history, enabling external audit without exposing raw model weights or proprietary data.  
+
+This architecture establishes the foundation for AI systems that are not only transparent and debuggable, but also capable of evolving responsibly through verified, user-guided corrections.
 
 **Tree** is the architectural expression of this vision —  
 an operating-system structure born from a language that does not hide,  
