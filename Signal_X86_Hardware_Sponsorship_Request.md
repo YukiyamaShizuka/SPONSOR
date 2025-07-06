@@ -147,9 +147,8 @@ and architectural behavior of the Signal VM at its lowest level.
 - **Keyboards:** 2 × ROG RX98 Wireless (White)  
 - **Mice:** 2 × ROG Keris II Ace Wireless  
 - **Speakers:** 2 × Edifier Halo SoundBar (Sakura Pink)  
-- **GPU**: 2 × NVIDIA H200 NVL PCIe GPU  
-- **Cables:**  
-  • 2 × SlimSAS SFF-8654 4i to SFF-8639 U.2  
+- **GPU**: 2 × NVIDIA H200 NVL PCIe GPU; 1 × NVIDIA RTX PRO 6000 Blackwell Workstation Edition(Retail Box)
+- **Cables:**    
   • 3 × NVIDIA 2-Way NVLink Bridge (H200 NVL)  
   • 3 × ASUS ROG ZOOM CAT7 (3 m Ethernet)  
 - **UPS:** KELONG YTR33200  
