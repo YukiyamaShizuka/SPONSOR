@@ -37,10 +37,16 @@ It registers all files as Leaf nodes on distinct branches, and dynamically gener
 This path-driven architecture enables seamless coexistence of multiple language versions, rapid branch switching, and low-cost virtual machines through virtual path mapping —  
 making Tree inherently capable of modular isolation, fast-loading micro-runtimes, and high-efficiency compute orchestration at system scale.
 
-Together they form a fully deterministic, inspectable, and scalable foundation for system evolution.  
-But this degree of determinism cannot be simulated in the cloud or approximated in VMs.  
-The hardware I request isn’t high-end for prestige — it’s required to mirror the timing, trace latency,  
-and architectural behavior of the Signal VM at its lowest level.
+Together, **SapClarify** and **Tree** form a fully deterministic, transparent, and scalable foundation for long-term system evolution —  
+where runtime agents can self-correct via feedback logging, and file execution flows along predeclared paths of registered Leaf nodes,  
+allowing multi-version language coexistence and low-cost virtual machine abstraction.  
+
+These capabilities are inseparable from their underlying substrate: **Signal**, a language designed from the machine level up  
+to provide total traceability, memory clarity, and event-linearity without legacy constraints.  
+
+This level of deterministic structure and introspective behavior cannot be emulated in cloud infrastructure or virtual machines.  
+The hardware I request is not for prestige — it is required to faithfully reproduce Signal VM timing behavior, trace latency,  
+and architectural response at the lowest observable level.
 
 ---
 
@@ -48,10 +54,10 @@ and architectural behavior of the Signal VM at its lowest level.
 
 | Stack Element | Breakthrough | Why It Matters to You |
 |---------------|-------------|-----------------------|
-| **Signal** | *First path-trace language* — every instruction and memory page is automatically replayable; zero hidden state | Debugging by log, not guesswork; instant provenance for auditors |
-| **SapClarify** | *Kernel-resident, self-learning AI* with on-chain weight-diff logs | AI that audits itself; regulators receive line-item provenance without extra tooling |
-| **TreeOS** | *Path-vector scheduler, thread-free & lock-free* | One rule-set that scales from laptop to **NVL72** without race conditions or resource starvation |
-| **Full Stack** | End-to-end transparency wired into language semantics | Turn-key compliance for the 2026 EU AI Act’s “show me the inference path” mandate |
+| **Signal** | *First instruction-level path-trace language* — all scalar/vector operations and memory pages are natively observable and reproducible | Ensures deterministic execution and root-cause traceability; no black-box behaviors |
+| **SapClarify** | *Self-learning AI kernel protocol* — captures weight diffs and user-driven corrections directly into the runtime log | Enables transparent model updates and self-auditing AI, fulfilling regulatory demands without external wrappers |
+| **TreeOS** | *Path-anchored file/event runtime with lock-free scheduling* | Allows seamless multi-version coexistence, predictable execution paths, and near-zero overhead virtualization |
+| **Integrated Stack** | Built-in introspection across language, kernel, and OS layers | Achieves native compliance with the 2026 EU AI Act’s traceability, explainability, and deterministic audit mandates |
 
 > **Gold-Line Pitch**  
 > *USD 10 million vs. 2 years:* one budget line (≈ 0.0114 % of Microsoft’s FY-2025 AI CapEx) secures **20 years** of kernel-level influence — or you pay catch-up costs in 2027 when compliance audits start issuing fines.
