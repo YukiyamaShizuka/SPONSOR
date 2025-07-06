@@ -1,5 +1,4 @@
 # Signal_X86 Summer Runtime Lab – Hardware Sponsorship Request  
-**Please Arrive Before: July 20, 2025**
 
 ---
 
