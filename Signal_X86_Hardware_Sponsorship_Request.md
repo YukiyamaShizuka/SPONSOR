@@ -62,7 +62,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 
 > **Gold-Line Pitch**  
 > *USD 10 million vs. 2 years:* one budget line (≈ 0.0114 % of Microsoft’s FY-2025 AI CapEx) secures **20 years** of kernel-level influence — or you pay catch-up costs in 2027 when compliance audits start issuing fines.
-> **The earlier the sponsorship arrives, the greater the chance of passing the 2026 AI regulatory audits smoothly.**
+> **The earlier the sponsorship arrives, the greater the chance of passing the 2027 AI regulatory audits smoothly.**
 
 ---
 
