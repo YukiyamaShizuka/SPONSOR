@@ -195,7 +195,7 @@ Additionally, all ongoing utility expenses — particularly electricity for comp
 
 ## ✉️ Contact
 
-- **Email:** En.Farron@iCloud.com  
+- **Email:** En.Farron@Outlook.com  
 - **WeChat:** A1231457123  
 - **Telegram:** +86 136-9652-5769
 - **Facebook:** https://www.facebook.com/share/199JPqtb3x/?mibextid=wwXIfr
