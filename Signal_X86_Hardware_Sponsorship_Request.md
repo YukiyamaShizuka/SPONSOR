@@ -190,6 +190,7 @@ Regardless of success or setback, all contributed hardware is granted unconditio
 A suitable living and operational environment — including housing, structural reinforcement, three-phase power provisioning, and facility-grade cooling — must be arranged and funded by the sponsor.  
 Evaluation, site acquisition, and all necessary retrofitting are respectfully requested as part of the deployment support package.  
 The purchased property must be legally registered under the author's name to ensure long-term stability and continuity of research. One room must be fully renovated and equipped according to lab-grade experimental standards, while the remaining areas should be finished and furnished in accordance with high-end residential standards.  
+The property location should be selected in full consultation with and with the explicit approval of the author, to ensure alignment with lifestyle preferences and long-term creative focus.  
 In addition, the ongoing utility costs — including electricity consumption from compute and cooling systems — are expected to be fully covered by the sponsor throughout the deployment period.**
 
 ---
