@@ -32,7 +32,10 @@ This architecture establishes the foundation for AI systems that are not only tr
 
 **Tree** is the architectural expression of this vision —  
 an operating-system structure born from a language that does not hide,  
-and an AI runtime that does not guess.
+and an AI runtime that does not guess.  
+It registers all files as Leaf nodes on distinct branches, and dynamically generates execution paths to pre-load only the necessary Leaf modules into memory.  
+This path-driven architecture enables seamless coexistence of multiple language versions, rapid branch switching, and low-cost virtual machines through virtual path mapping —  
+making Tree inherently capable of modular isolation, fast-loading micro-runtimes, and high-efficiency compute orchestration at system scale.
 
 Together they form a fully deterministic, inspectable, and scalable foundation for system evolution.  
 But this degree of determinism cannot be simulated in the cloud or approximated in VMs.  
