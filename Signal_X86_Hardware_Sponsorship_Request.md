@@ -123,17 +123,16 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 
 ## 💧 Shared Indoor Cooling Infrastructure  
 
-| Item                                | Qty            | Spec / Notes                                                                             |
-|-------------------------------------|----------------|------------------------------------------------------------------------------------------|
-| **Rear-Door Heat Exchangers**       | 2 × (one per rack) | 20 kW capacity each; integrates to rack rear; closed-loop water interface               |
-| **Indoor Packaged Water Chillers**  | 3 × 100 kW (N+1) | Enclosed units; footprint ≈ 1 m² each; acoustic insulation, noise ≤ 50 dBA; total 300 kW |
-| **Closed-Loop Chilled Water**       | —              | 30% ethylene-glycol / DI-water; flow 500 L min⁻¹; 25 °C → 35 °C                           |
-| **Pump Station**                    | 2 × 7.5 kW (2 N) | Stainless-steel pumps; ΔP ≈ 280 kPa                                                      |
-| **Headers**                         | —              | DN65 main → DN50 branches (Victaulic QD); pre-insulated piping                          |
-| **Power Feed**                      | —              | 3-φ 380 V / 60 A (for chillers + pumps)                                                 |
-| **Monitoring**                      | —              | Leak detection rope; 6 × temp/flow probes; iDRAC SNMP traps                             |
-| **Fire Suppression**                | —              | Novec 1230 ceiling unit + rack interlocks                                              |
-
+| Item                              | Qty                  | Spec / Notes                                                                                 |
+|-----------------------------------|----------------------|----------------------------------------------------------------------------------------------|
+| **Rear-Door Heat Exchangers**     | 2 × (one per rack)   | 130 kW (Rack-A) / 120 kW (Rack-B) capacity each; integrates to rack rear; closed-loop water interface |
+| **Indoor Packaged Water Chillers**| 3 × 100 kW (N+1)     | Enclosed units; footprint ≈ 1 m² each; acoustic insulation, noise ≤ 50 dBA; total 300 kW      |
+| **Closed-Loop Chilled Water**     | —                    | 30% ethylene-glycol / DI-water; flow 500 L min⁻¹; 25 °C → 35 °C                               |
+| **Pump Station**                  | 2 × 7.5 kW (2 N)     | Stainless-steel booster pumps; ΔP ≈ 280 kPa                                                  |
+| **Headers**                       | —                    | DN65 main → DN50 branches (Victaulic QD); pre-insulated piping                              |
+| **Power Feed**                    | —                    | 3-φ 380 V / 60 A (for chillers + pumps)                                                      |
+| **Monitoring**                    | —                    | Leak-detection rope; 6 × temp/flow probes; iDRAC SNMP traps                                  |
+| **Fire Suppression**              | —                    | Novec 1230 ceiling unit + rack interlocks                                                   |
 ---
 
 ### 🔧 Integration Notes
