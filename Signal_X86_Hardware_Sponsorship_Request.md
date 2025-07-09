@@ -69,83 +69,80 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 ## 🧩 Core Workstation Node — 00 Node  
 **Build Target:** `Signal VM Runtime Testbed`
 
-| Component | Spec |
-|-----------|------|
-| **Model** | **Dell PowerEdge XE7740** |
-| **CPU** | 2 × Intel Xeon 6788P (86 cores each, 172 cores total) |
-| **Memory** | 4 TB DDR5-6400 ECC RDIMM |
-| **GPU** | 8 × NVIDIA RTX PRO 6000 _Blackwell Server Edition_ |
-| **OS Storage** | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD|
-| **Data Storage** | 8 × Solidigm D7-PS1010 15.36 TB E3.S Gen5 |
+| Component       | Spec                                                                       |
+|-----------------|----------------------------------------------------------------------------|
+| **Model**       | **Dell PowerEdge XE7740**                                                  |
+| **CPU**         | 2 × Intel Xeon 6788P (86 cores each, 172 cores total)                      |
+| **Memory**      | 4 TB DDR5-6400 ECC RDIMM                                                    |
+| **GPU**         | 8 × NVIDIA RTX PRO 6000 _Blackwell Server Edition_                         |
+| **OS Storage**  | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD                                |
+| **Data Storage**| 8 × Solidigm D7-PS1010 15.36 TB E3.S Gen5                                  |
 | **Cooling Kit** | • Dell **DLC Node Kit** (cold-plates + micro-pumps) <br>• **19″→ORv3 ReadyRails** + blind-mate QD hose set |
-| **OS** | Ubuntu Server LTS |
+| **OS**          | Ubuntu Server LTS                                                          |
 
 ---
 
 ## 🏢 Required Server Node — 01 Node  
 **Role:** _Multi-path CUDA compilation, isolated kernel instruction synthesis_
 
-| Component | Spec |
-|-----------|------|
-| **Model** | **Dell PowerEdge XE9780L** |
-| **CPU** | 2 × Intel Xeon 6980P (128 cores each, 256 cores total)|
-| **Memory** | 4 TB DDR5-6400 ECC RDIMM |
-| **GPU** | 16 × NVIDIA Blackwell Ultra (HGX B300 NVL16 with NVIDIA NVLink) |
-| **OS Storage** | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD|
-| **Data Storage** | 16 × Solidigm D7-PS1010 7.68 TB NVMe E3.S GEN5|
+| Component       | Spec                                                                       |
+|-----------------|----------------------------------------------------------------------------|
+| **Model**       | **Dell PowerEdge XE9780L**                                                 |
+| **CPU**         | 2 × Intel Xeon 6980P (128 cores each, 256 cores total)                     |
+| **Memory**      | 4 TB DDR5-6400 ECC RDIMM                                                    |
+| **GPU**         | 16 × NVIDIA Blackwell Ultra (HGX B300 NVL16 with NVIDIA NVLink)             |
+| **OS Storage**  | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD                                |
+| **Data Storage**| 16 × Solidigm D7-PS1010 7.68 TB NVMe E3.S GEN5                             |
 | **Cooling Kit** | • **Rack-level DLC kit** (shares 84 kW CDU in same rack) <br>• ORv3 rail adapter + blind-mate QD |
-| **OS** | Ubuntu Server LTS |
+| **OS**          | Ubuntu Server LTS                                                          |
 
 ---
 
 ## 💠 Required Rack-Scale Node — 02 Node  
 **Used for:** _AI-coupled memory streaming validation, kernel-level saturation testing, CUDA coordination under full system pressure_
 
-| Component | Spec |
-|-----------|------|
-| **Model** | **Dell PowerEdge XE9712** (IR7000 21″ ORv3) |
-| **GPU Complex** | NVIDIA GB300 NVL72 |
-| **Integrated CDU** | 100 kW dual-pump (2 N) + ORv3 blind-mate liquid bus-bar |
-| **OS** | Ubuntu Server LTS |
+| Component         | Spec                                                                         |
+|-------------------|------------------------------------------------------------------------------|
+| **Model**         | **Dell PowerEdge XE9712** (IR7000 21″ ORv3)                                  |
+| **GPU Complex**   | NVIDIA GB300 NVL72                                                           |
+| **Integrated CDU**| 100 kW dual-pump (2 N) + ORv3 blind-mate liquid bus-bar                       |
+| **OS**            | Ubuntu Server LTS                                                            |
 
 ---
 
 ## 🗄️ Rack-Level Layout  
 
-| Rack ID | Frame | Contents | Rack Cooling | IT Load |
-|---------|-------|----------|--------------|---------|
-| **Rack-A – “IR7000-Dev”** | Empty **IR7000 ORv3** (44 OU) | • XE9780L (4 U) <br>• XE7740 (4 U) <br>• **84 kW Rack-CDU drawer** (4 U) <br>• 32 U spare (<future DLC sleds>) | **CDU-84 kW**, dual-pump 2 N; blind-mate bus-bar | ≈ 130 kW peak |
-| **Rack-B – “IR7000-NVL72”** | **XE9712 integrated rack** | Pre-loaded NVL72 stack (9 U switch + 24 U compute) | **CDU-100 kW** in base | ≈ 120 kW peak |
+| Rack ID                | Frame                        | Contents                                                      | Cooling                     | IT Load        |
+|------------------------|------------------------------|---------------------------------------------------------------|-----------------------------|----------------|
+| **Rack-A – IR7000-Dev**| Empty IR7000 ORv3 (44 OU)    | • XE9780L (4 U) <br>• XE7740 (4 U) <br>• 84 kW Rack-CDU drawer (4 U) <br>• 32 U spare | Rear-door heat exchanger    | ≈ 130 kW peak  |
+| **Rack-B – IR7000-NVL72**| XE9712 integrated rack     | Pre-loaded NVL72 stack (9 U switch + 24 U compute)            | Rear-door heat exchanger    | ≈ 120 kW peak  |
 
 *Both racks are 800 mm W × 1200 mm D × 44 OU and roll in on casters.*
 
 ---
 
-## 🌊 Shared Facility-Water Infrastructure  
+## 💧 Shared Indoor Cooling Infrastructure  
 
-| Item | Qty | Spec / Notes |
-|------|-----|--------------|
-| **Dry-Coolers** | 2 × 150 kW (N+1) | EC-fan, night mode ≤ 70 dBA |
-| **Total Thermal Design** | Rack-A 130 kW + Rack-B 120 kW = **250 kW** |
-| **Flow / ΔT** | 25 °C → 35 °C, **500 L min⁻¹** (Rack-A ≈ 230 L min⁻¹, Rack-B ≈ 270 L min⁻¹) |
-| **Pump Station** | 2 × 7.5 kW (2 N), ΔP ≈ 280 kPa |
-| **Headers** | DN65 main ➜ DN50 branches (Victaulic QD) |
-| **Coolant** | 30 % ethylene-glycol / DI-water, 200 L total |
-| **Power Feed** | Rack-A 3-φ 380 V / 160 A <br>Rack-B 3-φ 380 V / 200 A <br>Dry-coolers 3-φ 380 V / 63 A |
-| **Monitoring** | Leak rope under both racks, 6 × temp/flow probes, iDRAC SNMP traps |
-| **Fire Suppression** | Novec 1230 ceiling unit + rack interlocks |
+| Item                                | Qty            | Spec / Notes                                                                             |
+|-------------------------------------|----------------|------------------------------------------------------------------------------------------|
+| **Rear-Door Heat Exchangers**       | 2 × (one per rack) | 20 kW capacity each; integrates to rack rear; closed-loop water interface               |
+| **Indoor Packaged Water Chillers**  | 3 × 100 kW (N+1) | Enclosed units; footprint ≈ 1 m² each; acoustic insulation, noise ≤ 50 dBA; total 300 kW |
+| **Closed-Loop Chilled Water**       | —              | 30% ethylene-glycol / DI-water; flow 500 L min⁻¹; 25 °C → 35 °C                           |
+| **Pump Station**                    | 2 × 7.5 kW (2 N) | Stainless-steel pumps; ΔP ≈ 280 kPa                                                      |
+| **Headers**                         | —              | DN65 main → DN50 branches (Victaulic QD); pre-insulated piping                          |
+| **Power Feed**                      | —              | 3-φ 380 V / 60 A (for chillers + pumps)                                                 |
+| **Monitoring**                      | —              | Leak detection rope; 6 × temp/flow probes; iDRAC SNMP traps                             |
+| **Fire Suppression**                | —              | Novec 1230 ceiling unit + rack interlocks                                              |
 
 ---
 
 ### 🔧 Integration Notes
 
 1. **Blind-Mate Docking** – XE7740 & XE9780L latch onto Rack-A bus-bar; XE9712 already latched in Rack-B.  
-2. **CDU Separation** – Rack-A & Rack-B each retain their own CDU; facility loop simply supplies cold water to both.  
-3. **Redundancy** – Two dry-coolers (N+1) give 300 kW headroom vs. 250 kW peak IT-load.  
-4. **Noise Envelope** – Rack pumps ≈ 58 dBA；outdoor units ≥ 15 m from living space keep indoor ambient < 35 dBA.  
-5. **Growth Path** – 32 U spare in Rack-A ready for additional DLC sleds without plumbing changes.
-
-> _This revision places **XE7740** and **XE9780L** together in a single IR7000 rack sharing an 84 kW CDU, while the **XE9712 NVL72** occupies an adjacent IR7000 rack with its own 100 kW CDU. All cooling, power, and facility infrastructure items are now fully enumerated and consistent with the new dual-rack arrangement._
+2. **Cooling System** – Each rack uses a rear-door heat exchanger feeding the indoor chillers; no external tower needed.  
+3. **Redundancy** – Three chillers in N+1 configuration provide 300 kW capacity vs. 250 kW IT-load.  
+4. **Noise Envelope** – Chillers ≤ 50 dBA in equipment room; rack-rear exchangers are silent.  
+5. **Growth Path** – Spare U-space in Rack-A ready for additional DLC sleds without plumbing change.
 
 ---
 
