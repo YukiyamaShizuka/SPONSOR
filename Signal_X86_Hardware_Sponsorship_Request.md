@@ -167,8 +167,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 | NVIDIA 2-Way NVLink Bridge (H200 NVL)                              | 3        |
 | ASUS ROG ZOOM CAT7 Ethernet Cable, 3 m                             | 3        |
 | 10 m Active Optical DisplayPort™ 2.1 Cable (e.g., StarTech™ Fiber DP2.1) | 4    |
-| Phoossno UL CMP Plenum Rated USB A to C Fiber Optical Extension Cable, USB 3.1 Gen2 10 Gbps, 10 m (33 ft), A–C Straight 180 ℃ (
-PU3A-C-0001)| 1      |
+| Phoossno UL CMP Plenum Rated USB A to C Fiber Optical Extension Cable, USB 3.1 Gen2 10 Gbps, 10 m (33 ft), A–C Straight 180 ℃ (PU3A-C-0001)| 1      |
 | StarTech 10-Port USB-C Hub (10G8A2CS-USB-C-HUB)                                 | 1        |
 | KELONG YTR33160 UPS                                                | 2        |
 
