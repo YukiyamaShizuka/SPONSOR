@@ -77,7 +77,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 | **GPU**           | 8 × NVIDIA RTX PRO 6000 _Blackwell Server Edition_                         |
 | **OS Storage**    | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD                                |
 | **Data Storage**  | 8 × Solidigm D7-PS1010 15.36 TB E3.S Gen5                                  |
-| **OCP Network**   | 1 × OCP NIC card 3.0 (GRIS GE-OCP3-E810-25G4, 4 × 25 G SFP28, Intel E810)                                                       |
+| **OCP Network**   | 1 × OCP NIC card 3.0 (NVIDIA ConnectX-7, 2 × 400 G QSFP-DD, PCIe Gen5)                                                       |
 | **Cooling Kit**   | • Server-integrated air-cooling fans & dust filters<br>• 19″→ORv3 ReadyRails |
 | **OS**            | Ubuntu Server LTS                                                          |
 
@@ -94,7 +94,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 | **GPU**           | 16 × NVIDIA Blackwell Ultra (HGX B300 NVL16 with NVIDIA NVLink)                                        |
 | **OS Storage**    | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD                                                           |
 | **Data Storage**  | 16 × Solidigm D7-PS1010 7.68 TB NVMe E3.S GEN5                                                        |
-| **OCP Network**   | 1 × OCP NIC card 3.0 (GRIS GE-OCP3-E810-25G4, 4 × 25 G SFP28, Intel E810)                                       |
+| **OCP Network**   | 1 × OCP NIC card 3.0 (NVIDIA ConnectX-7, 2 × 400 G QSFP-DD, PCIe Gen5)                                       |
 | **Cooling Kit**   | • **Rack-level DLC kit** (shares 30 kW CDU in same rack)<br>• ORv3 rail adapter + blind-mate QD        |
 | **OS**            | Ubuntu Server LTS                                                                                      |
 
@@ -107,6 +107,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 |-------------------|------------------------------------------------------------------------------|
 | **Model**         | **Dell PowerEdge XE9712** (IR7000 21″ ORv3)                                  |
 | **GPU Complex**   | NVIDIA GB300 NVL72                                                           |
+| **OCP Network**   | 1 × OCP NIC card 3.0 (NVIDIA ConnectX-7, 2 × 400 G QSFP-DD, PCIe Gen5) |
 | **Integrated CDU**| 100 kW dual-pump (2 N) + ORv3 blind-mate liquid bus-bar                       |
 | **OS**            | Ubuntu Server LTS                                                            |
 
