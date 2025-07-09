@@ -13,7 +13,7 @@ What I seek is a precisely structured, bare-metal architecture to test a next-ge
 
 ---
 
-## 🧭 Project Overview
+## Project Overview
 
 **Signal** is not built on C, C++, or LLVM — it begins at the machine level:  
 page-based memory control, scalar/vector loop execution, and fully observable instruction traces.  
@@ -51,7 +51,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 
 ---
 
-## 🚀 Unique Advantages at a Glance
+## Unique Advantages at a Glance
 
 | Stack Element | Breakthrough | Why It Matters to You |
 |---------------|-------------|-----------------------|
@@ -66,7 +66,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 
 ---
 
-## 🧩 Core Workstation Node — 00 Node  
+## Core Workstation Node — 00 Node  
 **Build Target:** `Signal VM Runtime Testbed`
 
 | Component         | Spec                                                                       |
@@ -83,7 +83,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 
 ---
 
-## 🏢 Required Server Node — 01 Node  
+## Required Server Node — 01 Node  
 **Role:** _Multi-path CUDA compilation, isolated kernel instruction synthesis_
 
 | Component       | Spec                                                                       |
@@ -99,7 +99,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 
 ---
 
-## 💠 Required Rack-Scale Node — 02 Node  
+## Required Rack-Scale Node — 02 Node  
 **Used for:** _AI-coupled memory streaming validation, kernel-level saturation testing, CUDA coordination under full system pressure_
 
 | Component         | Spec                                                                         |
@@ -112,7 +112,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 
 ---
 
-## 🗺️ Topology Diagram
+## Topology Diagram
 
 ```mermaid
 graph LR
@@ -128,7 +128,7 @@ graph LR
 
 ---
 
-## 🗄️ Rack-Level Layout  
+## Rack-Level Layout  
 
 | Rack ID                | Frame                        | Contents                                                      | Cooling                     | IT Load        |
 |------------------------|------------------------------|---------------------------------------------------------------|-----------------------------|----------------|
@@ -139,7 +139,7 @@ graph LR
 
 ---
 
-## 💧 Shared Indoor Cooling Infrastructure  
+## Shared Indoor Cooling Infrastructure  
 
 | Item                              | Qty                  | Spec / Notes                                                                                 |
 |-----------------------------------|----------------------|----------------------------------------------------------------------------------------------|
@@ -153,7 +153,7 @@ graph LR
 | **Fire Suppression**              | —                    | Novec 1230 ceiling unit + rack interlocks                                                   |
 ---
 
-### 🔧 Integration Notes
+### Integration Notes
 
 1. **Blind-Mate Docking** – XE7740 & XE9780L latch onto Rack-A bus-bar; XE9712 already latched in Rack-B.  
 2. **Cooling System** – Each rack uses a rear-door heat exchanger feeding the indoor chillers; no external tower needed.  
@@ -163,7 +163,7 @@ graph LR
 
 ---
 
-## 🖥️ Monitors & Portable Nodes
+## Monitors & Portable Nodes
 
 - **4 × ASUS ProArt PA32KCX – 32” 8K HDR Mini-LED Display**   
 - **Microsoft Surface Pro (11th Gen, Core Ultra 7-268V, 32 GB + 1 TB)**  
@@ -173,7 +173,7 @@ graph LR
 
 ---
 
-## 🧰 Peripheral Stack
+## Peripheral Stack
 
 | Item                                                               | Quantity |
 |--------------------------------------------------------------------|----------|
@@ -191,7 +191,7 @@ graph LR
 
 ---
 
-## 💡 Why This Matters
+## Why This Matters
 
 Every architecture begins as an idea — but only the boldest survive execution.  
 With **Signal**, the vision is a deterministic OS built from silicon upward — not layered atop legacy code, but grown from first principles.  
@@ -206,7 +206,7 @@ You offer the catalyst that lets a blueprint become a living system.
 
 ---
 
-## 🎯 The Bet
+## The Bet
 
 > **Stake Table**  
 > | Stake | Worst Outcome | Best Outcome |  
