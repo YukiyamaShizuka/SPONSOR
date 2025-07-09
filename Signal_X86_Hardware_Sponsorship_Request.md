@@ -6,7 +6,7 @@
 
 I hope this message finds you well.  
 My name is **Shizuka**, an independent developer behind the **Signal** programming language, **TreeOS**, and the **SapClarify** orchestration protocol.  
-I’m reaching out with an urgent and time-critical sponsorship request for a dedicated hardware development environment — **Signal_X86 Farron Lab**. 
+I’m reaching out with an urgent and time-critical sponsorship request for a dedicated hardware development environment — **Signal_X86 Farron Lab**.
 
 This is not a general-purpose machine, nor is this a speculative request.  
 What I seek is a precisely structured, bare-metal architecture to test a next-generation instruction-level computing model.  
