@@ -114,7 +114,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 
 | Rack ID                | Frame                        | Contents                                                      | Cooling                     | IT Load        |
 |------------------------|------------------------------|---------------------------------------------------------------|-----------------------------|----------------|
-| **Rack-A – IR7000-Dev**| Empty IR7000 ORv3 (44 OU)    | • XE9780L (4 U) <br>• XE7740 (4 U) <br>• 20 kW Rack-CDU drawer (4 U) <br>• 32 U spare | Rear-door heat exchanger    | ≈ 40 kW peak  |
+| **Rack-A – IR7000-Dev**| Empty IR7000 ORv3 (44 OU)    | • XE9780L (4 U) <br>• XE7740 (4 U) <br>• 20 kW Rack-CDU drawer (4 U) <br>• 32 U spare | Rear-door heat exchanger    | ≈ 50 kW peak  |
 | **Rack-B – IR7000-NVL72**| XE9712 integrated rack     | Pre-loaded NVL72 stack (9 U switch + 24 U compute)            | Rear-door heat exchanger    | ≈ 150 kW peak  |
 
 *Both racks are 800 mm W × 1200 mm D × 44 OU and roll in on casters.*
