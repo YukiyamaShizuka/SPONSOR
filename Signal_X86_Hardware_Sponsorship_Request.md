@@ -77,7 +77,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 | **GPU**           | 8 × NVIDIA RTX PRO 6000 _Blackwell Server Edition_                         |
 | **OS Storage**    | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD                                |
 | **Data Storage**  | 8 × Solidigm D7-PS1010 15.36 TB E3.S Gen5                                  |
-| **OCP Network**   | 1 × OCP NIC card 3.0 (LR-LINK LRES3007PF-OCP, 4 × 10G SFP+, Intel XL710)                                                       |
+| **OCP Network**   | 1 × OCP NIC card 3.0 (GRIS GE-OCP3-E810-25G4, 4 × 25 G SFP28, Intel E810)                                                       |
 | **Cooling Kit**   | • Server-integrated air-cooling fans & dust filters<br>• 19″→ORv3 ReadyRails |
 | **OS**            | Ubuntu Server LTS                                                          |
 
@@ -86,16 +86,17 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 ## Required Server Node — 01 Node  
 **Role:** _Multi-path CUDA compilation, isolated kernel instruction synthesis_
 
-| Component       | Spec                                                                       |
-|-----------------|----------------------------------------------------------------------------|
-| **Model**       | **Dell PowerEdge XE9780L**                                                 |
-| **CPU**         | 2 × Intel Xeon 6980P (128 cores each, 256 cores total)                     |
-| **Memory**      | 4 TB DDR5-6400 ECC RDIMM                                                    |
-| **GPU**         | 16 × NVIDIA Blackwell Ultra (HGX B300 NVL16 with NVIDIA NVLink)             |
-| **OS Storage**  | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD                                |
-| **Data Storage**| 16 × Solidigm D7-PS1010 7.68 TB NVMe E3.S GEN5                             |
-| **Cooling Kit** | • **Rack-level DLC kit** (shares 30 kW CDU in same rack) <br>• ORv3 rail adapter + blind-mate QD |
-| **OS**          | Ubuntu Server LTS                                                          |
+| Component         | Spec                                                                                                   |
+|-------------------|--------------------------------------------------------------------------------------------------------|
+| **Model**         | **Dell PowerEdge XE9780L**                                                                             |
+| **CPU**           | 2 × Intel Xeon 6980P (128 cores each, 256 cores total)                                                 |
+| **Memory**        | 4 TB DDR5-6400 ECC RDIMM                                                                               |
+| **GPU**           | 16 × NVIDIA Blackwell Ultra (HGX B300 NVL16 with NVIDIA NVLink)                                        |
+| **OS Storage**    | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD                                                           |
+| **Data Storage**  | 16 × Solidigm D7-PS1010 7.68 TB NVMe E3.S GEN5                                                        |
+| **OCP Network**   | 1 × OCP NIC card 3.0 (GRIS GE-OCP3-E810-25G4, 4 × 25 G SFP28, Intel E810)                                       |
+| **Cooling Kit**   | • **Rack-level DLC kit** (shares 30 kW CDU in same rack)<br>• ORv3 rail adapter + blind-mate QD        |
+| **OS**            | Ubuntu Server LTS                                                                                      |
 
 ---
 
