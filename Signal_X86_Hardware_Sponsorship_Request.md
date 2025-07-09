@@ -157,17 +157,19 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 
 ## 🧰 Peripheral Stack
 
-| Item                                                     | Quantity |
-|----------------------------------------------------------|----------|
-| ROG RX98 Wireless Keyboard (White)                       | 2        |
-| ROG Keris II Ace Wireless Mouse (White)                        | 2        |
-| Edifier Halo SoundBar (Sakura Pink)                      | 2        |
-| NVIDIA H200 NVL PCIe GPU                                 | 2        |
-| NVIDIA RTX PRO 6000 Blackwell Workstation Edition (Retail Box) | 1        |
-| NVIDIA 2-Way NVLink Bridge (H200 NVL)                    | 3        |
-| ASUS ROG ZOOM CAT7 Ethernet Cable, 3 m                   | 3        |
-| 10 m Active Optical DisplayPort™ 2.1 Cable (e.g., StarTech™ Fiber DP2.1) | 4        |
-| KELONG YTR33160 UPS                                      | 2        |
+| Item                                                               | Quantity |
+|--------------------------------------------------------------------|----------|
+| ROG RX98 Wireless Keyboard (White)                                 | 2        |
+| ROG Keris II Ace Wireless Mouse (White)                            | 2        |
+| Edifier Halo SoundBar (Sakura Pink)                                | 2        |
+| NVIDIA H200 NVL PCIe GPU                                           | 2        |
+| NVIDIA RTX PRO 6000 Blackwell Workstation Edition (Retail Box)     | 1        |
+| NVIDIA 2-Way NVLink Bridge (H200 NVL)                              | 3        |
+| ASUS ROG ZOOM CAT7 Ethernet Cable, 3 m                             | 3        |
+| 10 m Active Optical DisplayPort™ 2.1 Cable (e.g., StarTech™ Fiber DP2.1) | 4    |
+| phoossno UL CMP Plenum Rated 10M A-C Straight 180℃ | 1      |
+| StarTech 10-Port USB-C Hub (10G8A2CS-USB-C-HUB)                                 | 1        |
+| KELONG YTR33160 UPS                                                | 2        |
 
 ---
 
