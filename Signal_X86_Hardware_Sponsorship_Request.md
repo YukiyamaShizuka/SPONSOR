@@ -109,6 +109,22 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 | **Integrated CDU**| 100 kW dual-pump (2 N) + ORv3 blind-mate liquid bus-bar                       |
 | **OS**            | Ubuntu Server LTS                                                            |
 
+
+---
+
+## Topology Diagram
+
+```mermaid
+graph LR
+  subgraph Signal VM Runtime Testbed
+    Node00["🧩 00 Node: Dell PowerEdge XE7740"]
+    Node01["🏢 01 Node: Dell PowerEdge XE9780L"]
+    Node02["💠 02 Node: Dell PowerEdge XE9712 (NVL72)"]
+  end
+
+  Node00 --> Node01
+  Node00 --> Node02
+
 ---
 
 ## 🗄️ Rack-Level Layout  
