@@ -160,7 +160,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 | Item                                                     | Quantity |
 |----------------------------------------------------------|----------|
 | ROG RX98 Wireless Keyboard (White)                       | 2        |
-| ROG Keris II Ace Wireless Mouse                          | 2        |
+| ROG Keris II Ace Wireless Mouse (White)                        | 2        |
 | Edifier Halo SoundBar (Sakura Pink)                      | 2        |
 | NVIDIA H200 NVL PCIe GPU                                 | 2        |
 | NVIDIA RTX PRO 6000 Blackwell Workstation Edition (Retail Box) | 1        |
