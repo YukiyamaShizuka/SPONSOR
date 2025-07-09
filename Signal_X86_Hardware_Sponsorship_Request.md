@@ -77,7 +77,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 | **GPU**           | 8 × NVIDIA RTX PRO 6000 _Blackwell Server Edition_                         |
 | **OS Storage**    | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD                                |
 | **Data Storage**  | 8 × Solidigm D7-PS1010 15.36 TB E3.S Gen5                                  |
-| **OCP Network**   | 1 × OCP NIC card 3.0                                                        |
+| **OCP Network**   | 1 × OCP NIC card 3.0 (LR-LINK LRES3007PF-OCP, 4 × 10G SFP+, Intel XL710)                                                       |
 | **Cooling Kit**   | • Server-integrated air-cooling fans & dust filters<br>• 19″→ORv3 ReadyRails |
 | **OS**            | Ubuntu Server LTS                                                          |
 
@@ -112,19 +112,9 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 
 ---
 
-## Topology Diagram
+## 🗺️ Topology Diagram
 
-```mermaid
-graph LR
-  subgraph "Signal VM Runtime Testbed"
-    Node00["00 Node: Dell PowerEdge XE7740"]
-    Node01["01 Node: Dell PowerEdge XE9780L"]
-    Node02["02 Node: Dell PowerEdge XE9712 (NVL72)"]
-  end
-
-  Node00 --> Node01
-  Node00 --> Node02
-```
+![Signal VM Runtime Testbed Topology](IMG0000.PNG)
 
 ---
 
