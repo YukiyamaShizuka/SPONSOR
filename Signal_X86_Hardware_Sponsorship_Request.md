@@ -112,7 +112,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 
 ---
 
-## 🗺️ Topology Diagram
+## Topology Diagram
 
 ![Signal VM Runtime Testbed Topology](IMG0000.PNG)
 
