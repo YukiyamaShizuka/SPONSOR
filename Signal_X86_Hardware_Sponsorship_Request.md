@@ -115,7 +115,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 | Rack ID                | Frame                        | Contents                                                      | Cooling                     | IT Load        |
 |------------------------|------------------------------|---------------------------------------------------------------|-----------------------------|----------------|
 | **Rack-A – IR7000-Dev**| Empty IR7000 ORv3 (44 OU)    | • XE7740 (4 U) <br>• XE9780L (4 U) <br>• 20 kW Rack-CDU drawer (4 U) <br>• 32 U spare | Rear-door heat exchanger    | ≈ 50 kW peak  |
-| **Rack-B – IR7000-NVL72**| XE9712 integrated rack     | Pre-loaded NVL72 stack (9 U switch + 24 U compute)            | Rear-door heat exchanger    | ≈ 150 kW peak  |
+| **Rack-B – IR7000-NVL72**| XE9712 integrated rack     | Pre-loaded NVL72 stack (9 U switch + 24 U compute)            | Rear-door heat exchanger    | ≈ 180 kW peak  |
 
 *Both racks are 800 mm W × 1200 mm D × 44 OU and roll in on casters.*
 
@@ -125,7 +125,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 
 | Item                              | Qty                  | Spec / Notes                                                                                 |
 |-----------------------------------|----------------------|----------------------------------------------------------------------------------------------|
-| **Rear-Door Heat Exchangers**     | 2 × (one per rack)   | 50 kW (Rack-A) / 150 kW (Rack-B) capacity each; integrates to rack rear; closed-loop water interface |
+| **Rear-Door Heat Exchangers**     | 2 × (one per rack)   | 50 kW (Rack-A) / 180 kW (Rack-B) capacity each; integrates to rack rear; closed-loop water interface |
 | **Indoor Packaged Water Chillers**| 3 × 100 kW (N+1)     | Enclosed units; footprint ≈ 1 m² each; acoustic insulation, noise ≤ 50 dBA; total 300 kW      |
 | **Closed-Loop Chilled Water**     | —                    | 30% ethylene-glycol / DI-water; flow 500 L min⁻¹; 25 °C → 35 °C                               |
 | **Pump Station**                  | 2 × 7.5 kW (2 N)     | Stainless-steel booster pumps; ΔP ≈ 280 kPa                                                  |
