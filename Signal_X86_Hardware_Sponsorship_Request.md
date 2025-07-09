@@ -73,11 +73,11 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 |-----------------|----------------------------------------------------------------------------|
 | **Model**       | **Dell PowerEdge XE7740**                                                  |
 | **CPU**         | 2 × Intel Xeon 6788P (86 cores each, 172 cores total)                      |
-| **Memory**      | 4 TB DDR5-6400 ECC RDIMM                                                    |
+| **Memory**      | 4 TB DDR5-6400 ECC RDIMM                                                   |
 | **GPU**         | 8 × NVIDIA RTX PRO 6000 _Blackwell Server Edition_                         |
 | **OS Storage**  | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD                                |
 | **Data Storage**| 8 × Solidigm D7-PS1010 15.36 TB E3.S Gen5                                  |
-| **Cooling Kit** | • Dell **DLC Node Kit** (cold-plates + micro-pumps) <br>• **19″→ORv3 ReadyRails** + blind-mate QD hose set |
+| **Cooling Kit** | • Server-integrated air-cooling fans & dust filters<br>• 19″→ORv3 ReadyRails   |
 | **OS**          | Ubuntu Server LTS                                                          |
 
 ---
@@ -93,7 +93,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 | **GPU**         | 16 × NVIDIA Blackwell Ultra (HGX B300 NVL16 with NVIDIA NVLink)             |
 | **OS Storage**  | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD                                |
 | **Data Storage**| 16 × Solidigm D7-PS1010 7.68 TB NVMe E3.S GEN5                             |
-| **Cooling Kit** | • **Rack-level DLC kit** (shares 20 kW CDU in same rack) <br>• ORv3 rail adapter + blind-mate QD |
+| **Cooling Kit** | • **Rack-level DLC kit** (shares 30 kW CDU in same rack) <br>• ORv3 rail adapter + blind-mate QD |
 | **OS**          | Ubuntu Server LTS                                                          |
 
 ---
@@ -114,7 +114,7 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 
 | Rack ID                | Frame                        | Contents                                                      | Cooling                     | IT Load        |
 |------------------------|------------------------------|---------------------------------------------------------------|-----------------------------|----------------|
-| **Rack-A – IR7000-Dev**| Empty IR7000 ORv3 (44 OU)    | • XE7740 (4 U) <br>• XE9780L (4 U) <br>• 20 kW Rack-CDU drawer (4 U) <br>• 32 U spare | Rear-door heat exchanger    | ≈ 50 kW peak  |
+| **Rack-A – IR7000-Dev**| Empty IR7000 ORv3 (44 OU)    | • XE7740 (4 U) <br>• XE9780L (4 U) <br>• 30 kW Rack-CDU drawer (4 U) <br>• 32 U spare | Rear-door heat exchanger    | ≈ 50 kW peak  |
 | **Rack-B – IR7000-NVL72**| XE9712 integrated rack     | Pre-loaded NVL72 stack (9 U switch + 24 U compute)            | Rear-door heat exchanger    | ≈ 180 kW peak  |
 
 *Both racks are 800 mm W × 1200 mm D × 44 OU and roll in on casters.*
