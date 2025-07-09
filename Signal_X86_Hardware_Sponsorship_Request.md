@@ -69,16 +69,17 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 ## 🧩 Core Workstation Node — 00 Node  
 **Build Target:** `Signal VM Runtime Testbed`
 
-| Component       | Spec                                                                       |
-|-----------------|----------------------------------------------------------------------------|
-| **Model**       | **Dell PowerEdge XE7740**                                                  |
-| **CPU**         | 2 × Intel Xeon 6788P (86 cores each, 172 cores total)                      |
-| **Memory**      | 4 TB DDR5-6400 ECC RDIMM                                                   |
-| **GPU**         | 8 × NVIDIA RTX PRO 6000 _Blackwell Server Edition_                         |
-| **OS Storage**  | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD                                |
-| **Data Storage**| 8 × Solidigm D7-PS1010 15.36 TB E3.S Gen5                                  |
-| **Cooling Kit** | • Server-integrated air-cooling fans & dust filters<br>• 19″→ORv3 ReadyRails   |
-| **OS**          | Ubuntu Server LTS                                                          |
+| Component         | Spec                                                                       |
+|-------------------|----------------------------------------------------------------------------|
+| **Model**         | **Dell PowerEdge XE7740**                                                  |
+| **CPU**           | 2 × Intel Xeon 6788P (86 cores each, 172 cores total)                      |
+| **Memory**        | 4 TB DDR5-6400 ECC RDIMM                                                   |
+| **GPU**           | 8 × NVIDIA RTX PRO 6000 _Blackwell Server Edition_                         |
+| **OS Storage**    | 2 × Samsung 9100 Pro 4 TB PCIe 5.0 NVMe SSD                                |
+| **Data Storage**  | 8 × Solidigm D7-PS1010 15.36 TB E3.S Gen5                                  |
+| **OCP Network**   | 1 × OCP NIC card 3.0                                                        |
+| **Cooling Kit**   | • Server-integrated air-cooling fans & dust filters<br>• 19″→ORv3 ReadyRails |
+| **OS**            | Ubuntu Server LTS                                                          |
 
 ---
 
