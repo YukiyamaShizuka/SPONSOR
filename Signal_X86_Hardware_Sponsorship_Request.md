@@ -163,10 +163,10 @@ Additional capabilities and advantages remain unexplored — and can only be unl
 - **GPU**: 2 × NVIDIA H200 NVL PCIe GPU; 1 × NVIDIA RTX PRO 6000 Blackwell Workstation Edition(Retail Box)
 - **Cables:**    
  | Item                   | Qty | Specification                                                      |
-|------------------------|-----|--------------------------------------------------------------------|
-| **NVIDIA NVLink Bridges**  | 3   | NVIDIA 2-Way NVLink Bridge (H200 NVL)                               |
-| **Ethernet Cables**        | 3   | ASUS ROG ZOOM CAT7, 3 m                                            |
-| **Display Cables**         | 4   | 10 m Active Optical DisplayPort™ 2.1 Cables (e.g., StarTech™ Fiber DP2.1) |
+ |------------------------|-----|--------------------------------------------------------------------|
+ | **NVIDIA NVLink Bridges**  | 3   | NVIDIA 2-Way NVLink Bridge (H200 NVL)                               |
+ | **Ethernet Cables**        | 3   | ASUS ROG ZOOM CAT7, 3 m                                            |
+ | **Display Cables**         | 4   | 10 m Active Optical DisplayPort™ 2.1 Cables (e.g., StarTech™ Fiber DP2.1) |
 - **UPS:** 2 × KELONG YTR33160
 
 ---
