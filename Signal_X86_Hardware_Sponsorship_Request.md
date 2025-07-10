@@ -74,7 +74,7 @@ A single rack-level accelerator (e.g., NVL72 / H200 class) is enough to demonstr
 
 — **Shizuka**  
 Founder & Lead Architect  
-shizuka@treeos.art  |  +1-555-TREE-AI-01
+En.Farron@Outlook.com  |  +1-555-TREE-AI-01
 
 ---
 
