@@ -13,56 +13,68 @@ What I seek is a precisely structured, bare-metal architecture to test a next-ge
 
 ---
 
-## Project Overview
+## Self-Updating Neural Network Core  
+**Executive One-Pager for Early Partners**
+
+---
+
+## Project Overview  
 
 **Signal** is not built on C, C++, or LLVM — it begins at the machine level:  
 page-based memory control, scalar/vector loop execution, and fully observable instruction traces.  
-It is transparent by design, eliminating runtime ambiguity and dismantling the very notion of the “black box” in system execution.
+It is transparent by design, eliminating runtime ambiguity and dismantling the very notion of the “black box” in system execution.  
 
 **SapClarify** embeds computable AI logic directly into the system kernel,  
 keeping all runtime agents observable, reactive, and introspective — without opaque calls or hidden inference layers.  
 
-It enables a fully auditable and self-correcting AI framework by integrating the following mechanisms:  
-- **Transparent Execution Logs:** All inference activities, including token-level transitions and intermediate decision states, are recorded in real time.  
-- **Corrective Feedback Capture:** When a user identifies and corrects an error, the system logs the correction as a learning event, storing both the original output and the preferred revision.  
-- **Incremental Self-Adaptation:** After accumulating sufficient correction patterns, the system performs local updates on specific logic nodes, refining its responses over time without external retraining.  
-- **Compliance-Ready Traceability:** Every model decision can be traced to its logical path and revision history, enabling external audit without exposing raw model weights or proprietary data.  
-
-This architecture establishes the foundation for AI systems that are not only transparent and debuggable, but also capable of evolving responsibly through verified, user-guided corrections.
-
 **Tree** is the architectural expression of this vision —  
 an operating-system structure born from a language that does not hide,  
 and an AI runtime that does not guess.  
-It registers all files as Leaf nodes on distinct branches, and dynamically generates execution paths to pre-load only the necessary Leaf modules into memory.  
-This path-driven architecture enables seamless coexistence of multiple language versions, rapid branch switching, and low-cost virtual machines through virtual path mapping —  
-making Tree inherently capable of modular isolation, fast-loading micro-runtimes, and high-efficiency compute orchestration at system scale.
-
-Together, **SapClarify** and **Tree** form a fully deterministic, transparent, and scalable foundation for long-term system evolution —  
-where runtime agents can self-correct via feedback logging, and file execution flows along predeclared paths of registered Leaf nodes,  
-allowing multi-version language coexistence and low-cost virtual machine abstraction.  
-
-These capabilities are inseparable from their underlying substrate: **Signal**, a language designed from the machine level up  
-to provide total traceability, memory clarity, and event-linearity without legacy constraints.  
-
-This level of deterministic structure and introspective behavior cannot be emulated in cloud infrastructure or virtual machines.  
-The hardware I request is not for prestige — it is required to faithfully reproduce Signal VM timing behavior, trace latency,  
-and architectural response at the lowest observable level.  
-Additional capabilities and advantages remain unexplored — and can only be unlocked with the proper hardware foundation.
+It registers all files as Leaf nodes on distinct branches, then dynamically generates execution paths to pre-load only the necessary Leaf modules into memory.  
+This path-driven architecture enables seamless coexistence of multiple language versions, rapid branch switching, and low-cost virtual machines through virtual path mapping — making Tree inherently capable of modular isolation, fast-loading micro-runtimes, and high-efficiency compute orchestration at system scale.
 
 ---
 
-## Unique Advantages at a Glance
+## How the Self-Updating Neural Network Works  
+
+| Phase | Mechanism | Auditability |
+|-------|-----------|--------------|
+| **Collect** | Internal metrics, latency spikes, user clicks, energy logs, or market data are converted into numerical rewards. | Each reward is timestamp-hashed and written as a SapClarify transaction. |
+| **Evaluate** | A *Utility-Eval Leaf* weighs the reward against safety gates, budget constraints, and performance objectives. | Decision rationale is stored with the reward, forming a full cause-effect chain. |
+| **Patch** | Only the relevant Leaf receives a precise Δ-weight update; there is **no** global back-propagation run. | The patch itself is a human-readable, diff-style SapClarify entry. |
+| **Snapshot** | When cumulative change exceeds a threshold, the system auto-snapshots, runs regression tests, and requests human co-signature. | Snapshots are immutable, replayable, and linked to the exact Δ-weight history. |
+
+**Outcome:** The model adapts in hours, not weeks, while each modification remains fully traceable — satisfying explainability and audit mandates by construction.
+
+---
+
+## Unique Advantages at a Glance  
 
 | Stack Element | Breakthrough | Why It Matters to You |
 |---------------|-------------|-----------------------|
-| **Signal** | *First instruction-level path-trace language* — all scalar/vector operations and memory pages are natively observable and reproducible | Ensures deterministic execution and root-cause traceability; no black-box behaviors |
+| **Signal** | *First instruction-level path-trace language* — all scalar/vector operations and memory pages are natively observable and reproducible | Ensures deterministic execution and root-cause traceability; no black-box behaviours |
 | **SapClarify** | *Self-learning AI kernel protocol* — captures weight diffs and user-driven corrections directly into the runtime log | Enables transparent model updates and self-auditing AI, fulfilling regulatory demands without external wrappers |
-| **TreeOS** | *Path-anchored file/event runtime with lock-free scheduling* | Allows seamless multi-version coexistence, predictable execution paths, and near-zero overhead virtualization |
+| **TreeOS** | *Path-anchored file/event runtime with lock-free scheduling* | Allows seamless multi-version coexistence, predictable execution paths, and near-zero-overhead virtualization |
 | **Integrated Stack** | Built-in introspection across language, kernel, and OS layers | Achieves native compliance with the 2026 EU AI Act’s traceability, explainability, and deterministic audit mandates |
 
+---
+
+## Partnership Opportunity  
+
+We are seeking **compute sponsorship and seed capital** to scale the prototype from millions to billions of parameters and to publish the first open audit of a self-updating model.  
+A single rack-level accelerator (e.g., NVL72 / H200 class) is enough to demonstrate industry-scale viability within this calendar quarter.
+
 > **Gold-Line Pitch**  
-> *USD 10 million vs. 2 years:* one budget line (≈ 0.0114 % of Microsoft’s FY-2025 AI CapEx) secures **20 years** of kernel-level influence — or you pay catch-up costs in 2027 when compliance audits start issuing fines.
+> *USD 10 million vs. 2 years:* one budget line (≈ 0.0114 % of Microsoft’s FY-2025 AI CapEx) secures **20 years** of kernel-level influence — or you pay catch-up costs in 2027 when compliance audits start issuing fines.  
 > **The earlier the sponsorship arrives, the greater the chance of passing the 2027 AI regulatory audits smoothly.**
+
+---
+
+**Let’s schedule a 30-minute technical briefing to explore fit and next steps.**  
+
+— **Shizuka**  
+Founder & Lead Architect  
+shizuka@treeos.art  |  +1-555-TREE-AI-01
 
 ---
 
